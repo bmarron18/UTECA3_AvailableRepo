@@ -1,52 +1,52 @@
-							LESSON PLAN  (50 min)
+							LESSON PLAN  (4 hrs -40 min)
 
 Docente:		Bruce D. Marron
 Ciclo: 			25-3
 Materia: 		Inglés IX
-Curso:			IT0942
+Curso:			IT0939
 Licenciatura: 	Interpretación y Traducción
-Horario:		Miércoles 18:00 – 21:00
-Grupo:			9A
+Grupo:			9A+B+C
 
 
 
 #####################
-You must become a language designer. These first two assignments will introduce you to some foundational concepts in the history of marketing and in linguistics.
+HW_01 [Due: 13 May 2025]
 
--- HW_01.1	Due: 23 Jan 2025
-Read the following excerpt from Ch.1, "Introducing the History of Marketing Theory and Practice from Marketing: A Critical Textbook (pp. 1-6):
-	* 1.1 Introduction
-	* 1.2 The Early Development of Marketing Thought
-	* 1.3 The First Courses in Marketing in the Early Twentieth Century
-	* 1.4 Marketing, Efficiency and Utility Creation
+--- Task 1
+Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 5-11):
 	
-Write a one-page summary of the excerpt in English and translate the summary into Spanish. 
-
-For this assignment and for all subsequent assignments in this class, the following format requirements apply:
-	* Papers must be double-spaced, have 0.5 inch margins and 12-point Times New Roman font
-	* In the upper right-hand corner please place your name, the course ID (followed by my last name in parentheses), the assignment ID, and the date. That is, your upper right-hand corner should look like this:
-
-                         <Your Name>
-                         IT0942 (Marron)
-						 <Assignment ID>
-                         Date
-
-	* The title of your paper should be centered in bold.
-	* Unless told otherwise, you must include references in a standard format (eg, APA)
-	* The assignment must be printed for submission although students should save a copy in PDF format.
-
--- HW_01.2 [Due: 23 Jan 2025]
-Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 4-8):
-	*Introduction
-	Part I – Linguistics and Language Research
-	* 1. Introduction
+	  1. Introduction
 	  2. The Components of Language
-		* 2.1 Phonetics (Sounds)
-		* 2.2 Morphology and Semantics (The Structure and Meaning of Words)
-		* 2.3 Syntax and Grammar (Sentence Structure)
-		* 2.4 Discourse (Text)
+		 2.1 Phonetics (Sounds)
+		 2.2 Morphology and Semantics (The Structure and Meaning of Words)
+		 2.3 Syntax and Grammar (Sentence Structure)
+		 2.4 Discourse (Text)
+		 2.5 Pragmatics (Use)
+		 2.6 Cross Cultural Linguistics and Sociolinguistics
 
-Write a one-page summary of the excerpt in English and translate the summary into Spanish. The format requirements above apply.
+Write a one+-page summary of the excerpt in English and translate the summary into Spanish. Be prepared to discuss your summary in class.
+
+--- Task 2
+Reflect on the concept of language (its function, its components, its transmittal, etc). In a one+-page paper, compare and contrast Spanish, English and Chinese. What strikes you as fundamnetal similarities and differences between these three languages?  Frame your responses with reference to the concept of language and be prepared to discuss your responses in class.
+
+
+--- Task 3
+Work through the complete Study Guide in R. Murphy's, "English Grammar in Use". List every section with which you may need review. The Study Guide can be found on p. 326. The key to the Study Guide is given on p. 372.
+
+
+NB.
+For this assignment and for all subsequent written assignments in this class (unless duly noted), we will use a modified, APA formatting style. Specifically, documents will be:
+	* Single-spaced
+	* 0.5 inch margins (left and right)
+	* 12-point Times New Roman font
+
+References, if needed, in a standard format (eg, APA)
+See "StyleGuide_MarronDocs.pdf" for additional formatting requirements
+	
+Assignments always must be printed and submitted in class (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
 
 
 #######
@@ -58,33 +58,65 @@ Today
 Intros
 
 Go thru
-	* Course description and scope
-	* Course sequence
 	* Course contract
+	* Course description, scope and sequence
+
+	* Grading rubrics
+	* Teams "Class Materials"
+	
 
 
 
----- Content 
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
 
-"Good marketing makes the company look smart. Great marketing makes the customer feel smart.” 
-		– Joe Chernov
+--- New
 
-Green Machine Biofules, Inc.
+The fundamental problem of communication is that of reproducing at one point either exactly or approximately 
+a message selected at another point.
+		--- Claude Shannon, 1948
 
-Round Table
+
+
+**Round Table
 	What is language?
-	Does language influence behavior? dictate behavior?
-	What is creative language?
-	What is a language deigner?
-	What is marketing?
+	What are the components of language? its function? 
+	What types of language are there? Why do these exist?
+	What is creative language? scientific? legal? academic? economic?
+	What types of languages and dialects are there? Why do these exist?
+	
 
-Reading techniques
+**Reading techniques
 	* slow and focused
 	* rapid scan
 	* speed reading
 	
 Speed Reading Practice
-	Ch.1, "Introducing the History of Marketing Theory and Practice from Marketing: A Critical Textbook (pp. 1-6)
+	Konrod paper
+	
+	
+	
+**R Murphy's, "English Grammar in Use"
+	Overview of text
+	Sample lessons to show structure
+
+	Study Guide p. 326	
+	Key to Exercises p 336
+	Key Study Guide p 372
+	
+
+--- Coming up
+
+*APA and Professional Voice
+
+*Strunk and White’s. “Elements of Style”
+Look briefly at the grammar	
+	I. ELEMENTARY RULES OF USAGE	
+Read thru
+	II - Elementary Principles of Composition
+
+* Mackay: Communication, Info Theory, and Simple Language Models
+
 
 
 ---- Work time
