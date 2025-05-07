@@ -41,7 +41,14 @@ For this assignment and for all subsequent written assignments in this class (un
 	* 12-point Times New Roman font
 
 References, if needed, in a standard format (eg, APA)
-See "StyleGuide_MarronDocs.pdf" for additional formatting requirements
+See "StyleGuide_Marron.pdf" in
+
+	Reference Docs
+		==> Grammar
+			==> StyleGuides
+				==> Marron_StyleGuide
+
+for additional formatting requirements
 	
 Assignments always must be printed and submitted in class (unless duly noted). Students should save copies of all assignments in PDF format.
 
@@ -62,7 +69,7 @@ Go thru
 	* Course description, scope and sequence
 
 	* Grading rubrics
-	* Teams "Class Materials"
+	* Teams "Class Materials"			
 	
 
 
@@ -76,8 +83,15 @@ The fundamental problem of communication is that of reproducing at one point eit
 		--- Claude Shannon, 1948
 
 
+		
+We are drowning in information, while starving for wisdom. The world henceforth will be run by synthesizers, people able to put together the right information at the right time, think critically about it, and make important choices wisely.
+	-- E. O. Wilson (Biologist)
 
-**Round Table
+
+
+
+**Round Table							<== 9B+C
+										<== 10A
 	What is language?
 	What are the components of language? its function? 
 	What types of language are there? Why do these exist?
@@ -91,7 +105,7 @@ The fundamental problem of communication is that of reproducing at one point eit
 	* speed reading
 	
 Speed Reading Practice
-	Konrod paper
+	Konrod paper					<== 9A
 	
 	
 	
@@ -104,6 +118,17 @@ Speed Reading Practice
 	Key Study Guide p 372
 	
 
+*** Mackay: Communication, Info Theory, and Simple Language Models
+	Mitchell slide
+	MacKay slide
+	
+	
+** HW and Marron Style Guide
+
+
+---- Work time
+
+
 --- Coming up
 
 *APA and Professional Voice
@@ -114,11 +139,10 @@ Look briefly at the grammar
 Read thru
 	II - Elementary Principles of Composition
 
-* Mackay: Communication, Info Theory, and Simple Language Models
 
 
 
----- Work time
+
 
 
 
