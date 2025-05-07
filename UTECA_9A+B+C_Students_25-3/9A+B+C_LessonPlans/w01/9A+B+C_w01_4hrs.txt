@@ -72,8 +72,7 @@ Go thru
 
 --- New
 
-The fundamental problem of communication is that of reproducing at one point either exactly or approximately 
-a message selected at another point.
+The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point.
 		--- Claude Shannon, 1948
 
 
