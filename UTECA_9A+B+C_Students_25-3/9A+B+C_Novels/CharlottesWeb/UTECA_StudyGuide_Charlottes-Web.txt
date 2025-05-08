@@ -97,7 +97,76 @@ Vocab
 
 
 --Qs
-How would you describe Wilbur's homecoming?
+How would you describe Wilbur's homecoming?(to) accumulate
+anomaly
+(to) anthropomorphize
+archetypal
+articulation
+assertive
+augment
+bias
+(to) bifurcate
+biogeophysical
+biome
+boreal
+cascade
+cognitive
+congruent
+circumpolar
+(to) converge
+cryptography
+cypher
+decarbonization
+(to) degrade
+demographic
+deterministic
+discernible
+effective
+embedded
+empirical
+(to) enhance
+entity
+entropy
+firestorm
+function (math.)
+generative model (math.)
+granularity
+groundbreaking
+incongruent
+indistinguishable
+infrastructure
+innate
+information theory
+irreversible
+larynx
+lexicon
+logarithm
+millennia
+(to) mimic
+morphology
+nonlinear
+(to) oscillate
+permutation
+phoneme
+planetary threshold
+probability
+pragmatic
+(to) prevail
+prototype
+redundancy
+resilience
+rhetorical
+salient
+self-reinforcing feedbacks
+seminal
+spurious
+stratigraphy
+tangible
+thermodynamic
+tipping point
+(to) transgress
+(to) underestimate
+(to) utte
 The seasons move rapidly. Avery and Fern come to do some sledding. For Avery, what is the most fun there is? And for Fern?
 What is Fern thinking about weeks after summer?
 What happens to Templeton as a result of WIlbur keeping his promise?
@@ -444,7 +513,76 @@ Orientation Qs
     How is Wilbur like a little kid? What does he want before he goes to sleep?
     What story does Charlotte tell Wilbur?
     What is the second story Charlotte tells Wilbur?
-    Why is Charlotte using the word 'cousins' to describe other spiders?
+    Why is Charlotte using the word 'cousins' to describe ot(to) accumulate
+anomaly
+(to) anthropomorphize
+archetypal
+articulation
+assertive
+augment
+bias
+(to) bifurcate
+biogeophysical
+biome
+boreal
+cascade
+cognitive
+congruent
+circumpolar
+(to) converge
+cryptography
+cypher
+decarbonization
+(to) degrade
+demographic
+deterministic
+discernible
+effective
+embedded
+empirical
+(to) enhance
+entity
+entropy
+firestorm
+function (math.)
+generative model (math.)
+granularity
+groundbreaking
+incongruent
+indistinguishable
+infrastructure
+innate
+information theory
+irreversible
+larynx
+lexicon
+logarithm
+millennia
+(to) mimic
+morphology
+nonlinear
+(to) oscillate
+permutation
+phoneme
+planetary threshold
+probability
+pragmatic
+(to) prevail
+prototype
+redundancy
+resilience
+rhetorical
+salient
+self-reinforcing feedbacks
+seminal
+spurious
+stratigraphy
+tangible
+thermodynamic
+tipping point
+(to) transgress
+(to) underestimate
+(to) utteher spiders?
     What happens to Wilbur when Charlotte sings her song?
     Look at the lyrics of the song. What do they express?
 	Why is the chapter called, 'Good Progress?'

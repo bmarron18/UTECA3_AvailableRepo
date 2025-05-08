@@ -1,0 +1,116 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9A+B+C
+
+
+
+#####################
+HW_02 [Due: 20 May 2025]
+
+--- Task 1
+Summarize the Seiffert paper
+
+
+--- Task 2
+Read Chap I - XI Charlottes Web
+
+
+--- Task 3
+Vocab_01 English definition; Spanish word translation
+
+
+
+#######
+Today
+#######
+
+---- Open 
+
+		
+	
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+	Info theory
+
+
+--- New
+** 02_MacKay_LanguageModels+Enigma
+	Simple Language Models
+	Zipf's Law
+	Dirichlet process
+	not random / redundant p.7
+	Bayesian tools used in AI
+
+** 03_Steffen et al. - 2018 - Trajectories of the Earth System in the Anthropocene
+	tackling scientific papers
+	Abstract, Intro, Conclusion
+	Go thru
+
+
+** Charlotte's Web
+	Holographic learning with the themes
+	Chapter summaries (i) translate, and then (ii) ChatGPT rewrite
+	Socratic seminar with questions
+	
+
+Important Themes --------
+1. Friendship
+The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true friendship.
+
+2. Life and Death
+The novel addresses the cycle of life and the inevitability of death. It explores how characters come to terms with mortality and the impact of death on the living.
+
+3. Courage and Sacrifice
+Courage and sacrifice are prominent in the novel, particularly through Charlotte's actions to save Wilbur. Her bravery and willingness to sacrifice her own well-being for her friend are central to the story's message.
+
+4. Identity and Self-Worth
+The theme of identity and self-worth is explored through Wilbur’s journey to understand his place in the world and his value. Wilbur’s feelings of inadequacy and his journey towards self-acceptance are key aspects of this theme.
+
+5. The Power of Words
+The novel highlights the impact of words and communication, particularly through Charlotte’s web messages. The power of words to influence, inspire, and affect change is a key theme.
+
+6. Kindness and Compassion
+Kindness and compassion are recurring themes in the novel, shown through the characters’ interactions and their responses to each other’s needs.
+
+
+** Vocabulary
+	Vocab_01-1P
+	72 words from Readings 01, 02, 03
+	
+	Vocab_02-1P
+	106 words from Charlottes Web
+	Chapters I thru XI
+
+
+
+---- Work time
+
+
+--- Coming up
+
+** Strunk and White’s. “Elements of Style”
+	I 	ELEMENTARY RULES OF USAGE	
+	II	Elementary Principles of Composition
+
+** Critique
+	Chesapeake College 
+	Land of the Free
+	
+**APA and Professional Voice
+
+** Legal docs 1
+
+
+
+
+
+
+
