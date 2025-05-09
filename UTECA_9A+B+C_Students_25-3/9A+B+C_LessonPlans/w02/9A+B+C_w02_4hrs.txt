@@ -7,22 +7,38 @@ Curso:			IT0939
 Licenciatura: 	Interpretación y Traducción
 Grupo:			9A+B+C
 
-
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
 
 #####################
 HW_02 [Due: 20 May 2025]
 
 --- Task 1
-Summarize the Seiffert paper
+With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, answer the following questions:
 
-
+	1. How does Claude Shannon view the process of communication?
+	2. In Indo-European languages, a message can be defined as a sequence of words where each word has 
+	frequency or probability of occurrence. Shannon discovered a way to measure the information content of 
+	messages. Explain why completely reduntant messages or completely random messages contain virtually no 
+	information.
+	3. Based on information theory, what types of messages contain the maximum amount of information?
+	4. What is Zipf's Law?
+	5. Give an example of a generative model for languages.
+	
 --- Task 2
-Read Chap I - XI Charlottes Web
+Read the paper, "Trajectories of the Earth System in the Anthropocene" (03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene). By focusing on the Abstract, Introduction, and Conclusions sections of the paper, write a one+-paragraph summary of the entire paper in English.
 
 
 --- Task 3
-Vocab_01 English definition; Spanish word translation
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_01.txt. Vocab_01.txt is a list of 72 words from Readings 01, 02, 03.
 
+
+--- Task 4
+Read Chapters I through XI of "Charlotte's Web." Be prepared to participate in a Socratic-style seminar that i) highlights important events as plot elements, ii) analyzes characters and their motivations, iii) evaluates stylistic elements, and iv) critiques the author's choices and style. Ultimately, you will write a full critique of the novel.
 
 
 #######
@@ -38,6 +54,8 @@ Today
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
+	Konrod paper
+	Compare/Contrast English, Spanish, Chinese paper
 	Info theory
 
 
@@ -47,38 +65,49 @@ Today
 	Zipf's Law
 	Dirichlet process
 	not random / redundant p.7
-	Bayesian tools used in AI
+	why? Bayesian tools used in AI
 
-** 03_Steffen et al. - 2018 - Trajectories of the Earth System in the Anthropocene
+** 03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene
 	tackling scientific papers
-	Abstract, Intro, Conclusion
+	focus on Abstract, Intro, Conclusion
 	Go thru
 
 
-** Charlotte's Web
+** Charlotte's Web (in two weeks)
 	Holographic learning with the themes
 	Chapter summaries (i) translate, and then (ii) ChatGPT rewrite
 	Socratic seminar with questions
+	In-class reading
+	Final critique
 	
 
 Important Themes --------
 1. Friendship
-The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true friendship.
+	The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and 
+	Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true 
+	friendship.
 
 2. Life and Death
-The novel addresses the cycle of life and the inevitability of death. It explores how characters come to terms with mortality and the impact of death on the living.
+	The novel addresses the cycle of life and the inevitability of death. It explores how characters come 
+	to terms with mortality and the impact of death on the living.
 
 3. Courage and Sacrifice
-Courage and sacrifice are prominent in the novel, particularly through Charlotte's actions to save Wilbur. Her bravery and willingness to sacrifice her own well-being for her friend are central to the story's message.
+	Courage and sacrifice are prominent in the novel, particularly through Charlotte's actions to save 
+	Wilbur. Her bravery and willingness to sacrifice her own well-being for her friend are central to the 
+	story's message.
 
 4. Identity and Self-Worth
-The theme of identity and self-worth is explored through Wilbur’s journey to understand his place in the world and his value. Wilbur’s feelings of inadequacy and his journey towards self-acceptance are key aspects of this theme.
+	The theme of identity and self-worth is explored through Wilbur’s journey to understand his place in 
+	the world and his value. Wilbur’s feelings of inadequacy and his journey towards self-acceptance are 
+	key aspects of this theme.
 
 5. The Power of Words
-The novel highlights the impact of words and communication, particularly through Charlotte’s web messages. The power of words to influence, inspire, and affect change is a key theme.
+	The novel highlights the impact of words and communication, particularly through Charlotte’s web 
+	messages. The power of words to influence, inspire, and affect change is a key theme.
 
 6. Kindness and Compassion
-Kindness and compassion are recurring themes in the novel, shown through the characters’ interactions and their responses to each other’s needs.
+	Kindness and compassion are recurring themes in the novel, shown through the characters’ interactions 
+	and their responses to each other’s needs.
 
 
 ** Vocabulary
@@ -106,7 +135,7 @@ Kindness and compassion are recurring themes in the novel, shown through the cha
 	
 **APA and Professional Voice
 
-** Legal docs 1
+** Legal Docs 1
 
 
 

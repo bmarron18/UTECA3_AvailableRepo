@@ -8,7 +8,7 @@ Polished, professional writing
 	
 
 1. Formatting
-	margins; font; overall document layout
+	margins; font; headings; overall document layout
 
 2. Grammar/Punctuation/Spelling/Style
 	subject-verb agreement; tense usage; modifiers; punctuation marks; spelling; consistency of voice and 
@@ -48,7 +48,7 @@ Correct: I love coffee, and I drink it every morning.
 
 
 4. Structure
-	logical organization
+	logical organization and coherence
 
 Poor Structure: I love traveling. Here are tips for travel. Traveling is fun.
 Better Structure: Traveling is a passion of mine. In this article, I’ll share tips to make your trips more enjoyable.
