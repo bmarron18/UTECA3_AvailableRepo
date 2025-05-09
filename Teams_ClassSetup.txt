@@ -1,0 +1,38 @@
+
+
+#########
+Setting up 
+Teams Class Folders
+########################
+
+Class Materials
+	AdminDocs
+	ContentDocs
+		1P
+		2P
+		3P
+	GradingRubrics		<== individual rubrics
+	LectureNotes		<== folders by week
+	ReferenceDocs
+		AI_Translation
+			Python
+			Research
+			SampleOutputs
+			Prezy
+		Grammar
+			Academic Voice
+			Critique
+			ErrorCodes
+			StandardGrammar
+			StyleGuides	
+			Texts
+			YaleWritingCenter
+		ProfessionalConsulting
+			TransmittalLetters
+		RecordsManagement
+			
+		<Subject Specific Docs>
+		
+		
+		
+		
