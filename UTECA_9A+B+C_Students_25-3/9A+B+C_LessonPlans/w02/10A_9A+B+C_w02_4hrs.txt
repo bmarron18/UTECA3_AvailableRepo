@@ -2,17 +2,19 @@
 
 Docente:		Bruce D. Marron
 Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
 Materia: 		Inglés IX
 Curso:			IT0939
 Licenciatura: 	Interpretación y Traducción
 Grupo:			9A+B+C
 
-Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés X
-Curso:			IT1044
-Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
 
 #####################
 HW_02 [Due: 20 May 2025]
@@ -34,18 +36,34 @@ Read the paper, "Trajectories of the Earth System in the Anthropocene" (03_Steff
 
 
 --- Task 3
-Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_01.txt. Vocab_01.txt is a list of 72 words from Readings 01, 02, 03.
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_01.txt: a list of 72 words from Readings 01, 02, 03.
 
 
 --- Task 4
-Read Chapters I through XI of "Charlotte's Web." Be prepared to participate in a Socratic-style seminar that i) highlights important events as plot elements, ii) analyzes characters and their motivations, iii) evaluates stylistic elements, and iv) critiques the author's choices and style. Ultimately, you will write a full critique of the novel.
+Read Chapters I through XI of "Charlotte's Web." Be prepared to contribute to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 		analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) 	evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
+
+NB. Ultimately, you will write a full critique of this novel.
 
 
 #######
 Today
 #######
 
----- Open 
+---- Open
+
+“Overall, then, we will view CAS [complex adaptive systems] as systems composed of interacting agents described in terms of rules. These agents adapt by changing their rules as experience accumulates. In CAS, a major part of the environment of any given adaptive agent consists of other adaptive agents, so that a portion of any agent's efforts at adaptation is spent adapting to other adaptive agents. This one feature is a major source of the complex temporal patterns that CAS generate. To understand CAS we must understand these ever-changing patterns.”
+		― John H. Holland, Hidden Order: How Adaptation Builds Complexity (pioneer in genetic algorithms)
+
+
+“In a systemic world, there is no such thing as a discrete or isolated event - impacts cascade and spill over.”
+		― Roger Spitz, The Definitive Guide to Thriving on Disruption (futurist, techistentialist)
+
+[For more on existentialism,
+	https://plato.stanford.edu/entries/existentialism/]
 
 		
 	
@@ -73,15 +91,15 @@ Today
 	Go thru
 
 
-** Charlotte's Web (in two weeks)
+** Charlotte's Web (read in two weeks)
 	Holographic learning with the themes
 	Chapter summaries (i) translate, and then (ii) ChatGPT rewrite
 	Socratic seminar with questions
 	In-class reading
-	Final critique
+	Final written critique
 	
 
-Important Themes --------
+Important Themes in Charlotte's Web--------
 1. Friendship
 	The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and 
 	Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true 
@@ -115,7 +133,7 @@ Important Themes --------
 	72 words from Readings 01, 02, 03
 	
 	Vocab_02-1P
-	106 words from Charlottes Web
+	106 words from Charlotte's Web
 	Chapters I thru XI
 
 
@@ -136,6 +154,8 @@ Important Themes --------
 **APA and Professional Voice
 
 ** Legal Docs 1
+
+** Economic Docs 1
 
 
 
