@@ -96,7 +96,7 @@ Today
 
 ** Charlotte's Web (read in two weeks)
 	Holographic learning with the themes
-	Chapter summaries (i) translate, and then (ii) ChatGPT rewrite
+	Chapter summaries (i) translate existing, and then (ii) ChatGPT rewrite
 	Socratic seminar with questions
 	In-class reading
 	Final written critique
