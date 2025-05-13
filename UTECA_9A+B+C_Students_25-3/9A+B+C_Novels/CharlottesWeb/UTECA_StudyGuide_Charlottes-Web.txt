@@ -86,7 +86,7 @@ ChatGPT prompt--
 
 
 --- Chap 22 "A Warm Wind"
-
+[summary to be added]
 
 
 Vocab
@@ -97,76 +97,7 @@ Vocab
 
 
 --Qs
-How would you describe Wilbur's homecoming?(to) accumulate
-anomaly
-(to) anthropomorphize
-archetypal
-articulation
-assertive
-augment
-bias
-(to) bifurcate
-biogeophysical
-biome
-boreal
-cascade
-cognitive
-congruent
-circumpolar
-(to) converge
-cryptography
-cypher
-decarbonization
-(to) degrade
-demographic
-deterministic
-discernible
-effective
-embedded
-empirical
-(to) enhance
-entity
-entropy
-firestorm
-function (math.)
-generative model (math.)
-granularity
-groundbreaking
-incongruent
-indistinguishable
-infrastructure
-innate
-information theory
-irreversible
-larynx
-lexicon
-logarithm
-millennia
-(to) mimic
-morphology
-nonlinear
-(to) oscillate
-permutation
-phoneme
-planetary threshold
-probability
-pragmatic
-(to) prevail
-prototype
-redundancy
-resilience
-rhetorical
-salient
-self-reinforcing feedbacks
-seminal
-spurious
-stratigraphy
-tangible
-thermodynamic
-tipping point
-(to) transgress
-(to) underestimate
-(to) utte
+How would you describe Wilbur's homecoming?
 The seasons move rapidly. Avery and Fern come to do some sledding. For Avery, what is the most fun there is? And for Fern?
 What is Fern thinking about weeks after summer?
 What happens to Templeton as a result of WIlbur keeping his promise?
@@ -183,8 +114,7 @@ What is EB White's final epithet to Charlotte?
 
 
 --- Chap 21 "Last Day"
-
-
+[summary to be added]
 
 Vocab
 	(to) strain
@@ -216,8 +146,7 @@ How does the author paint Charlotte's death? Did you cry?
 
 
 --- Chap 20 "The Hour of Triumph"
-
-
+[summary to be added]
 
 Vocab
 	triumph
@@ -272,14 +201,12 @@ What happens when Lurvy arrives with the water? How does the crowd respond? How 
 
 
 ---  Chap 19 "'The Egg Sac"
-
-
+[summary to be added]
 
 Vocab
 	cocoon
 	nifty
 	magnum opus
-	"You're kidding!"
 	down-hearted
 	"pep talk"
 	(to) languish
@@ -291,7 +218,6 @@ Vocab
 	(to) trickle
 	grandstand
 	(to) crouch
-
 
 
 Orientation Qs
@@ -312,8 +238,7 @@ Even with all the excitement what are Fern's thoughts?
 
 
 --- Chap 18 "'fhe Cool of the Evening"
-
-
+[summary to be added]
 
 Vocab
 	messenger boy
@@ -339,7 +264,7 @@ What is Fern's take on her day at the Fair?
 
 
 -- Chap 17 "Uncle"
-
+[summary to be added]
 
 Vocab
 	a pickpocket
@@ -513,76 +438,7 @@ Orientation Qs
     How is Wilbur like a little kid? What does he want before he goes to sleep?
     What story does Charlotte tell Wilbur?
     What is the second story Charlotte tells Wilbur?
-    Why is Charlotte using the word 'cousins' to describe ot(to) accumulate
-anomaly
-(to) anthropomorphize
-archetypal
-articulation
-assertive
-augment
-bias
-(to) bifurcate
-biogeophysical
-biome
-boreal
-cascade
-cognitive
-congruent
-circumpolar
-(to) converge
-cryptography
-cypher
-decarbonization
-(to) degrade
-demographic
-deterministic
-discernible
-effective
-embedded
-empirical
-(to) enhance
-entity
-entropy
-firestorm
-function (math.)
-generative model (math.)
-granularity
-groundbreaking
-incongruent
-indistinguishable
-infrastructure
-innate
-information theory
-irreversible
-larynx
-lexicon
-logarithm
-millennia
-(to) mimic
-morphology
-nonlinear
-(to) oscillate
-permutation
-phoneme
-planetary threshold
-probability
-pragmatic
-(to) prevail
-prototype
-redundancy
-resilience
-rhetorical
-salient
-self-reinforcing feedbacks
-seminal
-spurious
-stratigraphy
-tangible
-thermodynamic
-tipping point
-(to) transgress
-(to) underestimate
-(to) utteher spiders?
+    Why is Charlotte using the word 'cousins' to describe other spiders?
     What happens to Wilbur when Charlotte sings her song?
     Look at the lyrics of the song. What do they express?
 	Why is the chapter called, 'Good Progress?'

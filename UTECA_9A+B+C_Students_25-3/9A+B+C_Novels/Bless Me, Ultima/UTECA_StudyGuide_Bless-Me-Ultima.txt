@@ -9,7 +9,7 @@ ISBN 10: 0446600253 / ISBN 13: 9780446600255
 Lexile Reading Level = 840L
 262 pages; 22 Chapters
 
-
+262 pages/75 pg week = 3.5 weeks
 ##################################
 
 %%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -56,6 +56,7 @@ ChatGPT prompt--
 
 
 --- Chap 22
+[to be summarized]
 Vocab
 	(to) plague
 	(to) trespass
@@ -98,6 +99,8 @@ Where is Ultima really buried?
 
 
 --- Chap 21
+[to be summarized]
+
 Vocab
 	subterranean
 	rapture
@@ -122,6 +125,7 @@ How does Tony finally respond to Florence's death?
 
 
 --- Chap 20
+[to be summarized]
 
 Vocab
 	solace
@@ -172,8 +176,9 @@ Another strange dream for Tony. What do you make of it?
 
 
 --- Chap 19
+[to be summarized]
 
---Vocab
+Vocab
 
 --Qs
 Are the children little angles lined up for Easter Sunday?
@@ -184,6 +189,7 @@ What are Tony'srevelations?
 
 
 ---Chap 18
+[to be summarized]
 
 Vocab
 	facet
@@ -208,6 +214,8 @@ What prophetic statement does Florence make regarding Tony and his future?
 
 
 --- Chap 17
+[to be summarized]
+
 Vocab
 	heresy
 	blasphemy
@@ -238,6 +246,8 @@ What is "the first day of eternity"?
 
 
 --- Chap 16
+[to be summarized]
+
 Vocab
 
 --Qs
@@ -252,6 +262,8 @@ Why is Ultima concerned about Tony's touching anything left by Tenorio?
 
 
 --- Chap 15
+[to be summarized]
+
 Vocab
 	frozen stiff
 	accusation
@@ -301,6 +313,8 @@ Do you think Tony will ever really know his brothers? Why or why not?
 
 
 --- Chap 14
+[to be summarized]
+
 Vocab
 	misgivings
 	(to) clutch
@@ -347,8 +361,7 @@ Vocab
 	stagnant
 
 --Qs
-What is the reason Antonio always tuens around and says goodbye to his mom on his way to school?
-What is he afraid of?
+What is the reason Antonio always turns around and says goodbye to his mom on his way to school? What is he afraid of?
 What is Andrew's take on changes?
 Is Tony looking forward to the start of school?
 How does Andrew feel about going to school?
@@ -417,7 +430,6 @@ Vocab
 	"ristras"
 	(to) initiate
 
-
 ---Qs
 Why is Gabriel going to El Puerto?
 How is the family coping with the terrible incidents of the night before?
@@ -459,8 +471,6 @@ Vocab
 	(to) gouge
 	(to) sputter
 	(to) shrug
-
-
 
 --Qs
 How has the summer changed the rhythm of the Marez household? What is Tony feeling? His father? His mother? Andrew?
@@ -532,7 +542,6 @@ Vocab
 	frothy
 	(to) abate
 	
-	
 
 ---Qs
 	Antonio can't understand how the power of medicine and the Church have failed to cure Lucas. What do you think?
@@ -574,15 +583,12 @@ Vocab
 	Is Tony comforted by Ultima's perspective?
 	
 	
-
-
 ---- Chapter 10
 Antonio continues to grapple with questions about his faith and the nature of good and evil. The key event in this chapter is when Antonio witnesses Ultima’s power to heal Lucas, his uncle, who is cursed by witches. Antonio watches as Ultima prepares her cure, performing a spiritual ceremony using herbs and prayers. This healing ceremony involves not only physical actions but also spiritual intervention, making Antonio question the boundary between magic and religion.The experience of seeing his uncle cured strengthens Antonio’s bond with Ultima but also deepens his questions about his religious upbringing. He begins to see that there are forces at play in the world that go beyond the conventional teachings of the church.
 
-
 Vocab
     reassuring
-    (to) roam
+    (to)roam
     dejected
     despairingly
     unsurpassed
@@ -625,8 +631,6 @@ Vocab
     pallor
     commotion
    
-   
-
 --Qs
     What happened to Samuel to his family?
     How does Gabriel deal with his sons having left for the city?
@@ -699,8 +703,7 @@ Vocab
 	subsiding
 	(to) churn
 	listlessly
-
-
+	
 ---Qs
 	Describe Antonio's latest dream. What does it mean?
 	What does Ultima propose for Tony in the dream?
@@ -765,17 +768,13 @@ Vocabulary
 In Chapter 7, Antonio is dealing with his conflicting emotions regarding his family, faith, and identity. It begins with the arrival of Antonio’s brothers—Leon, Eugene, and Andrew—who return home from World War II. Their return brings joy to the family, but the brothers are restless and disillusioned after their time at war. They don’t want to follow their parents' wishes and settle into the expected roles of farming or pursuing careers. This causes tension in the family, particularly between the brothers and their father, Gabriel, who had dreams of moving to California with his sons to start a new life.
 
 Vocabulary
-    Disillusioned		
-    Restlessness		
-    Melancholy			
-    Tension			
-    Resentment			
-    Contemplate		
-    Penance			
+    disillusioned		
+    restlessness		
+    melancholy	
 
-
-Discussion Questions
-	How did Maria respond to the news that her sons will be returning home? How does her response reinforce our perception of her character and personality?
+---Qs
+	How did Maria respond to the news that her sons will be returning home? How does her response reinforce our perception of 
+	her character and personality?
 	Ultima participates in her own way to give thanks for the return of the brothers. How does Maria respond to this?
 	With so much prayer time, what happens to Antonio when he falls asleep?
 	What do you think Antonio's dream means? What's your interpretation?
@@ -785,11 +784,6 @@ Discussion Questions
 	How are Gabriel's outbursts different from Maria's?
 	Is Antonio a determined student? How do we know?
 	
-**Qs
-	** Gabriel appears to treat his sons as men but does he truly see them as such?
-	** What does Gabriel want from his sons? What does Maria want?
-	** When the brothers arrive how does Ultima's owl respond? What does this mean, if anything?
-
 
 --- Chapter 6
 Antonio has his first day of school. He is both excited and terrified. Maria and Gabriel both share their expectations and we lern that Gabriel grew up a poor kid on the plains. Ultima confirms that Antonio will be a man of learning. Apparently, Deborah and Theresa abandon Gabriel and he gets lost in the big school house. A kind boy brings Gabriel to his teacher and he spends the day writing his name over and over again. But he is made fun of and feels terribly lonely. He joins, and finds strength in a group of outcasts.
@@ -798,13 +792,11 @@ Vocabulary
 	"land of milk and honey"
 	kindling
 	sternly
-	scrub
+	(to) scrub
 	(to) interrupt
 	playground
 	dust devil
-	thundering herd
-	yawning doors
-	menacing
+	(to) menace
 	outcast
 	(to) sneak out
 	(to) gnaw
@@ -834,31 +826,20 @@ Vocabulary
 	Why does Antonio finally break down and cry at lunch time?
 	Why do you think Antonio never wants to share his feelings of loneliness?
 	
-Ch 6 ** Qs
-	** What makes a "land of milk and honey"? What does this phrase mean?
-	** Why does Gabriel mock school learning? How did he grow up? Why?
-	** What was the llano like in Gabriel's youth? Why did it change?
-
-	
-
 
  --- Chapter 5 "Cinco"
 The family, except for Gabriel, head to El Puerto for the harvest.  Maria is particularly excited.  Antonio's grandfather has strong comments about WWII and wars in general. Antonio easily adapts to the rhythym of the harvest with his uncles but has some strange dreams.
 
 Vocabulary
-	orchard
 	(to) clamor
-	cluster
-	rusted
-	calloused
+	a cluster
 	calloused
 	knitted eyebrows
 	ristras
 	(to) nestle
 	brooding
-	
 
-Discussion Q.s (** == answer in NB)
+---Q.s 
 	Why are Antonio's uncles quiet, according to Maria?
 	Who do you think Gabriel only can talk with Pedro?
 	Why is Maria so excited to go to El Puerto?
@@ -874,33 +855,23 @@ Discussion Q.s (** == answer in NB)
 	What is "the old blood" that Antonio speaks of?
 	Why is Antonio comforted by Ultima's owl?
 	
-Ch 5 ** Qs
-	** What do the young girl's "brightly colored garments" signify?
-	** What does Prudencio think about WWII and wars in general?
-	** What is "the old blood" that Antonio speaks of?
-	** Why is Antonio comforted by Ultima's owl?
-
 
 --- Chapter 4 "Cuatro"
 Antonio spends time with Ultima in the hills gathering herbs. She teaches him about how to use the herbs and how to respectfully gather them. The harvest is coming and ANtonio's family begins making preparations to go stay with the Lunas in El Puerto. Antonio has decided preferences in his cosmology.
 
  Vocabulary
-        countryside -
-        mellow -
-        gunny sack-
-        rheumatism -
-        nobility -
-        succulent -
-        fuzz -
-        throbbing -
-        pilgrimage -
-        courteously -
-        droning -
-        persuade -
-        chipped -
-        lingered - 
+        countryside
+        mellow
+        gunny sack
+     	succulent 
+        fuzz
+        (to) throb
+        (to) drone
+        (to) persuade
+        (to) chip
+        (to) linger
 
-Discussion Q.s (** == answer in NB)
+--- Q.s
 	Antonio enjoys the last days of summer roaming the hills with Ultima. What are they doing?
 	What indigenous tradition does Ultima hold with regard to plants, and likely all living things? What does Ultima do when she harvests a plant?
 	What is special about yerba del manso?
@@ -916,11 +887,6 @@ Discussion Q.s (** == answer in NB)
 	How does Antonio feel about La Virgin de Guadalupe?
 	How does constrast God with the Virgin de Guadalupe?
 	Why does Antonio have a nightmare?
-
-CH. 4 ** Q.s
-	** Why does Ultima keep a small pouch at her side when she gathers herbs? What's in the pouch
-	** What indigenous tradition does Ultima hold with regard to plants, and likely all living things? What does Ultima do when she harvests a plant?
-	** What does Antonio think about God? About the Virgin de Guadalupe?
 	
 
 --- Chapter 3 "Tres"
@@ -928,20 +894,14 @@ In Chapter Three, Antonio continues to grapple with the conflicting expectations
 
 As Antonio spends more time with Ultima, he begins to observe her rituals and the way she interacts with nature. This chapter introduces the idea that Antonio is on a path of self-discovery, where he must navigate the expectations of his family, his culture, and his own identity. The chapter ends with Antonio feeling a growing sense of connection to Ultima, who seems to understand him in ways that others do not. This chapter is crucial as it sets the stage for Antonio’s internal conflict and foreshadows the spiritual and moral dilemmas he will face throughout the novel.
 
-Key Vocabulary
-	Heathen - A person who does not belong to a widely held religion; often used to describe someone who is considered uncivilized or unenlightened.
-	Reverberated - Echoed or resounded repeatedly.
-	Penitente - A member of a religious brotherhood in the Southwestern United States, known for self-flagellation and other forms of penance.
-	Desperation - A state of despair, often leading to reckless behavior.
-	Exorcise - To drive out or attempt to drive out an evil spirit from a person or place.
-	Epiphany - A moment of sudden and profound understanding or realization.
-	Transcend - To rise above or go beyond the limits of something.
-	Foreboding - A feeling that something bad will happen; a sense of impending doom.
-	Vengeance - Punishment inflicted in retaliation for an injury or offense.
-
-
- 
-Discussion Q.s (** == answer in NB)
+Vocab
+	heathen 
+	(to) reverberate
+	epiphany 
+	(to) transcend 
+	foreboding 
+	
+---Q.s
 	Why are the men of the llano 'of the sun' while the farmers 'of the moon'
 	Why are all people 'children of the white sun'?
 	Why does ANtonio think Ultima's medicine is strong?
@@ -969,27 +929,15 @@ Discussion Q.s (** == answer in NB)
 	Why is Antonio accepted into the group? Who is the group's leader?
 	What kind of kids are boys of the town? Are they bad kids?
 
-Ch. 3 ** Qs
-	** Gabriel and Maria have very different worldviews. Describe the worldview of each. Why do you think Gabriel and Maria are compatible as a couple? Or are they?
-	** Why do you think Antonio is preoccupied with religious matters?
-	** What kind of boys are the town kids? Do you think they are bad kids?
-	
 
 --- Synopsis Chapter 2 "Dos"
 Antonio's family welcomes Ultima, a curandera, into their home. She brings with her a sense of mystery and power, and Antonio feels a strong connection to her. The family members show their respect and appreciation for Ultima’s healing abilities. During her first night at the Marez home, Ultima performs a ceremony to cleanse the house of any lingering negative spirits. Antonio is both curious and slightly apprehensive about the ancient traditions Ultima practices. The chapter sets the stage for Ultima’s influential role in Antonio’s life and hints at the spiritual and cultural themes that will be explored throughout the novel.
 
-Vocabulary
-    Ceremony - A formal event performed on a special occasion.
-    Lingering - Staying in a place longer than necessary due to a reluctance to leave.
-    Spiritual - Relating to or affecting the human spirit or soul as opposed to material or physical things.
-    Apprehensive - Anxious or fearful that something bad or unpleasant will happen.
-    Influential - Having great influence on someone or something.
-    Mystery - Something that is difficult or impossible to understand or explain.
-    Respect - A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.
-    Healer - A person who has the power to cure ill people without using ordinary medicines.
-
-
-Discussion Q.s (** == notebook response required)
+Vocab
+    lingering 
+    apprehensive 
+  
+--- Q.s
     What is Gabriel's dream for his family? Why is he bitter?
     What is "the presence of the river"? What is Antonio's relationship with this "presence"? With nature?
     Who shot the sheriff? ("I Shot the Sheriff" by Eric Clapton)
@@ -1005,37 +953,14 @@ Discussion Q.s (** == notebook response required)
     Why do Leon, Andrew, and Eugene become frightened? How is Antonio trying to contribute to the new house?
    
 
-    ** What role does Ultima play in the Marez household from the very beginning? 
-    ** Do the other family members like having Ultima living in the house?
-    ** What does Antonio experience with the death of Lupito?
-    **  What is the effect of the owl's call on Antonio?
-    ** Who are Leon, Andrew, and Eugene? What do they say to Antonio in Antonio's dream?
-    **  Why do Leon, Andrew, and Eugene become frightened?
-
-
 
 --- Chapter 1 "Uno"
 The story begins with six-year-old Antonio Márez reflecting on the arrival of Ultima, an elderly curandera (healer), who comes to live with his family. Antonio's parents, Gabriel and María, have different visions for his future: Gabriel dreams of him becoming a vaquero (cowboy) like his ancestors, while María hopes he will become a priest. Ultima’s presence brings a sense of peace and wisdom to the family. Antonio feels a deep connection to Ultima and is intrigued by her knowledge of herbs and healing. The chapter sets the stage for Antonio’s journey of self-discovery and the influence Ultima will have on his life.
 
-Vocabulary
-    Curandera - A traditional healer or shaman in Latin American cultures.
-        Example: Ultima, the curandera, brought her knowledge of herbs and healing to the Márez family.
-    Vaquero - A cowboy or cattle driver.
-        Example: Antonio's father dreamed of him becoming a vaquero like his ancestors.
-    Llanos - Plains or flatlands, especially in the southwestern United States.
-        Example: Gabriel Márez often reminisced about the wide-open llanos of his youth.
-    Bruja - A witch.
-        Example: Some people in the village whispered that Ultima was a bruja because of her mystical abilities.
-    Healer - A person who has the ability to cure illnesses or injuries.
-        Example: Ultima was a respected healer, known for her remedies and cures.
-    Destiny - The events that will necessarily happen to a particular person or thing in the future.
-        Example: Antonio's mother believed his destiny was to become a priest.
-    Herbs - Plants with leaves, seeds, or flowers used for flavoring, food, medicine, or perfume.
-        Example: Ultima used various herbs to make her healing potions.
-    Tradition - Customs or beliefs passed down from generation to generation.
-        Example: The Márez family held strong to their cultural traditions and heritage.
+Vocab
+    
 
-Discussion Questions
+---Qs
     Who is Ultima and why does she come to live with Antonio’s family?
     What are the different expectations Antonio’s parents have for his future?
     How does Antonio feel about Ultima’s arrival, and what is his initial impression of her?
@@ -1097,7 +1022,3 @@ Cultural Connections
     Objective: Connect the novel to students' own lives and experiences.
     Instructions: Ask students to reflect on their own cultural traditions and write a short essay or create a presentation about a tradition in their family or community. Relate these traditions to those depicted in the novel.
 
-
-
-
---- Chapter 22
