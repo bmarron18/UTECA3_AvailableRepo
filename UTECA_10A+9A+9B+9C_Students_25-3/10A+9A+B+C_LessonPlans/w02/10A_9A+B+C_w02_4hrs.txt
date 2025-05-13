@@ -61,6 +61,8 @@ Today
 		― John H. Holland, Hidden Order: How Adaptation Builds Complexity (pioneer in genetic algorithms)
 
 
+
+
 “In a systemic world, there is no such thing as a discrete or isolated event - impacts cascade and spill over.”
 		― Roger Spitz, The Definitive Guide to Thriving on Disruption (futurist, techistentialist)
 
@@ -74,32 +76,68 @@ Today
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
-	Konrod paper
-	Compare/Contrast English, Spanish, Chinese paper
-	Info theory
+	*Konrod paper...what do you think? highlights
+	
+		My Take-a-way ----
+		Phonemes ==> smallest unit of linguistic analysis, which are usually combined into words.
+		Articulation ==> can change the meaning of a word
+		Morphological forms ==> a significant role in constructing meaning (e.g., prefixes, suffixes)
+		Polysemy ==> when the same word has several meanings
+		Grammar and syntax 	==> the set of rules that guide language users about ways 
+								to construct meaning, language specific
+							“Let’s eat, grandma!
+		Discourse analysis ==> how text flows
+			Coherence
+			Conversation Turn Taking
+			Narrative
+			Development of Genre
+		Pragmatics ==> use of language to achieve goals
+		Socio-linguistics 	==> social groups develop their own language! (jargon)
+			NB. Japanese, Chinese, or Korean, have a unique characteristic: they can be written horizontally or vertically, 
+			and the direction of writing can influence the meaning of what is written.
+		
+		
+	*Compare/Contrast English, Spanish, Chinese ...what do you think? Highlights
+	
+	*English Grammar in Use...how'd it go?
+	
+	*Info theory...reminders
 
 
 --- New
 ** 02_MacKay_LanguageModels+Enigma
 	Simple Language Models
-	Zipf's Law
-	Dirichlet process
-	not random / redundant p.7
-	why? Bayesian tools used in AI
+		Zipf's Law
+			log-log plot ==> Power functions y=ax^{k} – appear as straight lines in a log–log graph, with the exponent 	
+			corresponding to the slope, and the coefficient corresponding to the intercept
+			
+		Dirichlet process
+			a model for a stream of symbols
+			exchangeability
+			
+	a language is not random AND is redundant (p.7)
+		plaintext is not completely random. Both plaintexts are written in a language, and that language has redundancies
+		even at the character level!!
+	
+	why the codebreaker story? Bayesian tools used to break Enigma are used in AI
 
 ** 03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene
-	Silent reading abstract
-	tackling scientific papers
-	focus on Abstract, Intro, Conclusion
-	Go thru
+	Silent reading ==> Abstract
+	how to tackle scientific papers
+		look at Abstract, Intro, Conclusion
+	Go thru entire paper
 
 
 ** Charlotte's Web (read in two weeks)
-	Holographic learning with the themes
-	Chapter summaries (i) translate existing, and then (ii) ChatGPT rewrite
+	Holographic learning with themes
+	Chapter summaries 
+		(i) translate existing (in class)	<== early chapters
+		(ii) do a ChatGPT rewrite			<== later chapters
 	Socratic seminar with questions
 	In-class reading
-	Final written critique
+	Final academic paper
+		(i) 	analysis and evaluation of selected major themes
+		(ii)	overall novel critique
 	
 
 Important Themes in Charlotte's Web--------
