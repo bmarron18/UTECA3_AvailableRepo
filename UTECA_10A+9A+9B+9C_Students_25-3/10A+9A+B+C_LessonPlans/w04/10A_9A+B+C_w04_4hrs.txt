@@ -21,13 +21,10 @@ HW_03 [Due: 27 May 2025]	<== 9A+B+C
 HW_03 [Due: 29 May 2025]	<== 10A
 
 --- Task 1
-Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique.
+Critique the critique. Review Strunk and White and read the critique. Thoughts?
 	
 --- Task 2
-Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and Códigos form the backbone of this system which is overseen by the Poder Judicial de la Federación. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
-		04a_TesisAislada_PruebaPericial.pdf
-		04b_Ley-de-Poder-Judicial.pdf
-	
+Translation of legal docs
 
 --- Task 3
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
@@ -74,9 +71,7 @@ Today
 
 
 --- New
-** Murphy's English Grammar in Use
-	Units			Pg 
-		
+** Murphy's English Grammar in Use 
 
 
 ** Strunk and White’s. “Elements of Style”
@@ -105,10 +100,9 @@ Today
 		6. Kindness and Compassion
 		
 	i) 		analyze highlights and important events as plot elements, 
-	ii) 	analyze characters and their motivations 
-			[Character maps that include their traits, relationships, and key events]
-	iii) 	evaluate the stylistic elements used by the author (genre)
-	iv) 	critique the author's choices and style
+	ii) 	analyze characters and their motivations,
+	iii) 	evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
 	
 ** Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.	
 

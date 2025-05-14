@@ -57,12 +57,12 @@ ChatGPT prompt--
 
 --- Chap 22
 [to be summarized]
+
 Vocab
 	(to) plague
 	(to) trespass
 	tormentor
 	quagmire
-
 
 --Qs
 Tony has Another nightmare. What happens in the dream?
@@ -767,7 +767,7 @@ Vocabulary
 --- Chapter 7
 In Chapter 7, Antonio is dealing with his conflicting emotions regarding his family, faith, and identity. It begins with the arrival of Antonio’s brothers—Leon, Eugene, and Andrew—who return home from World War II. Their return brings joy to the family, but the brothers are restless and disillusioned after their time at war. They don’t want to follow their parents' wishes and settle into the expected roles of farming or pursuing careers. This causes tension in the family, particularly between the brothers and their father, Gabriel, who had dreams of moving to California with his sons to start a new life.
 
-Vocabulary
+Vocab
     disillusioned		
     restlessness		
     melancholy	
@@ -788,7 +788,7 @@ Vocabulary
 --- Chapter 6
 Antonio has his first day of school. He is both excited and terrified. Maria and Gabriel both share their expectations and we lern that Gabriel grew up a poor kid on the plains. Ultima confirms that Antonio will be a man of learning. Apparently, Deborah and Theresa abandon Gabriel and he gets lost in the big school house. A kind boy brings Gabriel to his teacher and he spends the day writing his name over and over again. But he is made fun of and feels terribly lonely. He joins, and finds strength in a group of outcasts.
 
-Vocabulary
+Vocab
 	"land of milk and honey"
 	kindling
 	sternly
@@ -827,10 +827,10 @@ Vocabulary
 	Why do you think Antonio never wants to share his feelings of loneliness?
 	
 
- --- Chapter 5 "Cinco"
+ --- Chapter 5 
 The family, except for Gabriel, head to El Puerto for the harvest.  Maria is particularly excited.  Antonio's grandfather has strong comments about WWII and wars in general. Antonio easily adapts to the rhythym of the harvest with his uncles but has some strange dreams.
 
-Vocabulary
+Vocab
 	(to) clamor
 	a cluster
 	calloused
@@ -856,10 +856,10 @@ Vocabulary
 	Why is Antonio comforted by Ultima's owl?
 	
 
---- Chapter 4 "Cuatro"
+--- Chapter 4
 Antonio spends time with Ultima in the hills gathering herbs. She teaches him about how to use the herbs and how to respectfully gather them. The harvest is coming and ANtonio's family begins making preparations to go stay with the Lunas in El Puerto. Antonio has decided preferences in his cosmology.
 
- Vocabulary
+ Vocab
         countryside
         mellow
         gunny sack
@@ -889,7 +889,7 @@ Antonio spends time with Ultima in the hills gathering herbs. She teaches him ab
 	Why does Antonio have a nightmare?
 	
 
---- Chapter 3 "Tres"
+--- Chapter 3
 In Chapter Three, Antonio continues to grapple with the conflicting expectations placed upon him by his family and the cultural tensions between his parents’ differing backgrounds. His father, Gabriel, is a vaquero (cowboy) who yearns for the open plains, while his mother, María, is deeply religious and wishes for Antonio to become a priest. Antonio is also dealing with the presence of Ultima, the curandera (healer) who lives with them. He is both fascinated and mystified by her power and wisdom.
 
 As Antonio spends more time with Ultima, he begins to observe her rituals and the way she interacts with nature. This chapter introduces the idea that Antonio is on a path of self-discovery, where he must navigate the expectations of his family, his culture, and his own identity. The chapter ends with Antonio feeling a growing sense of connection to Ultima, who seems to understand him in ways that others do not. This chapter is crucial as it sets the stage for Antonio’s internal conflict and foreshadows the spiritual and moral dilemmas he will face throughout the novel.
@@ -930,7 +930,7 @@ Vocab
 	What kind of kids are boys of the town? Are they bad kids?
 
 
---- Synopsis Chapter 2 "Dos"
+--- Chapter 2
 Antonio's family welcomes Ultima, a curandera, into their home. She brings with her a sense of mystery and power, and Antonio feels a strong connection to her. The family members show their respect and appreciation for Ultima’s healing abilities. During her first night at the Marez home, Ultima performs a ceremony to cleanse the house of any lingering negative spirits. Antonio is both curious and slightly apprehensive about the ancient traditions Ultima practices. The chapter sets the stage for Ultima’s influential role in Antonio’s life and hints at the spiritual and cultural themes that will be explored throughout the novel.
 
 Vocab
@@ -954,7 +954,7 @@ Vocab
    
 
 
---- Chapter 1 "Uno"
+--- Chapter 1
 The story begins with six-year-old Antonio Márez reflecting on the arrival of Ultima, an elderly curandera (healer), who comes to live with his family. Antonio's parents, Gabriel and María, have different visions for his future: Gabriel dreams of him becoming a vaquero (cowboy) like his ancestors, while María hopes he will become a priest. Ultima’s presence brings a sense of peace and wisdom to the family. Antonio feels a deep connection to Ultima and is intrigued by her knowledge of herbs and healing. The chapter sets the stage for Antonio’s journey of self-discovery and the influence Ultima will have on his life.
 
 Vocab
