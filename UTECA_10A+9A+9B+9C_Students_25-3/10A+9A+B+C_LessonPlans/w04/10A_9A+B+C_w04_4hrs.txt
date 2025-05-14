@@ -7,7 +7,6 @@ Curso:			IT1044
 Licenciatura: 	Interpretación y Traducción
 Grupo:			10A
 
-
 Docente:		Bruce D. Marron
 Ciclo: 			25-3
 Materia: 		Inglés IX
@@ -20,24 +19,21 @@ Grupo:			9A+B+C
 HW_03 [Due: 27 May 2025]	<== 9A+B+C
 HW_03 [Due: 29 May 2025]	<== 10A
 
+
 --- Task 1
-Critique the critique. Review Strunk and White and read the critique. Thoughts?
+Write a three+-page critique of Charlotte's Web, Give specific format instructions
 	
 --- Task 2
-Translation of legal docs
+Vocab_03 (Charlotte's web)
 
 --- Task 3
-Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
-
+Translation from econ doc 1 (simple)
 
 --- Task 4
-Read Chapters XII through XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
-	i) 		analyze highlights and important events as plot elements, 
-	ii) 	analyze characters and their motivations,
-	iii) 	evaluate the stylistic elements used by the author, and 
-	iv) 	critique the author's choices and style.
+Prep for 1P exam
 
-NB. Ultimately, you will write a full critique of this novel.
+
+
 #############################################
 
 
@@ -53,68 +49,15 @@ Today
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 --- Review
 
-*Language models (Zipf and Dirichlet)
-
-* *Konrod paper
-	Discourse analysis ==> how text flows
-			Coherence
-			Conversation Turn Taking
-			Narrative
-			Development of Genre
-	Socio-linguistics
-	
-* Complex adaptive systems and systems analysis
-	Hothouse Earth
 
 
 
 --- New
-** Murphy's English Grammar in Use 
 
-
-** Strunk and White’s. “Elements of Style”
-	I 	ELEMENTARY RULES OF USAGE	
-	II	Elementary Principles of Composition
-
-** Critique
-	Chesapeake College 
-	Go thru--
-		"Land of the Free"	<== a rather scathing critique
-
-** Legal Docs 1
-	Look at Mexico's legal system / structure
-		04a_TesisAislada_PruebaPericial.pdf
-		04b_Ley-de-Poder-Judicial.pdf
-
-
-** Charlotte's Web
-	Review selected chapter questions 			<== Socratic seminar style
-	Review the Important Themes thus far--------
-		1. Friendship
-		2. Life and Death
-		3. Courage and Sacrifice
-		4. Identity and Self-Worth
-		5. The Power of Words
-		6. Kindness and Compassion
-		
-	i) 		analyze highlights and important events as plot elements, 
-	ii) 	analyze characters and their motivations,
-	iii) 	evaluate the stylistic elements used by the author, and 
-	iv) 	critique the author's choices and style.
-	
-** Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.	
-
-
-Silent reading (20 min)
-
-
-
----- Work time
-	
-
---- Coming up
+** More Murphy's Grammar
 
 ** APA and Professional Voice
 
@@ -122,7 +65,17 @@ Silent reading (20 min)
 
 ** Final written critique Charlotte's Web
 
-** More Murphy's Grammar
+
+** Prep for 1P
+	
+
+
+---- Work time
+	
+
+--- Coming up
+
+
 
 
 

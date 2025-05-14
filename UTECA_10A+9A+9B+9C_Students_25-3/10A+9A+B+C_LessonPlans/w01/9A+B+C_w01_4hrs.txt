@@ -39,6 +39,7 @@ For this assignment and for all subsequent written assignments in this class (un
 	* Single-spaced
 	* 0.5 inch margins (left and right)
 	* 12-point Times New Roman font
+	* print double-sided if possible
 References, if needed, in a standard format (eg, APA)
 See "StyleGuide_Marron.pdf" in
 

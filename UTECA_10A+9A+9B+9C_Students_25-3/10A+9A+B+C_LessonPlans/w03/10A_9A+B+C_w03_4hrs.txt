@@ -50,24 +50,28 @@ Today
 
 ---- Open
 
+Writing is an act of faith, not a trick of grammar. 
+		-- E. B. White
 
-	
 
+Sustainable development is the pathway to the future we want for all. It offers a framework to generate economic growth, achieve social justice, exercise environmental stewardship and strengthen governance. 			--- Ban Ki-moon
+			(Eighth Secretary-General of the United Nations)
 
+NB. "Our Common Future", also known as the Brundtland Report, was published in October 1987 by the UN.
+Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime Minister and Chair of the World Commission on Environment and Development.
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+** Grading
+	Rubric
+	Common Errors doc
+
+
+
 --- Review
 
 *Language models (Zipf and Dirichlet)
 
-* *Konrod paper
-	Discourse analysis ==> how text flows
-			Coherence
-			Conversation Turn Taking
-			Narrative
-			Development of Genre
-	Socio-linguistics
-	
 * Complex adaptive systems and systems analysis
 	Hothouse Earth
 
@@ -89,13 +93,50 @@ Today
 		"Land of the Free"	<== a rather scathing critique
 
 ** Legal Docs 1
-	Look at Mexico's legal system / structure
+	Quick look at Mexico's legal system/structure
+	
+	Coomon Law vs. Civil Law (fr. Cornell Law School, Legal Information Institute)
+
+		Common law is law that is derived from judicial decisions instead of from statutes . American 
+		courts originally fashioned common law rules based on English common law until the American legal 
+		system was sufficiently mature to create common law rules either from direct precedent or by 
+		analogy to comparable areas of decided law.
+		
+		Civil law, as a legal system, refers to a popular way of structuring legal systems around broad 
+		codes and detailed statutes that determines the rights and obligations of individuals, without 
+		emphasis on the role of precedent, courts, judges, and juries as in common law countries. 
+		Civil law countries typically are characterized by their emphasis on the codified law only with 
+		judges playing the main role of finding the facts and applying the law in courts. 
+	
+	
+	Poder Judicial de la Federación
+		Está integrado por:
+    		La Suprema Corte de Justicia de la Nación
+   			El Consejo de la Judicatura Federal
+   			Los Plenos Regionales
+   			Los Tribunales Colegiados de Circuito
+    		Los Tribunales Colegiados de Apelación
+    		Los Juzgados de Distrito
+    		El Tribunal Electoral del Poder Judicial de la Federación
+	
+	Diario Oficial de la Federacion
+		El Diario Oficial de la Federación (DOF) es el órgano de publicación oficial del Gobierno 
+		Constitucional de los Estados Unidos Mexicanos. Su función principal es publicar las leyes, 
+		reglamentos, acuerdos, circulares, órdenes y demás actos expedidos por los poderes de la 
+		Federación.
+
+	Tesis Aisladas y Jurisprudencia
+		Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes 
+		contenidos en las sentencias. Tesis aislada es un criterio de interpretación que orienta a los 
+		jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es 
+		obligatoria, mientras que la tesis aislada no lo es.
+	
 		04a_TesisAislada_PruebaPericial.pdf
 		04b_Ley-de-Poder-Judicial.pdf
 
 
 ** Charlotte's Web
-	Review selected chapter questions 			<== Socratic seminar style
+	Review selected chapter I-XI questions 			<== Socratic seminar style
 	Review the Important Themes thus far--------
 		1. Friendship
 		2. Life and Death
