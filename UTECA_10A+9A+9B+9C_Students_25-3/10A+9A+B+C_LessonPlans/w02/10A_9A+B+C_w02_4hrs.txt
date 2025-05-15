@@ -67,7 +67,8 @@ Today
 
 
 “In a systemic world, there is no such thing as a discrete or isolated event - impacts cascade and spill over.”
-		― Roger Spitz, The Definitive Guide to Thriving on Disruption (futurist, techistentialist)
+		― Roger Spitz, The Definitive Guide to Thriving on Disruption (futurist, 
+		techistentialist)
 
 [For more on existentialism,
 	https://plato.stanford.edu/entries/existentialism/]
@@ -116,7 +117,7 @@ Today
 		Zipf's Law
 			log-log plot ==> Power functions y=ax^{k} – appear as straight lines in a 
 			log–log graph, with the exponent corresponding to the slope, and the 
-			coefficient corresponding to the intercept
+			coefficito) accumulateent corresponding to the intercept
 			
 		Dirichlet (DEE·ruhsh·lay) process
 			a model for a stream of symbols
@@ -130,13 +131,13 @@ Today
 																						
 
 ** 03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene			
-	Silent reading ==> Abstract											<== 10A+9C									
+	Silent reading ==> Abstract											<== 10A	[no class 15 mayo -- catchup next week]								
 	how to tackle scientific papers
 		look at Abstract, Intro, Conclusion
-	Go thru entire paper												<== 9A+9B (2hrs)
+	Go thru entire paper												
 
 
-** Charlotte's Web (read in two weeks)
+** Charlotte's Web (read in two weeks)									<== 9C [opening photo]
 	Holographic learning with themes
 	Chapter summaries 
 		(i) translate existing (in class)	<== early chapters
@@ -150,35 +151,26 @@ Today
 
 Important Themes in Charlotte's Web--------
 1. Friendship
-	The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and 
-	Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true 
-	friendship.
+	The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true friendship.
 
 2. Life and Death
-	The novel addresses the cycle of life and the inevitability of death. It explores how characters come 
-	to terms with mortality and the impact of death on the living.
+	The novel addresses the cycle of life and the inevitability of death. It explores how characters come to terms with mortality and the impact of death on the living.
 
 3. Courage and Sacrifice
-	Courage and sacrifice are prominent in the novel, particularly through Charlotte's actions to save 
-	Wilbur. Her bravery and willingness to sacrifice her own well-being for her friend are central to the 
-	story's message.
+	Courage and sacrifice are prominent in the novel, particularly through Charlotte's actions to save Wilbur. Her bravery and willingness to sacrifice her own well-being for her friend are central to the story's message.
 
 4. Identity and Self-Worth
-	The theme of identity and self-worth is explored through Wilbur’s journey to understand his place in 
-	the world and his value. Wilbur’s feelings of inadequacy and his journey towards self-acceptance are 
-	key aspects of this theme.
+	The theme of identity and self-worth is explored through Wilbur’s journey to understand his place in the world and his value. Wilbur’s feelings of inadequacy and his journey towards self-acceptance are key aspects of this theme.
 
 5. The Power of Words
-	The novel highlights the impact of words and communication, particularly through Charlotte’s web 
-	messages. The power of words to influence, inspire, and affect change is a key theme.
+	The novel highlights the impact of words and communication, particularly through Charlotte’s web messages. The power of words to influence, inspire, and affect change is a key theme.
 
 6. Kindness and Compassion
-	Kindness and compassion are recurring themes in the novel, shown through the characters’ interactions 
-	and their responses to each other’s needs.
+	Kindness and compassion are recurring themes in the novel, shown through the characters’ interactions and their responses to each other’s needs.
 
 ** Vocabulary
 	Vocab_01-1P
-	72 words from Readings 01, 02, 03
+	72 words from Readings 01, 02, 03					<== 9A+9B
 
 
 Silent reading (20 min)
