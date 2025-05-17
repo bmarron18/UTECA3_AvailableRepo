@@ -16,21 +16,75 @@ Grupo:			9A+B+C
 
 
 #####################
-HW_03 [Due: 27 May 2025]	<== 9A+B+C
-HW_03 [Due: 29 May 2025]	<== 10A
+HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
+HW_04 [Due: 05 Jun 2025]	<== 10A
 
 
 --- Task 1
-Write a three+-page critique of Charlotte's Web, Give specific format instructions
+Write a three+-page critique of Charlotte's Web, Use the Chesapeake College guide to organize your document and present your critique in the following format,
+
+	Task 1: A Critique of E.B. White's, "Charlotte's Web"
+
+Introduction					<== Level 1
+	* What is "Charlotte's Web"? Why is it important? 
+	* Who is E.B. White? Why is he famous? When did he publish the book?
+	* Provide a very brief overview of the book
+
+Evaluation and Critiscism		<== Level 1
+	* Define the upcoming sections
+	
+	Major Theme Development	<== Level 2
+		* Theme 1
+			==> Definition of the theme
+			==> Describe how the theme is developed citing examples from the book
+			==> Evaluate the author's ability to develop the theme
+		
+		* Theme 2
+			==> Definition of the theme
+			==> Describe how the theme is developed citing examples from the book
+			==> Evaluate the author's ability to develop the theme
+		
+	Character Development	<== Level 2
+		* Character 1
+			==> Description of the character
+			==> Describe how the character is developed citing examples from the book
+			==> Evaluate the author's ability to develop the character
+		
+		* Character 2
+			==> Description of the character
+			==> Describe how the character is developed citing examples from the book
+			==> Evaluate the author's ability to develop the character
+
+	Story Arc 		<== Level 2
+		* Briefly define and/or diagram the story arc (the chronological construction of the plot)
+
+	Writing Style	<== Level 2
+		* Evaluate E.B. White's style
+			==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?
+			==> holds together logically?
+			==> genre?
+
+Conclusions						<== Level 1
+	* Summarize Major Theme Development section
+	* Summarize Character Development section
+	* Summarize Story Arc section
+	* Summarize Writing Style section
+	* Your personal opinion of the work
+
 	
 --- Task 2
 Vocab_03 (Charlotte's web)
 
 --- Task 3
-Translation from econ doc 1 (simple)
+Translation of econ theorems
 
 --- Task 4
 Prep for 1P exam
+	*
 
 
 
@@ -60,8 +114,29 @@ Today
 ** More Murphy's Grammar
 
 ** APA and Professional Voice
+	Rapid review of APA-style docs
 
-** Economic Docs 1
+** Standard Economic Axioms, Theorems, and Corollaries
+	Economics: The study of choice and resource allocation under conditions of scarcity.
+
+Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
+
+	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we need. We are 
+	economically linked to others in hundreds—even thousands—of different ways.
+	
+	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because specialization and 
+	exchange enable us to enjoy greater production, and higher living standards than would otherwise be possible.
+
+
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must  shift resources away from producing something else. “There is no such thing as a free lunch.”
+		
+	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are constrained by the 
+	resources they control.
+	
+		Corrollary 1: We do not all start in the same place in the economic race. Individuals may have more or less resources 
+		under their control than others.
+		
+	
 
 ** Final written critique Charlotte's Web
 

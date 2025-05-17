@@ -21,7 +21,29 @@ HW_03 [Due: 27 May 2025]	<== 9A+B+C
 HW_03 [Due: 29 May 2025]	<== 10A
 
 --- Task 1
-Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique.
+Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format,
+
+	Task 1: A Critique of G. Pullman's, "Land of the Free"
+
+Introduction					<== Level 1
+	* What is Strunk and White's "Elements of Style"? Why is it important?
+	* Who is Geoffrey K. Pullum? What is his motive in writing the paper? When did he publish the paper?
+	* Provide a very brief overview of Pullman's paper
+
+Evaluation and Critiscism		<== Level 1
+	* Pullman's critiscism #1	<== Level 2
+		==> briefly summarize the critiscism
+		==> evaluate the amount and kinds of support used to back up the critiscism
+		==> your evaluation of the critiscism
+		
+	* Pullman's critiscism #2	<== Level 2
+		==> briefly summarize the critiscism
+		==> evaluate the amount and kinds of support used to back up the critiscism
+		==> your evaluation of the critiscism
+		
+Conclusions						<== Level 1
+	* Summarize your evaluations
+	* Present your final evaluation of the paper
 	
 --- Task 2
 Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and Códigos form the backbone of this system which is overseen by the Poder Judicial de la Federación. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
@@ -78,6 +100,8 @@ Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime M
 
 * Complex adaptive systems and systems analysis
 	Hothouse Earth
+	
+* Charlotte's Web
 
 
 
@@ -92,9 +116,18 @@ Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime M
 	II	Elementary Principles of Composition
 
 ** Critique
-	Chesapeake College 
 	Go thru--
-		"Land of the Free"	<== a rather scathing critique
+		Chesapeake College 
+	Breeze thru--
+		"Land of the Free" by Geoffrey K Pullum 	<== a rather scathing critique
+		
+		NB. Article in The Guardian
+		The Truth About English Grammar by Geoffrey K Pullum 
+		
+		A review – the pants rule and other pipe dreams
+		A breezy guide to grammar sides with the ordinary Joe against the nitpickers
+		https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-grammar-by-geoffrey-k-pullum-review-the-pants-rule-and-other-pipe-dreams
+
 
 ** Legal Docs 1
 	Quick look at Mexico's legal system/structure
