@@ -21,7 +21,7 @@ HW_03 [Due: 27 May 2025]	<== 9A+B+C
 HW_03 [Due: 29 May 2025]	<== 10A
 
 --- Task 1
-Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format,
+Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
 
 	Task 1: A Critique of G. Pullman's, "Land of the Free"
 
@@ -76,15 +76,18 @@ Today
 
 ---- Open
 
-Writing is an act of faith, not a trick of grammar. 
-		-- E. B. White
-
-
-Sustainable development is the pathway to the future we want for all. It offers a framework to generate economic growth, achieve social justice, exercise environmental stewardship and strengthen governance. 			--- Ban Ki-moon
+Sustainable development is the pathway to the future we want for all. It offers a framework to generate economic growth, achieve social justice, exercise environmental stewardship and strengthen governance. 			
+			--- Ban Ki-moon
 			(Eighth Secretary-General of the United Nations)
 
 NB. "Our Common Future", also known as the Brundtland Report, was published in October 1987 by the UN.
 Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime Minister and Chair of the World Commission on Environment and Development.
+
+
+
+
+Writing is an act of faith, not a trick of grammar. 
+		-- E. B. White
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -96,14 +99,13 @@ Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime M
 
 --- Review
 
-*Language models (Zipf and Dirichlet)
+*Language models
+	std linguistic (Konrod)
+	Zipf's Law and Dirichlet generative models
 
 * Complex adaptive systems and systems analysis
 	Hothouse Earth
 	
-* Charlotte's Web
-
-
 
 --- New
 ** Murphy's English Grammar in Use
@@ -118,21 +120,23 @@ Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime M
 ** Critique
 	Go thru--
 		Chesapeake College 
-	Breeze thru--
+
+Breeze thru--
 		"Land of the Free" by Geoffrey K Pullum 	<== a rather scathing critique
 		
-		NB. Article in The Guardian
-		The Truth About English Grammar by Geoffrey K Pullum 
+		NB. Article in The Guardian:
+		A review - the pants rule and other pipe dreams
+		A breezy guide to grammar that sides with the ordinary Joe against the nitpickers
+		"The Truth About English Grammar" a book by Geoffrey K Pullum
 		
-		A review – the pants rule and other pipe dreams
-		A breezy guide to grammar sides with the ordinary Joe against the nitpickers
-		https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-grammar-by-geoffrey-k-pullum-review-the-pants-rule-and-other-pipe-dreams
+		https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-grammar-by-geoffrey-k-pullum-review-the-
+		pants-rule-and-other-pipe-dreams
 
 
 ** Legal Docs 1
 	Quick look at Mexico's legal system/structure
 	
-	Coomon Law vs. Civil Law (fr. Cornell Law School, Legal Information Institute)
+	Common Law vs. Civil Law (fr. Cornell Law School, Legal Information Institute)
 
 		Common law is law that is derived from judicial decisions instead of from statutes . American 
 		courts originally fashioned common law rules based on English common law until the American legal 
@@ -182,31 +186,36 @@ Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime M
 		5. The Power of Words
 		6. Kindness and Compassion
 		
-	i) 		analyze highlights and important events as plot elements, 
-	ii) 	analyze characters and their motivations 
-			[Character maps that include their traits, relationships, and key events]
-	iii) 	evaluate the stylistic elements used by the author (genre)
-	iv) 	critique the author's choices and style
+	Highlights and important events as plot elements, 
+	Character ==> Character maps that include motivations, traits, relationships, and key events
+	Stylistic elements used by the author (genre)
+	Critique the author's choices and style
+	
+	* Summarize Major Theme Development section
+	* Summarize Character Development section
+	* Summarize Story Arc section
+	* Summarize Writing Style section
+	* Your personal opinion of the work
 	
 ** Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.	
 
 
-Silent reading (20 min)
-
-
-
----- Work time
-	
-
 --- Coming up
-
 ** APA and Professional Voice
 
-** Economic Docs 1
+** Foundations of Std Economic Theory
 
 ** Final written critique Charlotte's Web
 
 ** More Murphy's Grammar
+
+
+
+---- Work time
+Silent reading (20 min)
+	
+
+
 
 
 

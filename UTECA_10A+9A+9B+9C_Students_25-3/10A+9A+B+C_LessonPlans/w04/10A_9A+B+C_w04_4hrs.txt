@@ -77,17 +77,29 @@ Conclusions						<== Level 1
 
 	
 --- Task 2
-Vocab_03 (Charlotte's web)
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of 109 words from the second part of Charlotte's Web.
+
 
 --- Task 3
-Translation of econ theorems
+Translate the following two axioms from standard economics into Spanish:
+
+	Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we 
+	might desire. In other words, society faces a scarcity of resources.
+
+	Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from 
+	producing something else. “There is no such thing as a free lunch.”
 
 --- Task 4
-Prep for 1P exam
-	*
-
-
-
+Prep for 1P exam. You should be able to:
+	* Compare and contrast Spanish, English, and Chinese (briefly)
+	* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+	* Define Zip's Law and explain why it is useful
+	* Define what generative text models are and very roughly, what they can do
+	* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+	* Read and evaluate new information regarding perspectives on academic writing
+	* Translate a brief excerpt from a tesis aislada into English
+	* Select five (5) words to memorize from our vocabulary thus far.
+	
 #############################################
 
 
@@ -96,25 +108,38 @@ Today
 #######
 
 ---- Open
+"Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on."
+		--- Paula Abdul
+		(singer, dancer, choreographer, actress, and television personality)
 
 
-	
+
+" The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it. The first lesson of politics is to disregard the first lesson of economics."
+			--- Thomas Sowell
+			(economist, economic historian, social philosopher, and political commentator)
+
 
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 --- Review
-
-
+	* Strunk and White’s. “Elements of Style”
+	* Critique
+	* Legal systems
+	* Charlotte's Web
 
 
 --- New
+** More Murphy's English Grammar in Use
+	Units			Pg 
 
-** More Murphy's Grammar
+
 
 ** APA and Professional Voice
 	Rapid review of APA-style docs
+
+
 
 ** Standard Economic Axioms, Theorems, and Corollaries
 	Economics: The study of choice and resource allocation under conditions of scarcity.
@@ -128,7 +153,7 @@ Axiom 1: As a society, our resources—land, labor, and capital—are insufficie
 	exchange enable us to enjoy greater production, and higher living standards than would otherwise be possible.
 
 
-Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must  shift resources away from producing something else. “There is no such thing as a free lunch.”
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
 		
 	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are constrained by the 
 	resources they control.
@@ -137,19 +162,22 @@ Axiom 2: All production carries an opportunity cost: To produce more of one thin
 		under their control than others.
 		
 	
+** see HW_04
+	==> Final written critique Charlotte's Web
+	==> Prep for 1P
+		Memorize 5 vocab words
 
-** Final written critique Charlotte's Web
 
+--- Coming up
+	* Exam 1P
 
-** Prep for 1P
-	memorize 5 vocab words
-	
 
 
 ---- Work time
 	
 
---- Coming up
+
+
 
 
 
