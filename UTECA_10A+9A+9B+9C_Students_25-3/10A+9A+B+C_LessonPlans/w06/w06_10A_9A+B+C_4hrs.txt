@@ -1,0 +1,160 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés X
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A
+
+Docente:		Bruce D. Marron
+Ciclo: 			25-3
+Materia: 		Inglés IX
+Curso:			IT0939
+Licenciatura: 	Interpretación y Traducción
+Grupo:			9A+B+C
+
+
+#####################
+HW_06 [Due: 17 Jun 2025]	<== 9A+B+C
+HW_06 [Due: 19 Jun 2025]	<== 10A
+
+
+--- Task 1
+
+
+
+--- Task 2
+Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and Códigos form the backbone of this system which is overseen by the Poder Judicial de la Federación. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
+
+		04a_TesisAislada_PruebaPericial.pdf		
+		04b_Ley-de-Poder-Judicial.pdf
+
+--- Task 3
+Translate the following two axioms from standard economics into Spanish:
+
+	Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we 
+	might desire. In other words, society faces a scarcity of resources.
+
+	Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from 
+	producing something else. “There is no such thing as a free lunch.”
+	
+
+#############################################
+
+
+#######
+Today
+#######
+
+---- Open
+
+legal quote
+
+
+"The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it. The first lesson of politics is to disregard the first lesson of economics."
+			--- Thomas Sowell
+			(economist, economic historian, social philosopher, and political commentator)
+
+
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+--- Review
+
+	* Go thru exam
+
+--- New
+
+** Legal Docs 1
+	Quick look at Mexico's legal system/structure
+	
+	Common Law vs. Civil Law (fr. Cornell Law School, Legal Information Institute)
+
+		Common law is law that is derived from judicial decisions instead of from statutes . American 
+		courts originally fashioned common law rules based on English common law until the American legal 
+		system was sufficiently mature to create common law rules either from direct precedent or by 
+		analogy to comparable areas of decided law.
+		
+		Civil law, as a legal system, refers to a popular way of structuring legal systems around broad 
+		codes and detailed statutes that determines the rights and obligations of individuals, without 
+		emphasis on the role of precedent, courts, judges, and juries as in common law countries. 
+		Civil law countries typically are characterized by their emphasis on the codified law only with 
+		judges playing the main role of finding the facts and applying the law in courts. 
+	
+	
+	Poder Judicial de la Federación
+		Está integrado por:
+    		La Suprema Corte de Justicia de la Nación
+   			El Consejo de la Judicatura Federal
+   			Los Plenos Regionales
+   			Los Tribunales Colegiados de Circuito
+    		Los Tribunales Colegiados de Apelación
+    		Los Juzgados de Distrito
+    		El Tribunal Electoral del Poder Judicial de la Federación
+	
+	Diario Oficial de la Federacion
+		El Diario Oficial de la Federación (DOF) es el órgano de publicación oficial del Gobierno 
+		Constitucional de los Estados Unidos Mexicanos. Su función principal es publicar las leyes, 
+		reglamentos, acuerdos, circulares, órdenes y demás actos expedidos por los poderes de la 
+		Federación.
+
+	Tesis Aisladas y Jurisprudencia
+		Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes 
+		contenidos en las sentencias. Tesis aislada es un criterio de interpretación que orienta a los 
+		jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es 
+		obligatoria, mientras que la tesis aislada no lo es.
+
+
+Found here:
+	Content Docs
+		==> 2P
+		01_Ley-de-Poder-Judicial.pdf
+		02_TesisAislada_PruebaPericial.pdf
+		
+
+
+
+** Legal Docs I
+	Quick look at Standard Economic Axioms, Theorems, and Corollaries
+	
+		Economics: The study of choice and resource allocation under conditions of scarcity.
+
+		Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services 
+		we might desire. In other words, society faces a scarcity of resources.
+
+			Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we need. We are 
+			economically linked to others in hundreds—even thousands—of different ways.
+	
+			Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because specialization 
+			and exchange enable us to enjoy greater production, and higher living standards than would otherwise be possible.
+
+
+		Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away 
+		from producing something else. “There is no such thing as a free lunch.”
+		
+			Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are constrained 
+			by the resources they control.
+	
+				Corrollary 1: We do not all start in the same place in the economic race. Individuals may have more or less 
+				resources nder their control than others.
+
+
+** "Bless Me, Ultima" by Rudolfo Anaya
+
+
+--- Coming up
+
+
+---- Work time
+	
+
+
+
+
+
+
+
+
+

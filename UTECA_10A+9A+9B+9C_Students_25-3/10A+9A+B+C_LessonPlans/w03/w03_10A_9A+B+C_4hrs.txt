@@ -50,46 +50,9 @@ NB. Pullman can be found here:
 		==> Grammar
 			==> Critique
 --- Task 2
-Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and Códigos form the backbone of this system which is overseen by the Poder Judicial de la Federación. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
-		04a_TesisAislada_PClass Materials
-	AdminDocs
-	ContentDocs
-		1P
-		2P
-		3P
-	GradingRubrics		<== individual rubrics
-	LectureNotes		<== folders by week
-	ReferenceDocs
-		AI_Translation
-			Python
-			Research
-			SampleOutputs
-			Prezy
-		Grammar
-			Academic Voice
-			Critique
-			ErrorCodes
-			StandardGrammar
-			StyleGuides	
-			Texts
-			YaleWritingCenter
-		ProfessionalConsulting
-			TransmittalLetters
-		RecordsManagement
-			
-		<Subject Specific Docs>
-		
-		
-		
-		ruebaPericial.pdf
-		04b_Ley-de-Poder-Judicial.pdf
-	
-
---- Task 3
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
 
-
---- Task 4
+--- Task 3
 Read Chapters XII through XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
 	i) 		analyze highlights and important events as plot elements, 
 	ii) 	analyze characters and their motivations,
@@ -97,6 +60,10 @@ Read Chapters XII through XXII of "Charlotte's Web." Be prepared to contribute n
 	iv) 	critique the author's choices and style.
 
 NB. Ultimately, you will write a full critique of this novel.
+
+
+
+
 #############################################
 
 
@@ -147,8 +114,6 @@ Writing is an act of faith, not a trick of grammar.
 	Language only for humans?? Quorum sensing in bacteria
 	
 
-
-
 --- Review
 
 *Language models
@@ -170,7 +135,7 @@ Units			Pg
 	***34		 p.68
 
 
-** Strunk and White’s. “Elements of Style”
+** Strunk and White’s. “Elements of Style”		<== 10A, 9C
 Found here:
 	Reference Docs
 		==> Grammar
@@ -186,7 +151,7 @@ Found here:
 		==> Grammar
 			==> Critique
 			
-	Chesapeake College Guidelines				<==9A
+	Chesapeake College Guidelines				
 
 
 Found here:
@@ -194,7 +159,7 @@ Found here:
 		==> Grammar
 			==> Critique
 			
-	"Land of the Free" by Geoffrey K Pullum 	<== a rather scathing critique
+	"Land of the Free" by Geoffrey K Pullum 	<== 9A, 9B
 		
 		NB. Article in The Guardian:
 		A review - the pants rule and other pipe dreams
@@ -205,61 +170,21 @@ Found here:
 		pants-rule-and-other-pipe-dreams
 
 
-** Legal Docs 1
-	Quick look at Mexico's legal system/structure
-	
-	Common Law vs. Civil Law (fr. Cornell Law School, Legal Information Institute)
-
-		Common law is law that is derived from judicial decisions instead of from statutes . American 
-		courts originally fashioned common law rules based on English common law until the American legal 
-		system was sufficiently mature to create common law rules either from direct precedent or by 
-		analogy to comparable areas of decided law.
-		
-		Civil law, as a legal system, refers to a popular way of structuring legal systems around broad 
-		codes and detailed statutes that determines the rights and obligations of individuals, without 
-		emphasis on the role of precedent, courts, judges, and juries as in common law countries. 
-		Civil law countries typically are characterized by their emphasis on the codified law only with 
-		judges playing the main role of finding the facts and applying the law in courts. 
-	
-	
-	Poder Judicial de la Federación
-		Está integrado por:
-    		La Suprema Corte de Justicia de la Nación
-   			El Consejo de la Judicatura Federal
-   			Los Plenos Regionales
-   			Los Tribunales Colegiados de Circuito
-    		Los Tribunales Colegiados de Apelación
-    		Los Juzgados de Distrito
-    		El Tribunal Electoral del Poder Judicial de la Federación
-	
-	Diario Oficial de la Federacion
-		El Diario Oficial de la Federación (DOF) es el órgano de publicación oficial del Gobierno 
-		Constitucional de los Estados Unidos Mexicanos. Su función principal es publicar las leyes, 
-		reglamentos, acuerdos, circulares, órdenes y demás actos expedidos por los poderes de la 
-		Federación.
-
-	Tesis Aisladas y Jurisprudencia
-		Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes 
-		contenidos en las sentencias. Tesis aislada es un criterio de interpretación que orienta a los 
-		jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es 
-		obligatoria, mientras que la tesis aislada no lo es.
-
-
-Found here:
-	Content Docs
-		==> 1P
-
-		04a_TesisAislada_PruebaPericial.pdf
-		04b_Ley-de-Poder-Judicial.pdf
-
-
-** Charlotte's Web
+** Charlotte's Web seminar
 Found here:
 	Content Docs
 		==> Novels
+		
+	Goals:
+		* Summarize Major Theme Development
+		* Summarize Character Development
+		* Summarize Story Arc 
+		* Summarize Writing Style
+		* Your personal opinion of the work
 
-	Review selected chapter I-XI questions 			<== Socratic seminar style
-	Review the Important Themes thus far--------
+	Review chapter I-XI summaries / questions 	
+
+	Review the Important Themes --------
 		1. Friendship
 		2. Life and Death
 		3. Courage and Sacrifice
@@ -268,15 +193,14 @@ Found here:
 		6. Kindness and Compassion
 		
 	Highlights and important events as plot elements, 
-	Character ==> Character maps that include motivations, traits, relationships, and key events
-	Stylistic elements used by the author (genre)
-	Critique the author's choices and style
 	
-	* Summarize Major Theme Development section
-	* Summarize Character Development section
-	* Summarize Story Arc section
-	* Summarize Writing Style section
-	* Your personal opinion of the work
+	Character Development
+		==> Character maps that include motivations, traits, relationships, and key events
+	
+	Stylistic elements used by the author (genre)
+	
+	Critique the author's choices and style
+
 
 
 ** Vocab_01.txt 72 words from Readings 01, 02, 03
@@ -286,8 +210,6 @@ Found here:
 
 --- Coming up
 ** APA and Professional Voice
-
-** Foundations of Std Economic Theory
 
 ** Final written critique Charlotte's Web
 
