@@ -44,10 +44,44 @@ Evaluation and Critiscism		<== Level 1
 Conclusions						<== Level 1
 	* Summarize your evaluations
 	* Present your final evaluation of the paper
-	
+
+NB. Pullman can be found here:
+	Reference Docs
+		==> Grammar
+			==> Critique
 --- Task 2
 Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and Códigos form the backbone of this system which is overseen by the Poder Judicial de la Federación. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
-		04a_TesisAislada_PruebaPericial.pdf
+		04a_TesisAislada_PClass Materials
+	AdminDocs
+	ContentDocs
+		1P
+		2P
+		3P
+	GradingRubrics		<== individual rubrics
+	LectureNotes		<== folders by week
+	ReferenceDocs
+		AI_Translation
+			Python
+			Research
+			SampleOutputs
+			Prezy
+		Grammar
+			Academic Voice
+			Critique
+			ErrorCodes
+			StandardGrammar
+			StyleGuides	
+			Texts
+			YaleWritingCenter
+		ProfessionalConsulting
+			TransmittalLetters
+		RecordsManagement
+			
+		<Subject Specific Docs>
+		
+		
+		
+		ruebaPericial.pdf
 		04b_Ley-de-Poder-Judicial.pdf
 	
 
@@ -80,8 +114,7 @@ Sustainable development is the pathway to the future we want for all. It offers 
 			--- Ban Ki-moon
 			(Eighth Secretary-General of the United Nations)
 
-NB. "Our Common Future", also known as the Brundtland Report, was published in October 1987 by the UN.
-Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime Minister and Chair of the World Commission on Environment and Development.
+NB. "Our Common Future", also known as the Brundtland Report, was published in October 1987 by the UN. Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime Minister and Chair of the World Commission on Environment and Development.
 
 
 
@@ -92,15 +125,26 @@ Writing is an act of faith, not a trick of grammar.
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ** Grading
-	Rubric
+	Good job! 
+	Grading Rubric
 	Common Errors doc
+		Grammar
+			==> ErrorCodes
+
+	Know what is asked of you
+	Format counts
+		
 	
 	"We"
+	Summarizing is not regurgitating
+		==> could relate the entire universe to see shell but...
 	Not focused on marketing 
-	Not regurgitating 
-		==> summarizing
+	
 	Widows/Orphans
 	Number conventions one to ten
+	Distinctive writing styles in the same document
+	
+	Language only for humans?? Quorum sensing in bacteria
 	
 
 
@@ -117,20 +161,40 @@ Writing is an act of faith, not a trick of grammar.
 
 --- New
 ** Murphy's English Grammar in Use
-	Units			Pg 
-		
+Found here:
+	Reference Docs
+		==> Grammar
+			==> Texts
+
+Units			Pg 
+	***34		 p.68
 
 
 ** Strunk and White’s. “Elements of Style”
-	I 	ELEMENTARY RULES OF USAGE	
+Found here:
+	Reference Docs
+		==> Grammar
+			==> Texts
+			
+	I 	Elementary Rules of Usage	
 	II	Elementary Principles of Composition
+	V	An approach to Style
 
 ** Critique
-	Go thru--
-		Chesapeake College 
+Found here:
+	Reference Docs
+		==> Grammar
+			==> Critique
+			
+	Chesapeake College Guidelines				<==9A
 
-Breeze thru--
-		"Land of the Free" by Geoffrey K Pullum 	<== a rather scathing critique
+
+Found here:
+	Reference Docs
+		==> Grammar
+			==> Critique
+			
+	"Land of the Free" by Geoffrey K Pullum 	<== a rather scathing critique
 		
 		NB. Article in The Guardian:
 		A review - the pants rule and other pipe dreams
@@ -179,12 +243,21 @@ Breeze thru--
 		contenidos en las sentencias. Tesis aislada es un criterio de interpretación que orienta a los 
 		jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es 
 		obligatoria, mientras que la tesis aislada no lo es.
-	
+
+
+Found here:
+	Content Docs
+		==> 1P
+
 		04a_TesisAislada_PruebaPericial.pdf
 		04b_Ley-de-Poder-Judicial.pdf
 
 
 ** Charlotte's Web
+Found here:
+	Content Docs
+		==> Novels
+
 	Review selected chapter I-XI questions 			<== Socratic seminar style
 	Review the Important Themes thus far--------
 		1. Friendship
@@ -204,8 +277,11 @@ Breeze thru--
 	* Summarize Story Arc section
 	* Summarize Writing Style section
 	* Your personal opinion of the work
+
+
+** Vocab_01.txt 72 words from Readings 01, 02, 03
+** Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
 	
-** Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.	
 
 
 --- Coming up

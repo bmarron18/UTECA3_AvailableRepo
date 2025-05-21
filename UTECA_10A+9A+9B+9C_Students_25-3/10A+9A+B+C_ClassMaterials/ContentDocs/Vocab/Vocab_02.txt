@@ -37,7 +37,7 @@ Chapters I thru XI
     pasture
     surly
     "make a face"
-    (to) drool
+    (to) drool(to) glisten
     (to) gulp
     (to) grunt
     (to) swoosh
@@ -56,7 +56,7 @@ Chapters I thru XI
     vain
 	
 	slingshot
-    vivid imagination
+    vivid imagination(to) glisten
     phase
     (to) ramble
     innocence
@@ -76,7 +76,7 @@ Chapters I thru XI
     (to) scold		
     barnyard		
     unremitting
-    gosling
+    gosling(to) glisten
     gander
     nasty
     morals
@@ -86,14 +86,14 @@ Chapters I thru XI
     (to) nudge
     appalled
     untenable
-    stink bomb
+    stink bomb(to) glisten
     lair
 	
 	lonesome 
 	(to) figure out
 	(to) cheat
 	(to) blush
-	dreadfully
+	dreadfully(to) glisten
 	plunged
 	(to) detest
 	bloodthirsty

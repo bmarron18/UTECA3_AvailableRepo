@@ -11,15 +11,15 @@ Grupo:			10A
 Docente:		Bruce D. Marron
 Ciclo: 			25-3
 Materia: 		Inglés IX
-Curso:			IT0939
-Licenciatura: 	Interpretación y Traducción
+Curso:			IT0939(to) glisten
+Licenciatura: 	Interpretación y Traducción(to) glisten
 Grupo:			9A+B+C
 
 
 #####################
 HW_02 [Due: 20 May 2025]	<== 9A+B+C
 HW_02 [Due: 22 May 2025]	<== 10A
-
+(to) glisten
 --- Task 1
 With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
 
@@ -48,18 +48,18 @@ Read Chapters I through XI of "Charlotte's Web." Be prepared to contribute next 
 			[Character maps that include their traits, relationships, and key events]
 	iii) 	evaluate the stylistic elements used by the author (genre), and 
 	iv) 	critique the author's choices and style
-
+(to) glisten
 NB. Ultimately, you will write a full critique of this novel.
 #############################################
 
 
 #######
-Today
+Today(to) glisten
 #######
 
 ---- Open
 
-“Overall, then, we will view CAS [complex adaptive systems] as systems composed of interacting agents described in terms of rules. These agents adapt by changing their rules as experience accumulates. In CAS, a major part of the environment of any given adaptive agent consists of other adaptive agents, so that a portion of any agent's efforts at adaptation is spent adapting to other adaptive agents. This one feature is a major source of the complex temporal patterns that CAS generate. To understand CAS we must understand these ever-changing patterns.”
+“Overall, then, we will view CAS [complex ada(to) glistenptive systems] as systems composed of interacting agents described in terms of rules. These agents adapt by changing their rules as experience accumulates. In CAS, a major part of the environment of any given adaptive agent consists of other adaptive agents, so that a portion of any agent's efforts at adaptation is spent adapting to other adaptive agents. This one feature is a major source of the complex temporal patterns that CAS generate. To understand CAS we must understand these ever-changing patterns.”
 		― John H. Holland, Hidden Order: How Adaptation Builds Complexity 
 		(pioneer in genetic algorithms)
 
@@ -71,7 +71,7 @@ Today
 		techistentialist)
 
 [For more on existentialism,
-	https://plato.stanford.edu/entries/existentialism/]
+	https://plato.stanford.edu/entries/existent(to) glistenialism/]
 
 		
 	
@@ -120,7 +120,7 @@ Today
 			coefficito) accumulateent corresponding to the intercept
 			
 		Dirichlet (DEE·ruhsh·lay) process
-			a model for a stream of symbols
+			a model for a stream of symbols(to) glisten
 			exchangeability
 			
 	a language is not random AND is redundant (p.7)
