@@ -23,23 +23,24 @@ HW_03 [Due: 29 May 2025]	<== 10A
 --- Task 1
 Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
 
-	Task 1: A Critique of G. Pullman's, "Land of the Free"
+	Task 1: A Critique of G. Pullum's, "Land of the Free"
 
 Introduction					<== Level 1
 	* What is Strunk and White's "Elements of Style"? Why is it important?
 	* Who is Geoffrey K. Pullum? What is his motive in writing the paper? When did he publish the paper?
 	* Provide a very brief overview of Pullman's paper
+	* Write your thesis statement
 
-Evaluation and Critiscism		<== Level 1
-	* Pullman's critiscism #1	<== Level 2
-		==> briefly summarize the critiscism
-		==> evaluate the amount and kinds of support used to back up the critiscism
-		==> your evaluation of the critiscism
+Evaluation of Criticisms		<== Level 1
+	* Pullum Criticism #1	<== Level 2
+		==> briefly summarize the criticism
+		==> evaluate the amount and kinds of support used to back up the Criticism
+		==> your evaluation of the criticism
 		
-	* Pullman's critiscism #2	<== Level 2
-		==> briefly summarize the critiscism
-		==> evaluate the amount and kinds of support used to back up the critiscism
-		==> your evaluation of the critiscism
+	* Pullum Criticism #2	<== Level 2
+		==> briefly summarize the criticism
+		==> evaluate the amount and kinds of support used to back up the Criticism
+		==> your evaluation of the criticism
 		
 Conclusions						<== Level 1
 	* Summarize your evaluations
@@ -110,7 +111,7 @@ Writing is an act of faith, not a trick of grammar.
 	Widows/Orphans
 	Number conventions one to ten
 	Distinctive writing styles in the same document
-	
+	Note: Please see me during work time for a detailed explanation and suggested amendments.
 	Language only for humans?? Quorum sensing in bacteria
 	
 
@@ -135,7 +136,7 @@ Units			Pg
 	***34		 p.68
 
 
-** Strunk and White’s. “Elements of Style”		<== 10A, 9C
+** Strunk and White’s. “Elements of Style”		<== 10A
 Found here:
 	Reference Docs
 		==> Grammar
@@ -170,8 +171,8 @@ Found here:
 		pants-rule-and-other-pipe-dreams
 
 
-** Charlotte's Web seminar
-Found here:
+** Charlotte's Web seminar		<== 9C Ch 1 only
+Found here:	runt 
 	Content Docs
 		==> Novels
 		
@@ -183,7 +184,7 @@ Found here:
 		* Your personal opinion of the work
 
 	Review chapter I-XI summaries / questions 	
-
+	runt 
 	Review the Important Themes --------
 		1. Friendship
 		2. Life and Death

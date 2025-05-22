@@ -30,11 +30,9 @@ Introduction					<== Level 1
 	* Who is E.B. White? Why is he famous? When did he publish the book?
 	* Provide a very brief overview of the book
 
-Evaluation and Critiscism		<== Level 1
-	* Define the upcoming sections
 	
-	Major Theme Development	<== Level 2
-		* Theme 1
+Major Theme Development		<== Level 1
+		* Theme 1			<== Level2
 			==> Definition of the theme
 			==> Describe how the theme is developed citing examples from the book
 			==> Evaluate the author's ability to develop the theme
@@ -44,8 +42,8 @@ Evaluation and Critiscism		<== Level 1
 			==> Describe how the theme is developed citing examples from the book
 			==> Evaluate the author's ability to develop the theme
 		
-	Character Development	<== Level 2
-		* Character 1
+Character Development	<== Level 1
+		* Character 1	<== Level2
 			==> Description of the character
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
@@ -55,10 +53,10 @@ Evaluation and Critiscism		<== Level 1
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
 
-	Story Arc 		<== Level 2
+Story Arc 		<== Level 1
 		* Briefly define and/or diagram the story arc (the chronological construction of the plot)
 
-	Writing Style	<== Level 2
+Writing Style	<== Level 1
 		* Evaluate E.B. White's style
 			==> ease of reading?
 			==> flow?
@@ -68,7 +66,7 @@ Evaluation and Critiscism		<== Level 1
 			==> holds together logically?
 			==> genre?
 
-Conclusions						<== Level 1
+Conclusions		<== Level 1
 	* Summarize Major Theme Development section
 	* Summarize Character Development section
 	* Summarize Story Arc section
