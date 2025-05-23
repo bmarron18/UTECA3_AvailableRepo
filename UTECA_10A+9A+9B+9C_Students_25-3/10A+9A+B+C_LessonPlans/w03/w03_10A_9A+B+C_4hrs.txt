@@ -46,7 +46,7 @@ Conclusions						<== Level 1
 	* Summarize your evaluations
 	* Present your final evaluation of the paper
 
-NB. Pullman can be found here:
+NB. Pullum can be found here:
 	Reference Docs
 		==> Grammar
 			==> Critique
@@ -83,7 +83,7 @@ Sustainable development is the pathway to the future we want for all. It offers 
 			(Eighth Secretary-General of the United Nations)
 
 NB. "Our Common Future", also known as the Brundtland Report, was published in October 1987 by the UN. Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime Minister and Chair of the World Commission on Environment and Development.
-
+The Land of the Free
 
 
 
@@ -160,7 +160,7 @@ Found here:
 		==> Grammar
 			==> Critique
 			
-	"Land of the Free" by Geoffrey K Pullum 	<== 9A, 9B
+	"Land of the Free" by Geoffrey K Pullum 	
 		
 		NB. Article in The Guardian:
 		A review - the pants rule and other pipe dreams
@@ -171,7 +171,7 @@ Found here:
 		pants-rule-and-other-pipe-dreams
 
 
-** Charlotte's Web seminar		<== 9C Ch 1 only
+** Charlotte's Web seminar		
 Found here:	runt 
 	Content Docs
 		==> Novels

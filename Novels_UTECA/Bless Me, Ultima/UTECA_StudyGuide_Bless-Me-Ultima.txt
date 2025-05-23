@@ -13,8 +13,7 @@ Lexile Reading Level = 840L
 ##################################
 
 %%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
-ChatGPT prompt--
-	9th grade English ESL; "Bless Me. Ultima" Ruldolfo Anaya, Major Themes
+
 
 1. Coming of Age
 The novel is a coming-of-age story that follows Antonio Márez as he navigates his journey from childhood to adolescence. Throughout the book, Antonio faces various challenges that force him to grow and mature.
@@ -22,18 +21,14 @@ The novel is a coming-of-age story that follows Antonio Márez as he navigates hi
 2. Identity and Cultural Heritage
 Antonio is caught between different cultural and familial expectations. His father's vaquero heritage and his mother's devout Catholic and Luna farming background represent two distinct paths for Antonio's future.
  
-
 3. Good vs. Evil
 The novel explores the nature of good and evil, often through the lens of Ultima's healing practices and the presence of malevolent forces in the community.
-
 
 4. Faith and Doubt
 Antonio's journey involves questioning his religious beliefs and grappling with doubts about the Catholic faith he has been raised in.
 
-
 5. Nature and the Supernatural
 The novel frequently juxtaposes the natural world with the supernatural, emphasizing the interconnectedness of life and the spiritual realm.
-
 
 6. Family and Community
 Family and community play crucial roles in shaping Antonio's identity and values. The support and expectations of his family members and the broader community influence his decisions and growth.
@@ -47,12 +42,8 @@ Theme-Based Discussion Questions
     How do Antonio’s experiences challenge his faith, and what conclusions does he reach about spirituality?
     
     
-
-
-
 %%%%%%%%% Synopsis, Vocab and Discussion Questions	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-ChatGPT prompt--
-	9th grade English; "Bless Me, Ultima" by Ruldofo Anaya, Chapter xx Synopsis, Vocabulary, and Discussion Questions
+
 
 
 --- Chap 22

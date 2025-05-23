@@ -2,26 +2,72 @@
 All HW 1P
 ########
 
+HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
+HW_04 [Due: 05 Jun 2025]	<== 10A
+--- Task 1
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of 109 words from the second part of Charlotte's Web.
+
+--- Task 2
+Finish reading "Charlotte's Web." Be prepared to contribute to a discussion of the entire novel
+
+
+--- Task 3
+Prep for 1P exam. You should be able to:
+	* Compare and contrast Spanish, English, and Chinese (briefly)
+	* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+	* Define Zip's Law and explain why it is useful
+	* Define what generative text models are and very roughly, what they can do
+	* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+	* Read and evaluate new information regarding perspectives on academic writing
+	* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
+	* Select five (5) words to memorize from our vocabulary thus far.
+
+
+
+
+
 ***HW_03 [Due: 27 May 2025]	<== 9A+B+C
 ***HW_03 [Due: 29 May 2025]	<== 10A
-
 --- Task 1
-Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique.
-	
+Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
+
+	Task 1: A Critique of G. Pullum's, "Land of the Free"
+
+Introduction					<== Level 1
+	* What is Strunk and White's "Elements of Style"? Why is it important?
+	* Who is Geoffrey K. Pullum? What is his motive in writing the paper? When did he publish the paper?
+	* Provide a very brief overview of Pullman's paper
+	* Write your thesis statement
+
+Evaluation of Criticisms		<== Level 1
+	* Pullum Criticism #1	<== Level 2
+		==> briefly summarize the criticism
+		==> evaluate the amount and kinds of support used to back up the Criticism
+		==> your evaluation of the criticism
+		
+	* Pullum Criticism #2	<== Level 2
+		==> briefly summarize the criticism
+		==> evaluate the amount and kinds of support used to back up the Criticism
+		==> your evaluation of the criticism
+		
+Conclusions						<== Level 1
+	* Summarize your evaluations
+	* Present your final evaluation of the paper
+
+NB. Pullum can be found here:
+	Reference Docs
+		==> Grammar
+			==> Critique
 --- Task 2
-Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and Códigos form the backbone of this system which is overseen by the Poder Judicial de la Federación. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
-		04a_TesisAislada_PruebaPericial.pdf
-		04b_Ley-de-Poder-Judicial.pdf
-	
---- Task 3
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
 
---- Task 4
+--- Task 3
 Read Chapters XII through XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
 	i) 		analyze highlights and important events as plot elements, 
 	ii) 	analyze characters and their motivations,
 	iii) 	evaluate the stylistic elements used by the author, and 
 	iv) 	critique the author's choices and style.
+
 NB. Ultimately, you will write a full critique of this novel.
 
 
@@ -29,7 +75,6 @@ NB. Ultimately, you will write a full critique of this novel.
 
 ***HW_02 [Due: 20 May 2025]	<== 9A+B+C
 ***HW_02 [Due: 22 May 2025]	<== 10A
-
 --- Task 1
 With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
 
@@ -63,7 +108,6 @@ NB. Ultimately, you will write a full critique of this novel.
 
 *** HW_01 [Due: 13 May 2025]	<== 9A+B+C
 	HW_01 [Due: 15 May 2025]	<== 10A
-
 --- Task 1
 Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 5-11):
 	
@@ -80,7 +124,6 @@ Write a one+-page summary of the excerpt in English and translate the summary in
 
 --- Task 2
 Reflect on the concept of language (its function, its components, its transmittal, etc). In a one+-page paper, compare and contrast Spanish, English and Chinese. What strikes you as fundamnetal similarities and differences between these three languages?  Frame your responses with reference to the concept of language and be prepared to discuss your responses in class.
-
 
 --- Task 3
 Work through the complete Study Guide in R. Murphy's, "English Grammar in Use". List every section with which you may need review. The Study Guide can be found on p. 326. The key to the Study Guide is given on p. 372.
