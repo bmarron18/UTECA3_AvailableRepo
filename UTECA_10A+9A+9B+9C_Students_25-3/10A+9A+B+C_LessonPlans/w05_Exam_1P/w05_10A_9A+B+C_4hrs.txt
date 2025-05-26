@@ -21,18 +21,18 @@ HW_05 [Due: 12 Jun 2025]	<== 10A
 
 
 --- Task 1
-Write a three+-page critique of Charlotte's Web, Use the Chesapeake College guide to organize your document and present your critique in the following format,
+Write a three+-page critique of Charlotte's Web, Use the Chesapeake College guide to organize your document and present your critique in the following format (see Marron_StyleGuide):
 
 	Task 1: A Critique of E.B. White's, "Charlotte's Web"
 
-Introduction					<== Level 1
+Introduction					
 	* What is "Charlotte's Web"? Why is it important? 
 	* Who is E.B. White? Why is he famous? When did he publish the book?
 	* Provide a very brief overview of the book
 
 	
-Major Theme Development		<== Level 1
-		* Theme 1			<== Level2
+Major Theme Development		
+		* Theme 1			
 			==> Definition of the theme
 			==> Describe how the theme is developed citing examples from the book
 			==> Evaluate the author's ability to develop the theme
@@ -42,8 +42,8 @@ Major Theme Development		<== Level 1
 			==> Describe how the theme is developed citing examples from the book
 			==> Evaluate the author's ability to develop the theme
 		
-Character Development	<== Level 1
-		* Character 1	<== Level2
+Character Development	
+		* Character 1	
 			==> Description of the character
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
@@ -53,10 +53,10 @@ Character Development	<== Level 1
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
 
-Story Arc 		<== Level 1
+Story Arc 		
 		* Briefly define and/or diagram the story arc (the chronological construction of the plot)
 
-Writing Style	<== Level 1
+Writing Style	
 		* Evaluate E.B. White's style
 			==> ease of reading?
 			==> flow?
@@ -66,12 +66,12 @@ Writing Style	<== Level 1
 			==> holds together logically?
 			==> genre?
 
-Conclusions		<== Level 1
+Conclusions		
 	* Summarize Major Theme Development section
 	* Summarize Character Development section
 	* Summarize Story Arc section
 	* Summarize Writing Style section
-	* Your personal opinion of the work
+	* State your personal opinion of the work
 
 	
 
@@ -97,6 +97,14 @@ Today
 
 
 --- Coming up
+
+	* Exam 1P
+	
+	* Legal Docs 1
+	
+	* Econ Docs I
+	
+	*"Bless Me, Ultima"
 
 
 ---- Work time

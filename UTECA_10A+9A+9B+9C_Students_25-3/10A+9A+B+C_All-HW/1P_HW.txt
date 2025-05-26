@@ -4,11 +4,13 @@ All HW 1P
 
 HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
 HW_04 [Due: 05 Jun 2025]	<== 10A
+
+
 --- Task 1
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of 109 words from the second part of Charlotte's Web.
 
 --- Task 2
-Finish reading "Charlotte's Web." Be prepared to contribute to a discussion of the entire novel
+If you haven't yet done so, finish reading "Charlotte's Web." Be prepared to begin your critique of the entire novel. The critique will be assigned next week and due .
 
 
 --- Task 3
@@ -20,7 +22,9 @@ Prep for 1P exam. You should be able to:
 	* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
 	* Read and evaluate new information regarding perspectives on academic writing
 	* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
-	* Select five (5) words to memorize from our vocabulary thus far.
+	* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt 
+	and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish 
+	translation on the exam
 
 
 

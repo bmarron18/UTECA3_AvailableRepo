@@ -24,19 +24,19 @@ HW_04 [Due: 05 Jun 2025]	<== 10A
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of 109 words from the second part of Charlotte's Web.
 
 --- Task 2
-Finish reading "Charlotte's Web." Be prepared to contribute to a discussion of the entire novel
+If you haven't yet done so, finish reading "Charlotte's Web." Be prepared to begin your critique of the entire novel. The critique will be assigned next week and due .
 
 
 --- Task 3
 Prep for 1P exam. You should be able to:
-	* Compare and contrast Spanish, English, and Chinese (briefly)
-	* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
-	* Define Zip's Law and explain why it is useful
-	* Define what generative text models are and very roughly, what they can do
-	* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
-	* Read and evaluate new information regarding perspectives on academic writing
-	* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
-	* Select five (5) words to memorize from our vocabulary thus far.
+* Compare and contrast Spanish, English, and Chinese (briefly)]
+* Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
+* Define Zip's Law and explain why it is useful
+* Define what generative text models are and very roughly, what they can do
+* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
+* Read and evaluate new information regarding perspectives on academic writing
+* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
+* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish translation on the exam
 
 
 
@@ -56,6 +56,8 @@ Today
 
 
 
+“If you are going through hell, keep going.” 
+		-- Winston Churchill
 
 
 
@@ -72,21 +74,42 @@ Today
 	Units			Pg 
 	70				p 152
 
+
 ** APA and Professional Voice
 	Rapid review of APA-style docs
 
 
 ** Charlotte's Web seminar
-	Goals:
-		* Summarize Major Theme Development
-		* Summarize Character Development
-		* Summarize Story Arc 
-		* Summarize Writing Style
-		* Your personal opinion of the work
+	Ch. 1 - 11
+	Ch. 12 - 22 and entire novel (next week)
+	
+	* Characters and  Character Development / Character Maps
+		Round 1: A simple, Who is this? A main character?
+		
+		Round 2:  Motivations, traits, personality, relationships, key events
+		(after Important Events)
 
-	Review chapter XII-XXII chat GPT summaries / questions 	
+			Fern
+			Avery
+			Mr. Arable
+			Mrs. Arable
+			Wilbur
+			The Goose
+			Templeton
+			Charlotte
+			The Old Sheep
+			Homer and Edith Zuckerman
+			Lurvy
 
-	Review the Important Themes --------
+			Henry Fussy
+			Dr. Dorian
+			Uncle
+			Joy, Aranea, and Nellie
+			
+	* Important events (as plot elements and key events for characters)
+		Rapid scan thru entire novel highlighting events
+
+	* Important Themes
 		1. Friendship
 		2. Life and Death
 		3. Courage and Sacrifice
@@ -94,30 +117,32 @@ Today
 		5. The Power of Words
 		6. Kindness and Compassion
 		
-	Highlights and important events as plot elements, 
 	
-	Character Development
-		==> Character maps that include motivations, traits, relationships, and key events
+	* The Story Arc and Mini-arcs
 	
-	Stylistic elements used by the author (genre)
 	
-	Critique the author's choices and style
+	* Writing Style
+	
+	
+	* Your personal opinion of the work
 
 
-** Final written critique Charlotte's Web (HW_05)
-Write a three+-page critique of Charlotte's Web, Use the Chesapeake College guide to organize your document and present your critique in the following format,
+
+
+** Final written critique Charlotte's Web ==> HW_05 (write AFTER exam)
+Write a three+-page critique of Charlotte's Web, Use the Chesapeake College guide to organize your document and present your critique in the following format (see Marron Style Guide):
 
 	Task 1: A Critique of E.B. White's, "Charlotte's Web"
 
-Introduction					<== Level 1
+Introduction					
 	* What is "Charlotte's Web"? Why is it important? 
 	* Who is E.B. White? Why is he famous? When did he publish the book?
 	* Provide a very brief overview of the book
 
-Evaluation and Critiscism		<== Level 1
+Evaluation and Criticism		
 	* Define the upcoming sections
 	
-	Major Theme Development	<== Level 2
+	Major Theme Development	
 		* Theme 1
 			==> Definition of the theme
 			==> Describe how the theme is developed citing examples from the book
@@ -128,7 +153,7 @@ Evaluation and Critiscism		<== Level 1
 			==> Describe how the theme is developed citing examples from the book
 			==> Evaluate the author's ability to develop the theme
 		
-	Character Development	<== Level 2
+	Character Development	
 		* Character 1
 			==> Description of the character
 			==> Describe how the character is developed citing examples from the book
@@ -139,10 +164,10 @@ Evaluation and Critiscism		<== Level 1
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
 
-	Story Arc 		<== Level 2
+	Story Arc 		
 		* Briefly define and/or diagram the story arc (the chronological construction of the plot)
 
-	Writing Style	<== Level 2
+	Writing Style	
 		* Evaluate E.B. White's style
 			==> ease of reading?
 			==> flow?
@@ -152,12 +177,12 @@ Evaluation and Critiscism		<== Level 1
 			==> holds together logically?
 			==> genre?
 
-Conclusions						<== Level 1
+Conclusions						
 	* Summarize Major Theme Development section
 	* Summarize Character Development section
 	* Summarize Story Arc section
 	* Summarize Writing Style section
-	* Your personal opinion of the work
+	* State your personal opinion of the work
 
 
 ** Prep for Exam 1P (Task 3)
@@ -168,7 +193,9 @@ Conclusions						<== Level 1
 	* Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
 	* Read and evaluate new information regarding perspectives on academic writing
 	* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
-	* Select five (5) words to memorize from our vocabulary thus far.
+	* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt 
+	and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish 
+	translation on the exam.
 
 
 
