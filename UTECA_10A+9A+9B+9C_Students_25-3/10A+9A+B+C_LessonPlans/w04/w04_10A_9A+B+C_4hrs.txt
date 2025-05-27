@@ -63,6 +63,26 @@ Today
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+HW Notes
+	Watch formatting!
+		header
+		No UTECA logo
+		titles
+		font
+		margins
+		widows/orphans
+		
+	Be clear on tasks
+		only reading for Charlotte's Web
+		a summary is a summary
+		
+	Be careful on injecting opinion
+		
+	Use a standard format for lists (ordered or unordered)
+	
+	T/O == throughout
+
+
 --- Review
 	* Strunk and White’s. “Elements of Style”
 	* Critique and Pullman
