@@ -7,7 +7,7 @@ Curso:			IT1044
 Licenciatura: 	Interpretación y Traducción
 Grupo:			10A
 
-Docente:		Bruce D. Marron
+Docente:		Bruce D. MarronNow isn't that lovely! "
 Ciclo: 			25-3
 Materia: 		Inglés IX
 Curso:			IT0939
@@ -39,7 +39,7 @@ Prep for 1P exam. You should be able to:
 * Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish translation on the exam
 
 
-
+jar
 	
 #############################################
 
@@ -56,8 +56,16 @@ Today
 
 
 
+
+
 “If you are going through hell, keep going.” 
 		-- Winston Churchill
+
+
+
+
+
+
 
 
 
@@ -91,7 +99,7 @@ HW Notes
 
 --- New
 ** More Murphy's English Grammar in Use
-	Units			Pg 
+	Unit			Pg 
 	70				p 152
 
 
@@ -99,7 +107,10 @@ HW Notes
 	Rapid review of APA-style docs
 
 
-** Charlotte's Web seminar
+** Charlotte's Web seminar			<== 9A (finished Ch 11)
+									<== 9B (started Ch 6)
+									<== 9C (started Ch 6)
+									<== 10A (finished Ch 4)
 	Ch. 1 - 11
 	Ch. 12 - 22 and entire novel (next week)
 	
