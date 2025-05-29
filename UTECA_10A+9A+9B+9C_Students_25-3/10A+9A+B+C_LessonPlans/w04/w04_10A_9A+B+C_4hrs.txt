@@ -39,7 +39,6 @@ Prep for 1P exam. You should be able to:
 * Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish translation on the exam
 
 
-jar
 	
 #############################################
 
@@ -70,7 +69,7 @@ Today
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+e
 HW Notes
 	Watch formatting!
 		header
@@ -107,10 +106,14 @@ HW Notes
 	Rapid review of APA-style docs
 
 
-** Charlotte's Web seminar			<== 9A (finished Ch 11)
-									<== 9B (started Ch 6)
-									<== 9C (started Ch 6)
-									<== 10A (finished Ch 4)
+** Charlotte's Web seminar			<== 9A (finished Ch 11;
+											Round 2 to )
+									<== 9B (finished Ch 10;
+											Round 2 to )
+									<== 9C (started Ch 11;
+											Round 2 to )
+									<== 10A (finished Ch 4;
+											Round 2 to )
 	Ch. 1 - 11
 	Ch. 12 - 22 and entire novel (next week)
 	
