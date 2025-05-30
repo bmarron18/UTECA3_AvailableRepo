@@ -96,11 +96,11 @@ Today
 
 --- New (2 hrs)
 
-* Characters and  Character Development / Character Maps
+** Characters and  Character Development / Character Maps
 		Round 2:  Motivations, traits, personality, relationships, key events
 		(after Important Events)
 
-			Fern
+			Fern						<== 9A and 9B here w/ characters	
 			Avery
 			Mr. Arable
 			Mrs. Arable
@@ -110,14 +110,15 @@ Today
 			Charlotte
 			The Old Sheep
 			Homer and Edith Zuckerman
-			Lurvy
+			Lurvy						<== 9C and 10A here w/ characters
+										
 
 			Henry Fussy
 			Dr. Dorian
 			Uncle
 			Joy, Aranea, and Nellie
 			
-	* Important Themes
+	* Important Themes					
 		1. Friendship
 		2. Life and Death
 		3. Courage and Sacrifice
@@ -126,13 +127,31 @@ Today
 		6. Kindness and Compassion
 		
 	
-	* The Story Arc and Mini-arcs
+	* The Story Arc and Mini-arcs		<== 9C done
+		1. Time / Space
+		2. Plot
 	
 	
-	* Writing Style
-	
+	* Writing Style						<== 9C done
+		==> ease of reading?
+		==> flow?
+		==> dialog?
+		==> wordiness?
+		==> emotive?
+		==> holds together logically?
+		==> genre?
 	
 	* Your personal opinion of the work
+
+
+** Read Summaries
+	Have students ask Chat GPT for summaries; read aloud; translate some into Spanish
+	Evaluate
+
+
+** Go thru critique assignment
+
+
 
 
 --- Coming up

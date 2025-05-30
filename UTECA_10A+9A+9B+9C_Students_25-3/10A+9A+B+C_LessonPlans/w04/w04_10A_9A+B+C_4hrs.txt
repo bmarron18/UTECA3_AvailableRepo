@@ -7,7 +7,7 @@ Curso:			IT1044
 Licenciatura: 	Interpretación y Traducción
 Grupo:			10A
 
-Docente:		Bruce D. MarronNow isn't that lovely! "
+Docente:		Bruce D. Marron
 Ciclo: 			25-3
 Materia: 		Inglés IX
 Curso:			IT0939
@@ -69,7 +69,7 @@ Today
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-e
+
 HW Notes
 	Watch formatting!
 		header
@@ -153,9 +153,18 @@ HW Notes
 		
 	
 	* The Story Arc and Mini-arcs
+		1. Time / Space
+		2. Plot
 	
 	
 	* Writing Style
+		==> ease of reading?
+		==> flow?
+		==> dialog?
+		==> wordiness?
+		==> emotive?
+		==> holds together logically?
+		==> genre?
 	
 	
 	* Your personal opinion of the work
