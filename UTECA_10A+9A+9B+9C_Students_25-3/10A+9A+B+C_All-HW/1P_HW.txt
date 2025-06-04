@@ -1,11 +1,78 @@
+
+#########
+All HW 2P
+########
+
+
+
+
+
 #########
 All HW 1P
 ########
 
-HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
-HW_04 [Due: 05 Jun 2025]	<== 10A
+**HW_05 [Due: 10 Jun 2025]	<== 9A+B+C
+**HW_05 [Due: 12 Jun 2025]	<== 10A
+--- Task 1
+Write a three+-page critique of Charlotte's Web. Use the Chesapeake College guide to organize your document and present your critique in the format below (see Marron_StyleGuide.pdf for more details). Please note that the questions and statements under each section below are for guidance only. Do not include the questions or the statements in your critique.
 
 
+	Task 1: A Critique of E.B. White's, "Charlotte's Web"
+
+Introduction					
+	* What is "Charlotte's Web"? Why is it important? 
+	* Who is E.B. White? Why is he famous? When did he publish the book?
+	* Provide a very brief overview of the book
+	* Briefly explain what your critique will accomplish
+
+	
+Major Theme Development		
+		* Theme 1			
+			==> Definition of the theme
+			==> Describe how the theme is developed citing examples from the book
+			==> Evaluate the author's ability to develop the theme
+		
+		* Theme 2
+			==> Definition of the theme
+			==> Describe how the theme is developed citing examples from the book
+			==> Evaluate the author's ability to develop the theme
+		
+Character Development	
+		* Character 1	
+			==> Description of the character
+			==> Describe how the character is developed citing examples from the book
+			==> Evaluate the author's ability to develop the character
+		
+		* Character 2
+			==> Description of the character
+			==> Describe how the character is developed citing examples from the book
+			==> Evaluate the author's ability to develop the character
+
+Story Arcs		
+		* Briefly define and/or diagram the major story arc (the chronological construction of the plot)
+		* Briefly provide examples of how minor story arcs are used by the author
+
+Writing Style	
+		* Evaluate E.B. White's writing style
+			==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?
+			==> holds together logically?
+			==> genre?
+
+Conclusions		
+	* Summarize Major Theme Development section
+	* Summarize Character Development section
+	* Summarize Story Arcs section
+	* Summarize Writing Style section
+	* State your personal opinion of the work
+
+
+
+**HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
+**HW_04 [Due: 05 Jun 2025]	<== 10A
 --- Task 1
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of 109 words from the second part of Charlotte's Web.
 
@@ -30,8 +97,8 @@ Prep for 1P exam. You should be able to:
 
 
 
-***HW_03 [Due: 27 May 2025]	<== 9A+B+C
-***HW_03 [Due: 29 May 2025]	<== 10A
+**HW_03 [Due: 27 May 2025]	<== 9A+B+C
+**HW_03 [Due: 29 May 2025]	<== 10A
 --- Task 1
 Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
 
@@ -77,8 +144,8 @@ NB. Ultimately, you will write a full critique of this novel.
 
 
 
-***HW_02 [Due: 20 May 2025]	<== 9A+B+C
-***HW_02 [Due: 22 May 2025]	<== 10A
+**HW_02 [Due: 20 May 2025]	<== 9A+B+C
+**HW_02 [Due: 22 May 2025]	<== 10A
 --- Task 1
 With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
 
@@ -110,8 +177,8 @@ NB. Ultimately, you will write a full critique of this novel.
 
 
 
-*** HW_01 [Due: 13 May 2025]	<== 9A+B+C
-	HW_01 [Due: 15 May 2025]	<== 10A
+** HW_01 [Due: 13 May 2025]	<== 9A+B+C
+**	HW_01 [Due: 15 May 2025]	<== 10A
 --- Task 1
 Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 5-11):
 	

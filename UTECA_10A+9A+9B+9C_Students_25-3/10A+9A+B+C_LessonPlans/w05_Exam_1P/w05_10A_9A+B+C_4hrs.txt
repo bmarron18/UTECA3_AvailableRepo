@@ -65,7 +65,14 @@ Writing Style
 			==> flow?
 			==> dialog?
 			==> wordiness?
-			==> emotive?
+			==> emotive?* Writing Style						<== 9C done
+		==> ease of reading?
+		==> flow?
+		==> dialog?
+		==> wordiness?
+		==> emotive?
+		==> holds together logically?
+		==> genre?
 			==> holds together logically?
 			==> genre?
 
@@ -90,7 +97,7 @@ Today
 HW
 	Format!!! 
 	
-	referencing titles of books, movies, albums, etc in the text
+	referencing titles of books, movies albums, etc in the text
 		    Italics: Both APA and MLA style italicize book titles (w/ caps) 
 			Quotation Marks: Quotation marks are used for titles of articles or chapters within a book. 
 
@@ -119,13 +126,14 @@ HW
 
 ** Read Summaries
 	Have students ask Chat GPT / Gemini for summaries; read aloud; translate some into Spanish
+	Ch 12 - 22
 	Evaluate
 
 ** Characters and  Character Development / Character Maps
 		Round 2:  Motivations, traits, personality, relationships, key events
 		(after Important Events)
 
-			Fern						<== 9A and 9B here w/ characters	
+			Fern						
 			Avery
 			Mr. Arable
 			Mrs. Arable
@@ -135,7 +143,7 @@ HW
 			Charlotte
 			The Old Sheep
 			Homer and Edith Zuckerman
-			Lurvy						<== 9C and 10A here w/ characters
+			Lurvy						
 										
 
 			Henry Fussy
