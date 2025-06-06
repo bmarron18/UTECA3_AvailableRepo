@@ -61,11 +61,6 @@ Story Arcs
 
 Writing Style	
 		* Evaluate E.B. White's writing style
-			==> ease of reading?
-			==> flow?
-			==> dialog?
-			==> wordiness?
-			==> emotive?* Writing Style						<== 9C done
 		==> ease of reading?
 		==> flow?
 		==> dialog?

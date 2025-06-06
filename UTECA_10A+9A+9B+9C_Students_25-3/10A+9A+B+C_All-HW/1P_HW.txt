@@ -39,12 +39,20 @@ Major Theme Development
 		
 Character Development	
 		* Character 1	
-			==> Description of the character
+			==> Description of the character==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?* Writing Style						<== 9C done
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
 		
 		* Character 2
-			==> Description of the character
+			==> Description of the character==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?* Writing Style						<== 9C done
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
 
@@ -52,7 +60,11 @@ Story Arcs
 		* Briefly define and/or diagram the major story arc (the chronological construction of the plot)
 		* Briefly provide examples of how minor story arcs are used by the author
 
-Writing Style	
+Writing Style	==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?* Writing Style						<== 9C done
 		* Evaluate E.B. White's writing style
 			==> ease of reading?
 			==> flow?
@@ -105,7 +117,11 @@ Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today
 	Task 1: A Critique of G. Pullum's, "Land of the Free"
 
 Introduction					<== Level 1
-	* What is Strunk and White's "Elements of Style"? Why is it important?
+	* What is Strunk and White's "Elements of St==> ease of reading?
+			==> flow?
+			==> dialog?
+			==> wordiness?
+			==> emotive?* Writing Style						<== 9C doneyle"? Why is it important?
 	* Who is Geoffrey K. Pullum? What is his motive in writing the paper? When did he publish the paper?
 	* Provide a very brief overview of Pullman's paper
 	* Write your thesis statement
@@ -178,7 +194,7 @@ NB. Ultimately, you will write a full critique of this novel.
 
 
 ** HW_01 [Due: 13 May 2025]	<== 9A+B+C
-**	HW_01 [Due: 15 May 2025]	<== 10A
+** HW_01 [Due: 15 May 2025]	<== 10A
 --- Task 1
 Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 5-11):
 	

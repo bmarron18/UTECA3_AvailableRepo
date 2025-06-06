@@ -98,6 +98,10 @@ legal quote
 
 	* Go thru exam
 
+
+
+
+
 --- New
 
 ** Legal Docs 1
@@ -149,7 +153,7 @@ Found here:
 
 
 
-** Legal Docs I
+** Economics Docs I
 	Quick look at Standard Economic Axioms, Theorems, and Corollaries
 	
 		Economics: The study of choice and resource allocation under conditions of scarcity.
@@ -174,15 +178,24 @@ Found here:
 				resources nder their control than others.
 
 **
-	Charlotte's Web by E.B. White
+	"Charlotte's Web" by E.B. White
 	Lexile Reading Level = 680L
 	192 pages; 22 chapters
 	1930s
-	
-	Bless Me, Ultima" by Rudolfo Anaya
+
+
+	"Bless Me, Ultima" by Rudolfo Anaya
 	Lexile Reading Level = 840L
 	262 pages; 22 Chapters
 	1950s
+
+	"The Joy Luck Club" by Amy Tan 	
+	Lexile Reading Level = 930L
+	352 pages; 16 Chapters
+	
+
+
+
 
 **	Intro to NM
 		Rudolfo Anaya
