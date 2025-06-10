@@ -115,17 +115,70 @@ More law, less justice.
 	* Go thru exam
 
 Task 1
-	at least 3 distinct differences
+	*at least 3 distinct differences/similarities
+
+Task 2
+	* opinion
+	* a mathematical, probability-based model specifically trained for generating a logical sequence of symbols (words)
+	* the Bayesian probabilities come from symbol (word) frequency distributions (Zipś Law)
+
+Task 3
+	* a point past which the Earth system's biogeophysical features will be irrevocably altered, perhaps for millenia
+	* the holes or pockets represent biogeophysical states of the Earth system; events/factors can push
+	  the marble out of one state where it begins roll around on the board ultimately falling into a new
+	  state
+	* decarbonization of the global economy
+	  enhancement of carbon sinks
+	  behavioral changes in consumption
+	  new governance structures
+	
+Task 4
+	* the research evidence suggests that an academic writing style using a third-person point of view
+	  is still the rule
+	* opinion
+
+Task 5
+	* Wilbur, a runt pig, is saved from an early death by kind-hearted Fern, a young farm girl.
+	  Wilbur is sold to Fern's uncle, Homer Zuckerman and begins life in Zuckerman's barn cellar.
+	  Wilbur is a sensitive and overly dramatic soul. He is lonely in his new home even though the barn cellar is full of other 
+	  creatures and a few notable characters like Templeton the rat, the Goose, and the Old Sheep. Wilbur is informed by the 
+	  Old Sheep that he is being fattened for slaughter at Christmas dinner.
+	  
+	  Enter Charlotte, a clever and compassionate spider who befriends Wilbur and courageously devises
+	  a plan to save him. Charlotte spins flattering words into her web ("Some Pig", "Terrific", "Radiant") 
+	  that suggest Wilbur is indeed no ordinary pig. The Zuckermans and all of the townspeople fall for 
+	  the trick and Wilbur is crated up for a special appearance at the County Fair. Charlotte and Templeton go 
+	  along as stowaways.
+	  
+	  The events at Count Fair provide the climax of the story. Wilbur loses the blue ribbon but wins a special prize which 
+	  saves his life. Fern, who had been continuously by Wilbur's side, is beginning to grow up. At the County Fair she is 
+	  more entranced with riding the Ferris wheel with a boy named Henry Fussy than following the exploits of Wilbur, 
+	  Charlotte, and Templeton. Charlotte builds her egg sac but cannot return to the barn cellar. Templeton rescues the egg 
+	  sac with the promise of perpetual food and Wilbur endearingly takes the egg sac back home. Charlotte dies alone.
+	  
+	  Next spring the young spiders hatch. Wilbur is delighted but soon becomes desperately sad as all the young spiders seem 
+	  to have floated away. Fortunately, three spiders remain and take up residence in their mother's doorway. Wilbur lives out 
+	  the rest of his days in the wonderful barn cellar surrounded by generations of spiders, geese, and other friends.
+	  
+	
+Task 6
 	
 
 
 
 --- New
 
+** More Murphy's English Grammar in Use
+	Unit			Pg 
+	79				p 158		Singular and plural
+
+
 ** Legal Docs 1
 	Quick look at Mexico's legal system/structure
 	
 	Common Law vs. Civil Law (fr. Cornell Law School, Legal Information Institute)
+	https://www.law.cornell.edu/
+	https://www.law.cornell.edu/wex/legal_systems
 
 		Common law is law that is derived from judicial decisions instead of from statutes . American 
 		courts originally fashioned common law rules based on English common law until the American legal 
@@ -140,6 +193,8 @@ Task 1
 	
 	
 	Poder Judicial de la Federación
+	https://www.scjn.gob.mx/sites/default/files/material_didactico/2016-11/Que-PJF.pdf
+	
 		Está integrado por:
     		La Suprema Corte de Justicia de la Nación
    			El Consejo de la Judicatura Federal
@@ -150,17 +205,27 @@ Task 1
     		El Tribunal Electoral del Poder Judicial de la Federación
 	
 	Diario Oficial de la Federacion
+	https://www.dof.gob.mx/#gsc.tab=0
+	
 		El Diario Oficial de la Federación (DOF) es el órgano de publicación oficial del Gobierno 
 		Constitucional de los Estados Unidos Mexicanos. Su función principal es publicar las leyes, 
 		reglamentos, acuerdos, circulares, órdenes y demás actos expedidos por los poderes de la 
 		Federación.
 
+
+	Justia
+		https://mexico.justia.com/
+		https://mexico.justia.com/federales/leyes/ley-organica-del-poder-judicial-de-la-federacion/
+		255	Ley Orgánica del Poder Judicial de la Federación (PJF)
+
+
 	Tesis Aisladas y Jurisprudencia
+	https://sjf2.scjn.gob.mx/busqueda-principal-tesis
+	
 		Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes 
 		contenidos en las sentencias. Tesis aislada es un criterio de interpretación que orienta a los 
 		jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es 
 		obligatoria, mientras que la tesis aislada no lo es.
-
 
 Found here:
 	Content Docs
@@ -168,7 +233,6 @@ Found here:
 		01_Ley-de-Poder-Judicial.pdf
 		02_TesisAislada_PruebaPericial.pdf
 		
-
 
 
 ** Economics Docs I
