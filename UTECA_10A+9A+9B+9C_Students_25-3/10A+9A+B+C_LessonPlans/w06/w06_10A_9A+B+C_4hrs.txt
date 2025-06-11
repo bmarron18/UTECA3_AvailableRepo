@@ -23,7 +23,7 @@ HW_06 [Due: 19 Jun 2025]	<== 10A
 --- Task 1
 Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and Códigos form the backbone of this system which is overseen by the Poder Judicial de la Federación. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
 
-		01_Ley-de-Poder-Judicial.pdf
+		01_Ley-de-Poder-Judicial.pdf	<== Articulo 9 (I, II, III, IV) ONLY!!
 		02_TesisAislada_PruebaPericial.pdf
 		
 The documents can be found here in Teams:
@@ -34,11 +34,9 @@ The documents can be found here in Teams:
 --- Task 2
 Translate the following two axioms from standard economics into Spanish:
 
-	Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we 
-	might desire. In other words, society faces a scarcity of resources.
+Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
 
-	Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from 
-	producing something else. “There is no such thing as a free lunch.”
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
 		
 
 --- Task 3
@@ -100,7 +98,6 @@ More law, less justice.
 	Marcus Tullius Cicero (statesman, lawyer, scholar, philosopher, orator, writer and academic skeptic)
 
 
-
 "The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it. The first lesson of politics is to disregard the first lesson of economics."
 			--- Thomas Sowell
 			(economist, economic historian, social philosopher, and political commentator)
@@ -115,7 +112,7 @@ More law, less justice.
 	* Go thru exam
 
 Task 1
-	*at least 3 distinct differences/similarities
+	*at least 3 distinct differences/similarities; use a table
 
 Task 2
 	* opinion
@@ -123,7 +120,8 @@ Task 2
 	* the Bayesian probabilities come from symbol (word) frequency distributions (Zipś Law)
 
 Task 3
-	* a point past which the Earth system's biogeophysical features will be irrevocably altered, perhaps for millenia
+	* a point past which the Earth system's biogeophysical features will be irrevocably altered, perhaps 
+	  for millenia
 	* the holes or pockets represent biogeophysical states of the Earth system; events/factors can push
 	  the marble out of one state where it begins roll around on the board ultimately falling into a new
 	  state
@@ -140,25 +138,28 @@ Task 4
 Task 5
 	* Wilbur, a runt pig, is saved from an early death by kind-hearted Fern, a young farm girl.
 	  Wilbur is sold to Fern's uncle, Homer Zuckerman and begins life in Zuckerman's barn cellar.
-	  Wilbur is a sensitive and overly dramatic soul. He is lonely in his new home even though the barn cellar is full of other 
-	  creatures and a few notable characters like Templeton the rat, the Goose, and the Old Sheep. Wilbur is informed by the 
-	  Old Sheep that he is being fattened for slaughter at Christmas dinner.
+	  Wilbur is a sensitive and overly dramatic soul. He is lonely in his new home even though the barn 
+	  cellar is full of other creatures and a few notable characters like Templeton the rat, the Goose, 
+	  and the Old Sheep. Wilbur is informed by the Old Sheep that he is being fattened for slaughter 
+	  (Christmas dinner!).
 	  
 	  Enter Charlotte, a clever and compassionate spider who befriends Wilbur and courageously devises
-	  a plan to save him. Charlotte spins flattering words into her web ("Some Pig", "Terrific", "Radiant") 
-	  that suggest Wilbur is indeed no ordinary pig. The Zuckermans and all of the townspeople fall for 
-	  the trick and Wilbur is crated up for a special appearance at the County Fair. Charlotte and Templeton go 
-	  along as stowaways.
+	  a plan to save him. Charlotte spins flattering words into her web ("Some Pig", "Terrific", 
+	  "Radiant") that suggest Wilbur is no ordinary pig. The Zuckermans and all of the townspeople fall 
+	  for the trick and Wilbur is crated up for a special appearance at the County Fair. Charlotte and 
+	  Templeton go along as stowaways.
 	  
-	  The events at Count Fair provide the climax of the story. Wilbur loses the blue ribbon but wins a special prize which 
-	  saves his life. Fern, who had been continuously by Wilbur's side, is beginning to grow up. At the County Fair she is 
-	  more entranced with riding the Ferris wheel with a boy named Henry Fussy than following the exploits of Wilbur, 
-	  Charlotte, and Templeton. Charlotte builds her egg sac but cannot return to the barn cellar. Templeton rescues the egg 
-	  sac with the promise of perpetual food and Wilbur endearingly takes the egg sac back home. Charlotte dies alone.
+	  The events at Count Fair provide the climax of the story. Wilbur loses the blue ribbon but wins a 
+	  special prize which saves his life. Fern, who had been continuously by Wilbur's side, is beginning 
+	  to grow up. At the County Fair she is more entranced with riding the Ferris wheel with a boy named 
+	  Henry Fussy than following the exploits of Wilbur, Charlotte, and Templeton. Charlotte builds her 
+	  egg sac but cannot return to the barn cellar. Templeton rescues the egg sac with the promise of 
+	  perpetual food and Wilbur endearingly takes the egg sac back home. Charlotte dies alone.
 	  
-	  Next spring the young spiders hatch. Wilbur is delighted but soon becomes desperately sad as all the young spiders seem 
-	  to have floated away. Fortunately, three spiders remain and take up residence in their mother's doorway. Wilbur lives out 
-	  the rest of his days in the wonderful barn cellar surrounded by generations of spiders, geese, and other friends.
+	  Next spring the young spiders hatch. Wilbur is delighted but soon becomes desperately sad as all 
+	  the young spiders seem to have floated away. Fortunately, three spiders remain and take up 
+	  residence in their mother's doorway. Wilbur lives out the rest of his days in the wonderful barn 
+	  cellar surrounded by generations of spiders, geese, and other friends.
 	  
 	
 Task 6
@@ -168,15 +169,11 @@ Task 6
 
 --- New
 
-** More Murphy's English Grammar in Use
-	Unit			Pg 
-	79				p 158		Singular and plural
-
-
 ** Legal Docs 1
 	Quick look at Mexico's legal system/structure
 	
-	Common Law vs. Civil Law (fr. Cornell Law School, Legal Information Institute)
+Civil Law (Mexico) vs Common Law (US)
+	Cornell Law School, Legal Information Institute
 	https://www.law.cornell.edu/
 	https://www.law.cornell.edu/wex/legal_systems
 
@@ -185,14 +182,15 @@ Task 6
 		system was sufficiently mature to create common law rules either from direct precedent or by 
 		analogy to comparable areas of decided law.
 		
-		Civil law, as a legal system, refers to a popular way of structuring legal systems around broad 
-		codes and detailed statutes that determines the rights and obligations of individuals, without 
-		emphasis on the role of precedent, courts, judges, and juries as in common law countries. 
-		Civil law countries typically are characterized by their emphasis on the codified law only with 
-		judges playing the main role of finding the facts and applying the law in courts. 
+		Civil law, as a legal system, refers to a 
+		popular way of structuring legal systems around broad codes and detailed statutes that determines 
+		the rights and obligations of individuals, without emphasis on the role of precedent, courts, 
+		judges, and juries as in common law countries. Civil law countries typically are characterized by 
+		their emphasis on the codified law only with judges playing the main role of finding the facts 
+		and applying the law in courts. 
 	
 	
-	Poder Judicial de la Federación
+Poder Judicial de la Federación
 	https://www.scjn.gob.mx/sites/default/files/material_didactico/2016-11/Que-PJF.pdf
 	
 		Está integrado por:
@@ -204,7 +202,7 @@ Task 6
     		Los Juzgados de Distrito
     		El Tribunal Electoral del Poder Judicial de la Federación
 	
-	Diario Oficial de la Federacion
+Diario Oficial de la Federacion
 	https://www.dof.gob.mx/#gsc.tab=0
 	
 		El Diario Oficial de la Federación (DOF) es el órgano de publicación oficial del Gobierno 
@@ -213,13 +211,13 @@ Task 6
 		Federación.
 
 
-	Justia
+Justia
 		https://mexico.justia.com/
 		https://mexico.justia.com/federales/leyes/ley-organica-del-poder-judicial-de-la-federacion/
 		255	Ley Orgánica del Poder Judicial de la Federación (PJF)
 
 
-	Tesis Aisladas y Jurisprudencia
+Tesis Aisladas y Jurisprudencia
 	https://sjf2.scjn.gob.mx/busqueda-principal-tesis
 	
 		Las tesis aisladas y la jurisprudencia son documentos que contienen criterios relevantes 
@@ -230,34 +228,40 @@ Task 6
 Found here:
 	Content Docs
 		==> 2P
-		01_Ley-de-Poder-Judicial.pdf
-		02_TesisAislada_PruebaPericial.pdf
+			01_Ley-de-Poder-Judicial.pdf
+			02_TesisAislada_PruebaPericial.pdf
 		
 
 
 ** Economics Docs I
-	Quick look at Standard Economic Axioms, Theorems, and Corollaries
+	A quick look at standard economic axioms, theorems, and corollaries
 	
-		Economics: The study of choice and resource allocation under conditions of scarcity.
+Economics: The study of choice and resource allocation under conditions of scarcity.
 
-		Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services 
-		we might desire. In other words, society faces a scarcity of resources.
+Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
 
-			Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we need. We are 
-			economically linked to others in hundreds—even thousands—of different ways.
+	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we 
+	need. We are economically linked to others in hundreds—even thousands—of different ways.
 	
-			Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because specialization 
-			and exchange enable us to enjoy greater production, and higher living standards than would otherwise be possible.
+	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because 
+	specialization and exchange enable us to enjoy greater production, and higher living standards than 
+	would otherwise be possible.
 
 
-		Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away 
-		from producing something else. “There is no such thing as a free lunch.”
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
 		
-			Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are constrained 
-			by the resources they control.
+	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
+	constrained by the resources they control.
 	
-				Corrollary 1: We do not all start in the same place in the economic race. Individuals may have more or less 
-				resources nder their control than others.
+		Corrollary 1: We do not all start in the same place in the economic race. Individuals may have 
+		more or less resources nder their control than others.
+
+
+
+** More Murphy's English Grammar in Use
+	Unit			Pg 
+	79				p 158		Singular and plural
+
 
 **
 	"Charlotte's Web" by E.B. White
@@ -275,10 +279,6 @@ Found here:
 	Lexile Reading Level = 930L
 	352 pages; 16 Chapters
 	
-
-
-
-
 **	Intro to NM
 		Rudolfo Anaya
 		Ansel Adams
