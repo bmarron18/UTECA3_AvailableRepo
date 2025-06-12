@@ -21,15 +21,20 @@ HW_07 [Due: 26 Jun 2025]	<== 10A
 
 
 --- Task 1
-
-
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and provide a very briefly explain how the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first six (6) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short; in some cases just a single line.
 
 --- Task 2
-
+Read the Preface to Amartya Sen's, "Freedom as Development." Translate the third paragraph of the Preface into Spanish.
 
 
 --- Task 3
-
+Read Chapter 3 and Chapter 4 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for Chapter 3 and five (5) questions from the list of questions for Chapter 4. See the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt" for the list of questions for each chapter. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
 
@@ -42,7 +47,18 @@ Today
 
 ---- Open
 
+"It is true that SpaceX is partially a government contractor, but it would be unfair to say that SpaceX is entirely a government contractor.
+		--- Elon Musk
 
+
+The welfare of the people in particular has always been the alibi of tyrants.
+		--- Albert Camus 
+		(French philosopher, author, dramatist, journalist, world federalist, political 
+		activist. 1957 Nobel Prize in Literature)
+
+
+"If the people cannot trust their government to do the job for which it exists - to protect them and to promote their common welfare - all else is lost."
+		--- Barack Obama (44th President of the USA)
 
 
 
@@ -54,14 +70,48 @@ Today
 
 --- New
 
-** Legal Docs 1
-	RFPs
-	Contracts
+** Legal Docs 2
+Work in the Real World: Intro to RFPs
+
+RFPs (Request for Proposals)
+		a formal document used to solicit detailed proposals from potential vendors for complex goods or 
+		services, allowing them to showcase their expertise and approach alongside pricing. RFPs are 
+		used when the buyer needs a more detailed proposal outlining how a vendor would approach 
+		fulfilling their needs. An RFP typically outlines the project scope, requirements, evaluation 
+		criteria, and timeline for proposals
+
+Examples
+	Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico
+	UNHCR_RFP-MEX-2020-206
+	Artifact_DEQ_RFQforPlatformSecurityTesting_Final_ 20200331
+	CFE_01 Convocatoria CACON 0030 2025
+	CFE_02 Pliego de Requisitos CACON 0030 2025
+	
+		
+	
+** Economics Docs 2
+Recall--
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
+		
+	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they 
+	are constrained by the resources they control.
+	
+		Corrollary 1: We do not all start in the same place in the economic race. Individuals may have 
+		more or less resources under their control than others.
 
 
+What is opportunity?
+What is freedom?
+What is development?
+What is welfare?
+What is agency?
+What is the role of government?
 
-** Economics Docs I
-	Sen, "Development as Freedom"
+
+Social democracies
+	Sweden, Norway, Denmark, The Netherlands, Canada
+
+Sen, "Development as Freedom"
 
 
 
@@ -72,7 +122,10 @@ Today
 
 
 
-	
+** Bless Me, Ultima
+Chapter 1, Chapter 2
+	Read Summaries
+	Class reads answers to their questions
 
 		
 	
@@ -80,6 +133,14 @@ Today
 
 --- Coming up
 
+** Legal Docs 2
+	Contracts
+
+** Economics Docs 2
+	More Sen
+	
+** Bless Me, Ultima
+	Chapter 3, Chapter 4
 
 ---- Work time
 	
