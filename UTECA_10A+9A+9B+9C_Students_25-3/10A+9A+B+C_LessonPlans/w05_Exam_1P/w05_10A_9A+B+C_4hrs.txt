@@ -60,7 +60,6 @@ Story Arcs
 		* Briefly provide examples of how minor story arcs are used by the author
 
 Writing Style	
-		* Evaluate E.B. White's writing style
 		==> ease of reading?
 		==> flow?
 		==> dialog?
@@ -68,8 +67,8 @@ Writing Style
 		==> emotive?
 		==> holds together logically?
 		==> genre?
-			==> holds together logically?
-			==> genre?
+		==> holds together logically?
+		==> genre?
 
 Conclusions		
 	* Summarize Major Theme Development section

@@ -73,7 +73,7 @@ The welfare of the people in particular has always been the alibi of tyrants.
 ** Legal Docs 2
 Work in the Real World: Intro to RFPs
 
-RFPs (Request for Proposals)
+RFP (Request for Proposal)
 		a formal document used to solicit detailed proposals from potential vendors for complex goods or 
 		services, allowing them to showcase their expertise and approach alongside pricing. RFPs are 
 		used when the buyer needs a more detailed proposal outlining how a vendor would approach 
@@ -83,7 +83,7 @@ RFPs (Request for Proposals)
 Examples
 	Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico
 	UNHCR_RFP-MEX-2020-206
-	Artifact_DEQ_RFQforPlatformSecurityTesting_Final_ 20200331
+	DEQ_RFQforPlatformSecurityTesting_Final_ 20200331
 	CFE_01 Convocatoria CACON 0030 2025
 	CFE_02 Pliego de Requisitos CACON 0030 2025
 	
@@ -138,6 +138,7 @@ Chapter 1, Chapter 2
 
 ** Economics Docs 2
 	More Sen
+	Herman Daly
 	
 ** Bless Me, Ultima
 	Chapter 3, Chapter 4

@@ -33,28 +33,6 @@ The novel highlights the difficulties of communication and the misunderstandings
 
 
 
-Theme-based Discussion Questions:
-    How do the different generations view their roles and expectations within the family?
-    In what ways do the mothers' and daughters' relationships evolve throughout the novel?Discussion 
-
-    What are some examples of communication barriers in the novel?
-    How do the characters work to overcome misunderstandings and improve their relationships?
- 
-    How do the characters navigate their dual cultural identities?
-    What are the challenges and rewards of maintaining cultural traditions in a new country?
-
-    What are some key moments of conflict between the generations in the novel?
-    How do these conflicts impact the relationships between characters?
-
-    How do the characters’ personal experiences shape their journeys toward self-discovery?
-    In what ways do the characters find empowerment in their lives?
-    
-    How does each character’s understanding of their family history shape their identity?
-    What role does the legacy of the Joy Luck Club play in the characters’ lives?  
-    
-    
-
-
 
 %%%%%%%%% Synopsis, Vocab and Discussion Questions	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -63,16 +41,10 @@ Theme-based Discussion Questions:
 In Chapter 3 of The Joy Luck Club, titled "Rules of the Game," the narrative centers on the story of Waverly Jong, a young Chinese-American girl living in San Francisco. Waverly is introduced as a prodigy in chess, a talent that her mother, Lindo Jong, helps nurture. Lindo is highly ambitious and strict, pushing Waverly to excel in chess and follow her own rules of discipline. This chapter details Waverly’s rise in the chess world and the tense, often contentious, relationship she has with her mother, who exerts immense pressure on her. As Waverly becomes increasingly successful, the dynamic between her and her mother becomes more strained, highlighting the broader theme of cultural expectations versus personal desires.
 
 Vocabulary
-    Prodigy - A young person with exceptional qualities or abilities.
-    Discipline - Training that corrects, molds, or perfects the mental faculties or moral character.
-    Ambitious - Having a strong desire for success or achievement.
-    Tense - Causing or experiencing stress or anxiety; strained.
-    Contentious - Causing or likely to cause an argument; controversial.
-    Nurture - To care for and encourage the growth or development of.
-    Exert - To apply or bring to bear (a force, influence, or quality).
-    Dynamic - Characterized by constant change, activity, or progress.
-
-Discussion Questions
+    contentious 
+	
+	
+Qs
     Understanding Characters:
         How does Waverly’s relationship with her mother influence her success in chess?
         What are some of the ways in which Lindo Jong shows her ambition for Waverly?
@@ -102,40 +74,20 @@ Discussion Questions
 --- Chapter 2
 In Chapter 2 of "The Joy Luck Club," the story centers on a young Chinese-American girl named Waverly Jong and her experiences with her mother, who is fiercely determined to make her a chess champion. The chapter explores Waverly’s journey as she becomes a child chess prodigy. Her mother’s strict and demanding nature pushes Waverly to excel in chess, but it also creates tension between them. The story illustrates the high expectations placed on Waverly and her struggle to reconcile her own desires with her mother’s ambitions.
 
-Vocabulary
-    Prodigy - A person, especially a young one, endowed with exceptional qualities or abilities.
-    Champion - A person who has won a competition, especially in sports.
-    Determined - Showing firmness or resolve; having made a firm decision.
-    Ambition - A strong desire to do or achieve something, typically requiring determination and hard work.
-    Tension - Mental or emotional strain; a state of strained relations between people.
-    Excellence - The quality of being outstanding or extremely good.
-    Strict - Demanding that rules concerning behavior are obeyed and observed.
-    Negotiation - Discussion aimed at reaching an agreement.
-
-Discussion Questions
-    Character Development:
-        How does Waverly’s relationship with her mother influence her achievements in chess?
-        What are the qualities of Waverly’s mother that impact their relationship?
-
-    Themes of Parental Expectations:
-        How does the chapter illustrate the theme of parental expectations and pressure?
-        In what ways do Waverly’s mother’s expectations affect her self-esteem and personal desires?
-
-    Conflict and Resolution:
-        What are the main sources of conflict between Waverly and her mother?
-        How does Waverly handle the tension and expectations placed on her?
-
-    Cultural Context:
-        How does the story reflect the cultural values of Chinese-American families regarding achievement and success?
-        What cultural differences between Waverly and her mother might contribute to their conflicts?
-
-    Personal Reflection:
-        Have you ever experienced pressure from someone close to you to achieve something? How did you handle it?
-        What strategies do you think Waverly could use to balance her own desires with her mother’s expectations?
-
-    Symbolism:
-        What does chess symbolize in Waverly’s life and her relationship with her mother?
-        How does the game of chess reflect broader themes in the story?
+Vocab
+    prodigy 
+   
+Qs
+	How does Waverly’s relationship with her mother influence her achievements in chess?
+    What are the qualities of Waverly’s mother that impact their relationship?
+   	How does the chapter illustrate the theme of parental expectations and pressure?
+   	In what ways do Waverly’s mother’s expectations affect her self-esteem and personal desires?
+   	What are the main sources of conflict between Waverly and her mother?
+   	How does Waverly handle the tension and expectations placed on her?
+   	How does the story reflect the cultural values of Chinese-American families regarding achievement and success?
+   	What cultural differences between Waverly and her mother might contribute to their conflicts?
+	What does chess symbolize in Waverly’s life and her relationship with her mother?
+    How does the game of chess reflect broader themes in the story?
 
 
 
@@ -143,11 +95,13 @@ Discussion Questions
 --- Chapter 1
 Chapter 1 introduces the formation of the Joy Luck Club, a gathering of four Chinese-American immigrant women who come together to play mahjong and share their experiences and hopes. The chapter is narrated from the perspective of June (Jing-mei) Woo, the daughter of one of the original members, Suyuan Woo. June reflects on her mother’s legacy and the club's significance. After her mother's death, June is asked to take her place in the club and tell the story of her mother to the other members. This chapter sets up the central theme of generational and cultural conflicts and introduces the intertwining lives and stories of the club's members.
 
-Vocabulary
+Vocab
     mahjong 
     predecessor
 
-Discussion Questions
+Qs
+		Why is the swan feather so meaningful?
+		
         What is the purpose of the Joy Luck Club, and why is it important to the members?
         How does June feel about taking her mother’s place in the club?
 		How does Suyuan Woo’s legacy affect June and the other members of the club?
@@ -161,11 +115,7 @@ Discussion Questions
         What challenges do the characters face in reconciling their own identities with their parents’ 	
 		expectations?
 
-    Personal Reflection:
-        Have you ever had to take on a role or responsibility that you felt was significant to your 
-		family or community? How did you feel about it?
-        How do you think the stories of the Joy Luck Club members will impact June’s understanding of her 
-		mother and herself?
+
 
 
 

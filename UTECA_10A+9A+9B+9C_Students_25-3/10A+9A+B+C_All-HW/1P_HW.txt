@@ -4,13 +4,6 @@ All HW 2P
 ########
 
 
-
-
-
-#########
-All HW 1P
-########
-
 **HW_05 [Due: 10 Jun 2025]	<== 9A+B+C
 **HW_05 [Due: 12 Jun 2025]	<== 10A
 --- Task 1
@@ -40,19 +33,11 @@ Major Theme Development
 Character Development	
 		* Character 1	
 			==> Description of the character==> ease of reading?
-			==> flow?
-			==> dialog?
-			==> wordiness?
-			==> emotive?* Writing Style						<== 9C done
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
 		
 		* Character 2
 			==> Description of the character==> ease of reading?
-			==> flow?
-			==> dialog?
-			==> wordiness?
-			==> emotive?* Writing Style						<== 9C done
 			==> Describe how the character is developed citing examples from the book
 			==> Evaluate the author's ability to develop the character
 
@@ -60,12 +45,7 @@ Story Arcs
 		* Briefly define and/or diagram the major story arc (the chronological construction of the plot)
 		* Briefly provide examples of how minor story arcs are used by the author
 
-Writing Style	==> ease of reading?
-			==> flow?
-			==> dialog?
-			==> wordiness?
-			==> emotive?* Writing Style						<== 9C done
-		* Evaluate E.B. White's writing style
+Evaluate E.B. White's writing style	
 			==> ease of reading?
 			==> flow?
 			==> dialog?
@@ -82,6 +62,9 @@ Conclusions
 	* State your personal opinion of the work
 
 
+#########
+All HW 1P
+########
 
 **HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
 **HW_04 [Due: 05 Jun 2025]	<== 10A
