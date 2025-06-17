@@ -65,12 +65,12 @@ The welfare of the people in particular has always been the alibi of tyrants.
 		--- Barack Obama (44th President of the USA)
 
 
-
+Excellence of critiques
+Hold HW until tomorrow
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 --- Review
-
 
 --- New
 
@@ -95,10 +95,10 @@ Examples
 	
 ** Economics Docs 2
 Recall--
-Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
-	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they 
+*Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
+	**Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they 
 	are constrained by the resources they control.
-		Corrollary 1: We do not all start in the same place in the economic race. Individuals may have 
+		***Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
 		more or less resources under their control than others.
 
 
@@ -110,16 +110,23 @@ What is agency?
 What is the role of government?
 
 
-Social democracies
+Social democracies vs Other Democracies
 	Sweden, Norway, Denmark, The Netherlands, Canada
 
 
 Sen, "Development as Freedom"
-Nobel Banquet Speech
-	https://www.nobelprize.org/prizes/economic-sciences/1998/sen/speech/
+	Nobel Banquet Speech
+		https://www.nobelprize.org/prizes/economic-sciences/1998/sen/speech/
 
-	inter alia (among other things)
 	
+
+Silent Reading
+	Preface
+	inter alia (among other things)
+
+
+
+Sen big ideas
 		==> free and sustainable agency as a major engine of development
 		==> Freedoms are not only the primary ends of development, 
 		they are also among its principal means
@@ -131,7 +138,8 @@ Sen defines "unfreedoms"
 			lack of public facilities and social care (no health, education, security)
 			lack of political and civil liberties (restrictions on social, political and economic life)
 		
-Sen states that what people can positively achieve is influenced by substantive freedoms
+Sen states that what people can positively achieve is influenced by substantive freedoms.
+Substantive freedoms are:
 	economic opportunities
 	political liberties
 	social powers
@@ -141,8 +149,7 @@ Sen states that what people can positively achieve is influenced by substantive 
 	liberty to participate in social choice
 	liberty to participate in the making of public decisions
 	
-Five distinct types of freedom, seen in an "instrumental" perspective,
-are particularly investigated in Sen's empirical studies:
+Five distinct types of freedom, seen in an "instrumental" perspective:
 	(1) political freedoms
 	(2) economic facilities
 	(3) social opportunities
@@ -154,7 +161,6 @@ are particularly investigated in Sen's empirical studies:
 ** More Murphy's English Grammar in Use
 	Unit			Pg 
 	137				p 274		Phrasal Verbs 1
-
 
 
 ** Bless Me, Ultima
@@ -184,10 +190,6 @@ Miss Maestas
 Miss Violet
 
 
-
-
-
-	
 
 
 --- Coming up
