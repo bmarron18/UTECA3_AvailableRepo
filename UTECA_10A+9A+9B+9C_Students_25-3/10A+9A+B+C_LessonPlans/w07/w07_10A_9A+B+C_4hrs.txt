@@ -26,11 +26,15 @@ contractors through an RFP (Request for Proposal) process. Perform the following
 	1. Define the term, RFP and provide a very briefly explain how the RFP process is used for hiring 
 	contractors.
 	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
-	first six (6) paragraphs from page one (1) of this document into English. These paragraphs are very 
-	short; in some cases just a single line.
+	first seven (7) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short; in one case just a single line.
 
 --- Task 2
-Read the Preface to Amartya Sen's, "Freedom as Development." Translate the third paragraph of the Preface into Spanish.
+Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Development" and answer the following questions,
+	1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one kind or another. List three (3) broad categories of unfreedoms.
+	2. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
+	3. According to Sen, what are the five (5) distinct types of freedoms and why are they synergistic? 
+	4. Does Sen commend or chastise the role of markets?
 
 
 --- Task 3
@@ -78,7 +82,7 @@ RFP (Request for Proposal)
 		services, allowing them to showcase their expertise and approach alongside pricing. RFPs are 
 		used when the buyer needs a more detailed proposal outlining how a vendor would approach 
 		fulfilling their needs. An RFP typically outlines the project scope, requirements, evaluation 
-		criteria, and timeline for proposals
+		criteria, and timeline for proposals. Vendors respond with a proposal.
 
 Examples
 	Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico
@@ -92,16 +96,14 @@ Examples
 ** Economics Docs 2
 Recall--
 Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
-		
 	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they 
 	are constrained by the resources they control.
-	
 		Corrollary 1: We do not all start in the same place in the economic race. Individuals may have 
 		more or less resources under their control than others.
 
 
-What is opportunity?
 What is freedom?
+What is opportunity?
 What is development?
 What is welfare?
 What is agency?
@@ -111,8 +113,41 @@ What is the role of government?
 Social democracies
 	Sweden, Norway, Denmark, The Netherlands, Canada
 
-Sen, "Development as Freedom"
 
+Sen, "Development as Freedom"
+Nobel Banquet Speech
+	https://www.nobelprize.org/prizes/economic-sciences/1998/sen/speech/
+
+	inter alia (among other things)
+	
+		==> free and sustainable agency as a major engine of development
+		==> Freedoms are not only the primary ends of development, 
+		they are also among its principal means
+		==> there are mutually reinforcing connections between the freedoms of different kinds
+		
+		
+Sen defines "unfreedoms"
+			economic poverty (no food, water, clothing, shelter, money)
+			lack of public facilities and social care (no health, education, security)
+			lack of political and civil liberties (restrictions on social, political and economic life)
+		
+Sen states that what people can positively achieve is influenced by substantive freedoms
+	economic opportunities
+	political liberties
+	social powers
+	good health
+	basic education
+	encouragement and cultivation of initiatives
+	liberty to participate in social choice
+	liberty to participate in the making of public decisions
+	
+Five distinct types of freedom, seen in an "instrumental" perspective,
+are particularly investigated in Sen's empirical studies:
+	(1) political freedoms
+	(2) economic facilities
+	(3) social opportunities
+	(4) transparency guarantees
+	{5) protective security
 
 
 
@@ -123,11 +158,35 @@ Sen, "Development as Freedom"
 
 
 ** Bless Me, Ultima
-Chapter 1, Chapter 2
+Review Chapter 1, Chapter 2
 	Read Summaries
 	Class reads answers to their questions
 
-		
+Characters----
+Antonio Márez
+Gabriel Márez
+María Luna Márez
+Andrew, Eugene, and León Márez
+Deborah and Theresa Márez
+Ultima
+Prudencio Luna and his sons
+
+Narciso
+Lupito
+Tenorio Trementina and his three daughters
+Cico
+Florence
+Samuel
+Abel, Bones, Ernie, Horse, Lloyd, Red, and the Vitamin Kid
+
+Rosie
+Miss Maestas
+Miss Violet
+
+
+
+
+
 	
 
 
@@ -142,6 +201,9 @@ Chapter 1, Chapter 2
 	
 ** Bless Me, Ultima
 	Chapter 3, Chapter 4
+	
+** Murphy's
+	Phrasal verbs 2 in/out
 
 ---- Work time
 	
