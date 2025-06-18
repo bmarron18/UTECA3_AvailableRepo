@@ -21,13 +21,9 @@ HW_08 [Due: 03 Jul 2025]	<== 10A
 
 
 --- Task 1
-
+While David Ricardo is credited with the concept of free trade, as espoused through his ideas of competitive advantage, it was Miltom Friedman who extended and polished the concept leading to neoliberal policies of unilateral free trade.
 
 --- Task 2
-Read the Preface to Amartya Sen's, "Freedom as Development." Translate the third paragraph of the Preface into Spanish.
-
-
---- Task 3
 Read Chapter 5, Chapter 6, and Chapter 7 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
@@ -53,63 +49,44 @@ Today
 Work in the Real World: Intro to RFPs
 
 ** Economics Docs 2
-Sen
-What is opportunity?
-What is freedom?
-What is development?
-What is welfare?
-What is agency?
-What is the role of government?
+Sen big ideas
+		==> free and sustainable agency as a major engine of development
+		==> Freedoms are not only the primary ends of development, 
+		they are also among its principal means
+		==> there are mutually reinforcing connections between the freedoms of different kinds
+		
+Sen defines "unfreedoms"
+			economic poverty (no food, water, clothing, shelter, money)
+			lack of public facilities and social care (no health, education, security)
+			lack of political and civil liberties (restrictions on social, political and economic life)
+		
+
+Five distinct types of freedom, seen in an "instrumental" perspective:
+	(1) political freedoms
+	(2) economic facilities
+	(3) social opportunities
+	(4) transparency guarantees
+	{5) protective and transactional security
+	
+** Bless Me, Ultima
+
+
 
 --- New
 
 ** Legal Docs 3
 Work in the Real World: Contracts
 
-
 Examples
-	
-	
+	Anaconda_TOS_LICENSE.txt
+	BID_Contracts_MinorWorks.pdf
+	CFE_ModeloContrato.pdf
+	Syllabus_Contratos_Civiles.docx
 		
 	
 ** Economics Docs 3
-	Sen, "Development as Freedom"	<== Intro
-	
-	inter alia (among other things)
-	
-		==> free and sustainable agency as a major engine of development
-		==> Freedoms are not only the primary ends of development, 
-		they are also among its principal means
-		==> there are mutually reinforcing connections between the freedoms of different kinds
-		
-		
-		unfreedoms
-			economic poverty (no food, water, clothing, shelter, money)
-			lack of public facilities and social care (health, education, security)
-			lack of political and civil liberties (restrictions on social, political and economic life)
-		
-What people can positively achieve is influenced by substantive freedoms
-	economic opportunities, 
-	political liberties, 
-	social powers, 
-	good health, 
-	basic education, 
-	encouragement and cultivation of initiatives
-	liberty to participate in social choice
-	liberty to participate in the making of public decisions
-	
-Five distinct types of freedom, seen in an "instrumental" perspective,
-are particularly investigated in the empirical studies that follow.
-(1) political freedoms, 
-(2) economic facilities, 
-(3) social opportunities, 
-(4) transparency guarantees
-{5) protective security.
-		
-		
-		
-		
-Daly, "The Perils of Free Trade"	<== Read in class / go thru
+
+Daly, "The Perils of Free Trade"	
 
 
 
@@ -121,7 +98,7 @@ Daly, "The Perils of Free Trade"	<== Read in class / go thru
 
 ** Bless Me, Ultima
 Chapter 3, Chapter 4
-	Read Summaries
+	Read AI Summaries
 	Class reads answers to their questions
 
 		
@@ -137,7 +114,7 @@ Chapter 3, Chapter 4
 
 	
 ** Bless Me, Ultima
-	Chapter 3, Chapter 4
+	Chapter 8, Chapter 9
 
 ---- Work time
 	

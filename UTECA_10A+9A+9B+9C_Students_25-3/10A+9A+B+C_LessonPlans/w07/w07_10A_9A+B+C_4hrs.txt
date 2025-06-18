@@ -16,14 +16,14 @@ Grupo:			9A+B+C
 
 
 #####################
-HW_07 [Due: 24 Jun 2025]	<== 9A+B+C
+HW_07 [Due: 24 Jun 2025]	<== 9A+B+C (6:40 PM Meeting ended: 43m 23s)
 HW_07 [Due: 26 Jun 2025]	<== 10A
 
 
 --- Task 1
 In the "real world", large organizations (both public and private) get work done by hiring 
 contractors through an RFP (Request for Proposal) process. Perform the following:
-	1. Define the term, RFP and provide a very briefly explain how the RFP process is used for hiring 
+	1. Define the term, RFP and very briefly explain how the RFP process is used for hiring 
 	contractors.
 	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
 	first seven (7) paragraphs from page one (1) of this document into English. These paragraphs are very 
@@ -112,6 +112,8 @@ What is the role of government?
 
 Social democracies vs Other Democracies
 	Sweden, Norway, Denmark, The Netherlands, Canada
+					vs
+	England, France, USA, Mexico, Germany
 
 
 Sen, "Development as Freedom"
@@ -198,11 +200,10 @@ Miss Violet
 	Contracts
 
 ** Economics Docs 2
-	More Sen
 	Herman Daly
 	
 ** Bless Me, Ultima
-	Chapter 3, Chapter 4
+	Ch.s 5, 6, 7
 	
 ** Murphy's
 	Phrasal verbs 2 in/out
