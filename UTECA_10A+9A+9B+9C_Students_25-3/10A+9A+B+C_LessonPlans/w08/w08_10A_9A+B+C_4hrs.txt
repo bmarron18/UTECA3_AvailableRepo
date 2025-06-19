@@ -21,9 +21,13 @@ HW_08 [Due: 03 Jul 2025]	<== 10A
 
 
 --- Task 1
-While David Ricardo is credited with the concept of free trade, as espoused through his ideas of competitive advantage, it was Miltom Friedman who extended and polished the concept leading to neoliberal policies of unilateral free trade.
+Translate "EXCERPT_EPA_Guidance-for-SOPs,pdf" into Spanish.
 
 --- Task 2
+While David Ricardo is credited with the concept of free trade, as espoused through his ideas of competitive advantage, it was Miltom Friedman who extended and polished the concept leading to the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993. Answer the following questions based on Daly's paper,
+1. 
+
+--- Task 3
 Read Chapter 5, Chapter 6, and Chapter 7 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
@@ -55,37 +59,47 @@ Sen big ideas
 		they are also among its principal means
 		==> there are mutually reinforcing connections between the freedoms of different kinds
 		
-Sen defines "unfreedoms"
-			economic poverty (no food, water, clothing, shelter, money)
-			lack of public facilities and social care (no health, education, security)
-			lack of political and civil liberties (restrictions on social, political and economic life)
-		
-
-Five distinct types of freedom, seen in an "instrumental" perspective:
+Sen defines "unfreedoms" and five distinct types of freedom:
 	(1) political freedoms
 	(2) economic facilities
 	(3) social opportunities
 	(4) transparency guarantees
 	{5) protective and transactional security
-	
+
+
 ** Bless Me, Ultima
+	Tony
+	Gabriel
+	Maria
+	Ultima
+	Narciso
+	
 
 
 
 --- New
 
 ** Legal Docs 3
-Work in the Real World: Contracts
+Work in the Real World: 
+	Contracts
+	SOPs
 
-Examples
+
+Examples (Contracts)
 	Anaconda_TOS_LICENSE.txt
 	BID_Contracts_MinorWorks.pdf
 	CFE_ModeloContrato.pdf
-	Syllabus_Contratos_Civiles.docx
-		
+	
+Examples (SOPs)
+	*EPA_Guidance-for-SOPs_g6-final.pdf
+	*KingsCollege_SOP-for-SOPs.pdf
+	1a_Ch3-G10-30GEN-R3.pdf
+	1c_Architectural_Guidelines.pdf
+	1h_Ch21-SOFT-Testing.pdf
+	BEC_Work_Sample_4
+
 	
 ** Economics Docs 3
-
 Daly, "The Perils of Free Trade"	
 
 
@@ -98,7 +112,7 @@ Daly, "The Perils of Free Trade"
 
 ** Bless Me, Ultima
 Chapter 3, Chapter 4
-	Read AI Summaries
+	Read highlights
 	Class reads answers to their questions
 
 		
@@ -107,8 +121,9 @@ Chapter 3, Chapter 4
 
 --- Coming up
 
-** Legal Docs 4
+** Science Docs 2
 
+** Legal Docs 4
 
 ** Economics Docs 4
 
