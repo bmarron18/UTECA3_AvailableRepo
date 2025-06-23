@@ -23,9 +23,26 @@ HW_08 [Due: 03 Jul 2025]	<== 10A
 --- Task 1
 Translate "EXCERPT_EPA_Guidance-for-SOPs,pdf" into Spanish.
 
---- Task 2
+---Task 2
 While David Ricardo is credited with the concept of free trade, as espoused through his ideas of competitive advantage, it was Miltom Friedman who extended and polished the concept leading to the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993. Answer the following questions based on Daly's paper,
-1. 
+	1. Daly notes that, at the time of writing the article, most if not all economists endorsed the idea of free trade, free trade being presumed good unless proven otherwise. Briefly, what is meant by the term, free trade? What is Daly's name for free trade?
+	2. How does Keynes see the relationship between national and international production?
+	3. What is the general economic argument used to promote free trade? From Daly's perspective what is the main flaw in this argument?
+	4. Daly calls free traders to task for agrandizing mathematical theories over ground-truthing. What does he mean by this?
+	5. What is the modern reality of capital that undermines and invalidates a fundamental premise of Ricardo's theory of comparitive advantage?
+	6. Daly notes that "for trade to be mutually beneÞcial, the gains must not be offset by higher liabilities." What are two obvious liabilities pointed out by Daly?
+	7. Why can the specialization required of free trade reduce in the range of occupational choices?
+	8. Again Daly calls free traders to task but this time for fundamental negligence. He notes that "the arguments for free trade run afoul of the three basic goals of all economic policies: the eÛcient allocation of resources, the fair distribution of resources and the maintenance of a sustainable scale of resource use. Explain how free trade violates each one of these three basic economic goals.
+	9. Free trade seems to fly under the banner, "Privatize the profits and externalize the costs." What does this slogan mean?
+	10. How can tariffs be used positively?
+	11. Do you think a binding, international legal system would help or hurt international trade?
+	12. Real wages for US nonsupervisory workers (i.e., employees, who make up about 80% of the US work force) have fallen 17 percent between 1973 and 1990. In large measure, the backlash from this brought Trump to office. What is the real reason for falling US wages according to Daly?
+	13. Daly delivers a scathing rebuke of NAFTA with regards to Mexico. What does he say? Were his predictions accurate? [Note: The policies of Earl Butz, Secretary of Agriculture under Presidents Nixon and Ford destroyed the American family farm.]
+	14. Daly argues that "the legitimate case for restrictions on labor immigration is therefore easily extended to restrictions on capital emigration." What does this mean?
+	15.
+	
+	
+	
 
 --- Task 3
 Read Chapter 5, Chapter 6, and Chapter 7 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
