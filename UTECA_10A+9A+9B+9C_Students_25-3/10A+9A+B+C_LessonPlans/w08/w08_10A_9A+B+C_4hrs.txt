@@ -21,7 +21,7 @@ HW_08 [Due: 03 Jul 2025]	<== 10A
 
 
 --- Task 1
-Translate the document, "05_EXCERPT_EPA_Guidance-for-SOPs,pdf" into Spanish.
+Translate the document, "05_EXCERPT_EPA_Guidance-for-SOPs.txt" into Spanish.
 
 ---Task 2
 While David Ricardo is credited with the concept of free trade, as espoused through his ideas of comparative advantage, it was Milton Friedman who extended and polished the concept. Friedman and the Chicago School of Economics have championed the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
@@ -74,7 +74,7 @@ Today
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Work together!!!!
+Work together on HW !!!!
 
 
 --- Review
@@ -102,7 +102,10 @@ Sen defines "unfreedoms" and five distinct types of freedom:
 	Maria
 	Ultima
 	Narciso
+	(Lupito)
 	Eugene, Andrew, Leon
+	
+	Horse and the Gang
 
 
 
@@ -111,17 +114,23 @@ Sen defines "unfreedoms" and five distinct types of freedom:
 ** Legal Docs 3
 Work in the Real World: 
 	Contracts
-	SOPs
-
-
-Examples (Contracts)
-	Anaconda_TOS_LICENSE.txt
-	BID_Contracts_MinorWorks.pdf
-	CFE_ModeloContrato.pdf
+		Examples (Contracts)
+			Anaconda_TOS_LICENSE.txt
+			BID_Contracts_MinorWorks.pdf
+			CFE_ModeloContrato.pdf
 	
+	
+	
+	SOPs --Read aloud / Note format organization of this document
+		EPA_Guidance-for-SOPs.pdf
+			1.0 INTRODUCTION
+			1.1	Overview
+			1.2	Purpose
+			1.3 Benefits
+			1.4 Writing Styles
+		
 Examples (SOPs)
-	*EPA_Guidance-for-SOPs_g6-final.pdf
-	*KingsCollege_SOP-for-SOPs.pdf
+	KingsCollege_SOP-for-SOPs.pdf
 	
 https://engstandards.lanl.gov/ESM_Chapters.shtml
 	1a_Ch3-G10-30GEN-R3.pdf
@@ -134,6 +143,7 @@ https://engstandards.lanl.gov/ESM_Chapters.shtml
 ** Economics Docs 3
 Read in class and try to answer questions --
 	Daly, "The Perils of Free Trade"	
+
 
 
 
