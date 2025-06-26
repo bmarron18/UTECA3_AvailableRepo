@@ -37,7 +37,7 @@ While David Ricardo is credited with the concept of free trade, as espoused thro
 	9. Free trade seems to fly under the banner, "Privatize the profits and externalize the costs." What does this slogan mean?
 	10. How can tariffs be used positively?
 	11. Do you think a binding, international legal system would help or hurt international trade?
-	12. Real wages for US nonsupervisory workers (i.e., employees) who make up about 80% of the US work force, have fallen 17 percent between 1973 and 1990. [Note: The Economic Policy Institute notes that while overall productivity in the US economy grew significantly from 1973 to 2013, the hourly compensation of production and nonsupervisory workers rose only 9%, compared to a 74% increase in productivity. This divergence between productivity growth and worker compensation is a key trend. In the decades following World War II, wages for the vast majority of workers grew roughly in line with productivity, but this changed after 1973. In large measure, the backlash from this trend brought Trump to office.] According to Daly, what is the realDo you think a binding, international legal system would help or hurt international trade? reason that US wages have fallen?
+	12. Real wages for US nonsupervisory workers (i.e., employees) who make up about 80% of the US work force, have fallen 17 percent between 1973 and 1990. [Note: The Economic Policy Institute notes that while overall productivity in the US economy grew significantly from 1973 to 2013, the hourly compensation of production and nonsupervisory workers rose only 9%, compared to a 74% increase in productivity. This divergence between productivity growth and worker compensation is a key trend. In the decades following World War II, wages for the vast majority of workers grew roughly in line with productivity, but this changed after 1973. In large measure, the backlash from this trend brought Trump to office.] According to Daly, what is the real reason that US wages have fallen? Do you think a binding, international legal system would help or hurt international trade? 
 	13. Daly delivers a scathing rebuke of NAFTA (the now expired North American Free Trade Agreement) with regards to corn production in Mexico. What does he say? Were his predictions accurate? [Note: The policies of Earl Butz, Secretary of Agriculture under Presidents Nixon and Ford destroyed the American family farm.]
 	14. Daly argues that "the legitimate case for restrictions on labor immigration is therefore easily extended to restrictions on capital emigration." What does this mean?
 	15. Like Steffen et al., Daly also uses a systems approach in defining the economy in relation to the biosphere. Look at the diagram on p.4. How does the definition of economy differ between neoclassical and steady-state (ecological) economics?
@@ -52,7 +52,6 @@ While David Ricardo is credited with the concept of free trade, as espoused thro
 
 --- Task 3
 Read Chapter 5, Chapter 6, and Chapter 7 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
-
 
 
 #############################################
@@ -142,7 +141,65 @@ https://engstandards.lanl.gov/ESM_Chapters.shtml
 	
 ** Economics Docs 3
 Read in class and try to answer questions --
-	Daly, "The Perils of Free Trade"	
+	Daly, "The Perils of Free Trade"
+
+NOTES---
+*deregulated international commerce
+
+*The main problem is not the logic of Ricardo's argument for comparative advantage. It is the relevance of Ricardo's critical but often forgotten assumption that factors of production (especially capital) are internationally immobile.
+(Figure p 52)
+
+
+
+*The free traders seek to maximize profits and production without regard for considerations that represent hidden social and environmental costs. They argue that when growth has made people wealthy enough, they will have the funds to clean up the damage done by growth.
+
+*our disciplinary preference for logically beautiful results over factually grounded policies has reached such fanatical proportions that we economists have become dangerous to the earth and its inhabitants.
+
+*For trade to be mutually beneficial, the gains must not be oÝset by higher liabilities:
+*Liabilities / Inefficiencies / Reduced Welfare 
+	-After specialization, nations are no longer free not to trade
+	-the cost of transporting with subsidized petroleum
+	-simultaneous import and export of essentially the same goods.
+	-reduction in the range of occupational choices.
+	
+*Free trade ALSO runs afoul of the three basic goals of all economic policies: 
+i.The efficient allocation of resources
+	-efficient allocation of resources depends on full cost acounting (internalization of ALL costs)
+	-competition can reduce costs in two ways: by increasing eÛciency or by lowering standards.
+	-free international trade encourages industries to shift their production activities to the countries 
+	that have the lowest standards of cost internalization -- hardly a move toward global efficiency
+
+
+ii.The fair distribution of resources
+	-If firms are free to relocate their capital internationally to wherever their production costs would 
+	be lowest, then the favored countries have not merely a comparative advantage but an absolute 
+	advantage (negates Ricardo)
+	- w/ external capital flow domestic employment diminishes, which drives down the price for domestic 
+	labor
+	- nor do labor in low-wage countries do not necessarily gain from free trade (US corn in Mexico!)
+	
+
+iii. The maintenance of a sustainable scale of resource use.
+	- the goal of a sustainable scale of total resource use forces us to ask : What will happen if the 
+	entire population of the earth consumes resources at the rate of high-wage countries? 
+	- The regenerative and assimilative capacities of the biosphere cannot support even the current 
+	levels of resource consumption, much less the manyfold increase required to generalize the higher 	
+	standards ("Growth fixes everything!")
+	
+*Multinational corps are the beneficiaries of free trade
+	- The broader the free trade area, the less answerable a large and footloose corporation will be to 
+	any local or even national community. Spatial separation of the places that suffer the costs and 
+	enjoy the benefits becomes more feasible.
+
+* The limiting factor on future economic growth has changed. If man-made and natural capital were good substitutes for one another, then natural capital could be totally replaced. The two are complementary, however, which means that the short supply of one imposes limits. What good are fishing boats without populations of fish?
+
+
+
+* In the steady-state view, the economy is only one component of a larger ecosystem in which materials are transformed and energy is converted to heat. As the economy grows larger, its behavior must conform more closely to that of the total (Earth) ecosystem. What will happen if the entire population of the earth consumes resources at the rate of high-wage countries?
+(Figure p 54)
+
+* Unlimited economic growth is impossible ergo development must be redefined. Also full cost accounting must be required for all nations and corporations. 
+
 
 
 ** More Murphy's English Grammar in Use
