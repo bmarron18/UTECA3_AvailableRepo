@@ -224,16 +224,15 @@ Diario Oficial de la Federacion
 Justia
 		https://mexico.justia.com/
 		https://mexico.justia.com/federales/leyes/ley-organica-del-poder-judicial-de-la-federacion/
-		255	Ley Orgánica del Poder Judhttps://www.singulart.com/blog/es/2023/11/09/obras-famosas-de-ansel-adams/?srsltid=AfmBOooGDh0NOdxN2BNwhYpLjhwyGvLud-nry6AFI65kasIS8wLuUdGricial de la Federación (PJF)
+		255	Ley Orgánica del Poder Judicial de la Federación (PJF)
 
 
 Tesis Aisladas y Jurisprudencia
 	https://sjf2.scjn.gob.mx/busqueda-principal-tesis
-	
-		Las tesis aisladas y lChapter 1, Chapter 2a jurisprudencia son documentos que contienen criterios relevantes 
-		contenidos en las sentencias. Tesis aislada es un criterio de interpretación que orienta a los 
-		jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La jurisprudencia es 
-		obligatoria, mientras que la tesis aislada no lo es.
+		Las tesis aisladas y jurisprudencia son documentos que contienen criterios 
+		relevantes contenidos en las sentencias. Tesis aislada es un criterio de interpretación que 
+		orienta a los jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La 
+		jurisprudencia es obligatoria, mientras que la tesis aislada no lo es.
 
 Found here:
 	Content Docs
@@ -263,7 +262,7 @@ Axiom 2: All production carries an opportunity cost: To produce more of one thin
 	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
 	constrained by the resources tChapter 1, Chapter 2hey control.
 	
-		Corrollary 1: We do not all start in the same place in the economic race. Individuals may have 
+		Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
 		more or less resources under their control than others.
 
 

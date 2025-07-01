@@ -1,0 +1,34 @@
+##############
+EXCERPT
+01a_Shanahan_TalkingAboutLLMs
+##############################
+
+P.1
+As we build systems whose capabilities more and more resemble those of humans, it becomes increasingly tempting to anthropomorphize those systems, even though they work in ways that are fundamentally different than the way humans work.
+
+The advent of large language models (LLMs) such as Bert and GPT-2 was a game-changer for artificial intelligence (AI). Based on transformer architectures, comprising hundreds of billions of parameters, and trained on hundreds of terabytes of textual data, their contemporary successors such as GPT-3 Gopher, PaLM, and GPT-4 have given new meaning to the phrase “unreasonable effectiveness of data.” [i.e., Data alone should not be so effective] The effectiveness of these models is “unreasonable” (or, with the benefit of hindsight, somewhat surprising) in three inter-related ways. First, the performance of
+LLMs on benchmarks scales with the size of the training set (and, to a lesser degree, with model size). Second, there are qualitative leaps in capability as models scale. Third, a great many tasks that demand intelligence in humans can be reduced to next-token prediction with a sufficiently performant model. It is the last of these three surprises that is the focus of this article. That is, A great many tasks that demand intelligence in humans can be reduced to next-token prediction.
+
+p. 3-4
+[read all of the section, What LLMs Do and How They Work]
+
+p. 5
+A bare-bones LLM does not really know anything because all it does, at a fundamental level, is sequence prediction
+
+Turning an LLM into a question-answering system by embedding it in a larger system and using prompt engineering to elicit the required behavior exemplifies a pattern found in much contemporary work. In a similar fashion, LLMs can be used not only for question-answering, but also to summarize news articles, generate screenplays, solve logic puzzles, and translate between languages, among other things. There are two important takeaways here. First, the basic function of an LLM, namely to generate statistically likely continuations of word sequences, is extraordinarily versatile. Second, notwithstanding this versatility, at the heart of every such application is a model doing just that one thing—generating statistically likely continuations of word sequences.
+
+What is going on when a large language model is used to answer questions? First, it is worth noting that a bare-bones LLM is, by itself, not a conversational agent. For a start, the LLM must be embedded in a larger system to manage the turn-taking in the dialog. But it will also need to be coaxed into producing conversation-like behavior. Recall that an LLM simply generates sequences of words that are statistically likely follow-ons.
+
+In the background, the LLM is invisibly prompted with a prefix along the lines of the user's query. This is known as a dialog prompt (in quotes).
+	"This is a conversation between User, a human, and BOT, a clever and knowledgeable AI Agent:
+	User: What is 2+2?
+	BOT: The answer is 4.
+	User: Where was Albert Einstein born?
+	BOT: He was born in Germany."
+	User (Alice): What country is south of Rwanda? 	<== the actually user query
+
+Dialog is just one application of LLMs that can be facilitated by the judicious use of prompt prefixes. In a similar way, LLMs can be adapted to perform numerous tasks without further training. This has led to a whole new category of AI research, namely prompt engineering.
+
+p.6
+What about Emergence? Contemporary LLMs are so powerful, versatile, and useful that the argument above might be difficult to accept (i.e., that LLMs do not have beliefs or knowledge). Exchanges with state-of-the-art LLM-based conversational agents, such as ChatGPT, are so convincing, it is hard to not to anthropomorphize them. Could it be that something more complex and subtle is going on here? After all, the overriding lesson of recent progress in LLMs is that extraordinary and unexpected capabilities emerge when big enough models are trained on very large quantities of textual data.
+

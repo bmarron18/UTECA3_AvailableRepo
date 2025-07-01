@@ -144,7 +144,7 @@ Read in class and try to answer questions --
 	Daly, "The Perils of Free Trade"
 
 NOTES---
-*deregulated international commerce
+*free trade == deregulated international commerce
 
 *The main problem is not the logic of Ricardo's argument for comparative advantage. It is the relevance of Ricardo's critical but often forgotten assumption that factors of production (especially capital) are internationally immobile.
 (Figure p 52)
@@ -178,7 +178,6 @@ ii.The fair distribution of resources
 	labor
 	- nor do labor in low-wage countries do not necessarily gain from free trade (US corn in Mexico!)
 	
-
 iii. The maintenance of a sustainable scale of resource use.
 	- the goal of a sustainable scale of total resource use forces us to ask : What will happen if the 
 	entire population of the earth consumes resources at the rate of high-wage countries? 
