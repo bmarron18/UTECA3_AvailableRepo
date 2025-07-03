@@ -17,17 +17,11 @@ Grupo:			9A+B+C
 
 #####################
 HW_10 [Due: 15 Jul 2025]	<== 9A+B+C
-HW_10 [Due: 18 Jul 2025]	<== 10A
+HW_10 [Due: 17 Jul 2025]	<== 10A
 
 
 --- Task 1
-Read Chapter 8, Chapter 9, Chapter 10, and Chapter 11 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
-
---- Task 2
-
---- Task 3
-
-
+Read Chapter 11 and Chapter 12 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
 #############################################
@@ -38,17 +32,39 @@ Today
 #######
 
 ---- Open
-		Exam 2P
+
 
 
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+--- Review
+Exam 2P prep / review
+
+
+--- New
+
+** More Murphy's English Grammar in Use
+	Unit			Pg
+	140				280		Phrasal verbs 4 on/off		
+	141				282		Phrasal Verbs 5 on/off (2)
+	142				284		Phrasal verbs 6 up / down
+	
+** Bless Me, Ultima
+Chapter 5, Chapter 6,  Chapter 7
+	Silent reading answers to questions
+
+
+** Exam 2P (last two hrs)
+
+
+
 --- Coming up (w11)
 
-AI API-based translation in Google
-Python
+AI and Large Language Models
+AI API-based translation (Python)
 
 ** Science Docs
 
@@ -56,11 +72,9 @@ Python
 ** Legal Docs
 	Something here
 
-** Economics Docs
-
 	
 ** Bless Me, Ultima
-	Chapter 8 - 11
+	Chapters 8 - 11
 
 	
 

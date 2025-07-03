@@ -17,7 +17,7 @@ Grupo:			9A+B+C
 
 #####################
 HW_09 [Due: 15 Jul 2025]	<== 9A+B+C
-HW_09 [Due: 18 Jul 2025]	<== 10A
+HW_09 [Due: 17 Jul 2025]	<== 10A
 
 EXTRA TIME
 --- Task 1
@@ -48,6 +48,16 @@ Study for Exam 2P
 
 #############################################
 
+2 July 2025---
+Hoy hay otra a las 4 de la tarde, me preguntaba si podría llevar al grupo de 9.A para que participen en los stands…
+
+ah ok...pues, hoy estamos haciendo un repaso por el examen 2P y tambien voy a dar tiempo a los alumnos para q se completan las tareas q se faltan....de mi parte esta bien....vamos a dejar los alumnos decidir lo q quisieran hacer
+ gracias avisarme!
+ 
+ Feria de Cuentas de Terminología
+📍 Martes – 9A de 6 a 9 pm | Salón 204
+📍 Miércoles – 9C de 4 a 6 pm | Salón 308
+📍 Jueves – 9B de 5 a 8 pm | Salón 308
 
 #######
 Today
@@ -60,13 +70,7 @@ Today
 			--- Kingman Brewster, Jr. (American educator, academic and diplomat. He served as the 17th 											President of Yale University)
 
 
-
-
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Feria de Cuentas de Terminología
-📍 Martes – 9.A de 6 a 9 pm | Salón 204
-📍 Miércoles – 9.C de 4 a 6 pm | Salón 308
-📍 Jueves – 9.B de 5 a 8 pm | Salón 308
 
 
 --- Review
@@ -79,7 +83,7 @@ Exam 2P prep
 ** More Murphy's English Grammar in Use
 	Unit			Pg 
 	139				278		Phrasal Verbs 3 out
-	140				280		Phrasal verbs 4 on/off
+
 
 ** Bless Me, Ultima
 Chapter 5, Chapter 6,  Chapter 7
@@ -100,7 +104,7 @@ Chapter 5, Chapter 6,  Chapter 7
 		analogy to comparable areas of decided law.
 		
 		Civil law, as a legal system, refers to a 
-		popular way of structuring legal systems around broad codes and detailed statutes that determines 
+		popular way of structuring legal systems around broad codes and detailed statutes that determine 
 		the rights and obligations of individuals, without emphasis on the role of precedent, courts, 
 		judges, and juries as in common law countries. Civil law countries typically are characterized by 
 		their emphasis on the codified law only with judges playing the main role of finding the facts 
@@ -140,7 +144,7 @@ Axiom 1: As a society, our resources—land, labor, and capital—are insufficie
 Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
 		
 	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
-	constrained by the resources tChapter 1, Chapter 2hey control.
+	constrained by the resources they control.
 	
 		Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
 		more or less resources under their control than others.
@@ -201,7 +205,7 @@ Five distinct types of freedom, seen in an "instrumental" perspective:
 		criteria, and timeline for proposals. Vendors respond with a proposal.
 	
 	
-	SOP (Standard Operating Proposal)
+	SOP (Standard Operating Procedure)
 		A Standard Operating Procedure (SOP) is a set of written instructions that document a
 		routine or repetitive activity followed by an organization. The development and use of SOPs are
 		an integral part of a successful quality system as it provides individuals with the information
@@ -224,7 +228,7 @@ NOTES on Daly---
 
 *our disciplinary preference for logically beautiful results over factually grounded policies has reached such fanatical proportions that we economists have become dangerous to the earth and its inhabitants.
 
-*For trade to be mutually beneficial, the gains must not be oÝset by higher liabilities:
+*For trade to be mutually beneficial, the gains must not be offset by higher liabilities:
 *Liabilities / Inefficiencies / Reduced Welfare 
 	-After specialization, nations are no longer free not to trade
 	-the cost of transporting with subsidized petroleum
@@ -234,7 +238,7 @@ NOTES on Daly---
 *Free trade ALSO runs afoul of the three basic goals of all economic policies: 
 i.The efficient allocation of resources
 	-efficient allocation of resources depends on full cost acounting (internalization of ALL costs)
-	-competition can reduce costs in two ways: by increasing eÛciency or by lowering standards.
+	-competition can reduce costs in two ways: by increasing effciency or by lowering standards.
 	-free international trade encourages industries to shift their production activities to the countries 
 	that have the lowest standards of cost internalization -- hardly a move toward global efficiency
 
@@ -245,14 +249,14 @@ ii.The fair distribution of resources
 	advantage (negates Ricardo)
 	- w/ external capital flow domestic employment diminishes, which drives down the price for domestic 
 	labor
-	- nor do labor in low-wage countries do not necessarily gain from free trade (US corn in Mexico!)
+	- labor in low-wage countries does not necessarily gain from free trade (US corn in Mexico!)
 	
 iii. The maintenance of a sustainable scale of resource use.
 	- the goal of a sustainable scale of total resource use forces us to ask : What will happen if the 
 	entire population of the earth consumes resources at the rate of high-wage countries? 
 	- The regenerative and assimilative capacities of the biosphere cannot support even the current 
 	levels of resource consumption, much less the manyfold increase required to generalize the higher 	
-	standards ("Growth fixes everything!")
+	standards ("Growth fixes everything!" Not.)
 	
 *Multinational corps are the beneficiaries of free trade
 	- The broader the free trade area, the less answerable a large and footloose corporation will be to 
@@ -269,7 +273,7 @@ iii. The maintenance of a sustainable scale of resource use.
 
 
 7
-	Summary of Bless Me, Ultima (up thru Ch. 7))
+	Summary of Bless Me, Ultima (up thru Ch. 7)
 
 
 

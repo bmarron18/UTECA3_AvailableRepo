@@ -16,16 +16,16 @@ Grupo:			9A+B+C
 
 
 #####################
-HW_11 [Due: 22 Jul 2025]	<== 9A+B+C
-HW_11 [Due: 24 Jul 2025]	<== 10A
+HW_12 [Due: 29 Jul 2025]	<== 9A+B+C
+HW_12 [Due: 31 Jul 2025]	<== 10A
 
 
 --- Task 1
-LLM task
+
 
 
 --- Task 2
-Read Chapter 13, Chapter 14, and Chapter 15 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+Read Chapter 16, Chapter 17, Chapter 18, Chapter 19 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
 
@@ -47,33 +47,38 @@ Today
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Go over 2P exam
-
 --- Review
 
+** LLMs
+
+**
+
+**
 
 --- New
 
-
-** More Murphy's English Grammar in Use
-	Unit			Pg 
 	
+** More Murphy's English Grammar in Use
+	Unit			Pg
+	
+	
+** Law
 
-** Science
-	Shanahan_TalkingAboutLLMs
-	Balhorn_etal_ChatGPT’_natural-science_and_engineering
-	Leiter_etal_Metrics_MachineTranslation
 
 
 ** Bless Me, Ultima
-Chapter 8, Chapter 9, Chapter 10, Chapter 11, Chapter 12
+Chapter 13, Chapter 14, Chapter 15
 	Read highlights
 	Class reads answers to questions
 
-
+** 
 
 
 --- Coming up
+
+** Law
+
+** Science
 
 
 
