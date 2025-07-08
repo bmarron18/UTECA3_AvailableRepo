@@ -2,6 +2,13 @@
 #########
 All HW 3P
 #########
+HW_10 [Due: 15 Jul 2025]	<== 9A+B+C
+HW_10 [Due: 17 Jul 2025]	<== 10A
+
+--- Task 1
+Read Chapter 11 and Chapter 12 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
 HW_09 [Due: 15 Jul 2025]	<== 9A+B+C
 HW_09 [Due: 17 Jul 2025]	<== 10A
 
