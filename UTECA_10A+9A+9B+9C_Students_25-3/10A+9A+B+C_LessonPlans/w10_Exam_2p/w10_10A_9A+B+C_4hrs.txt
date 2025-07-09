@@ -16,7 +16,7 @@ Grupo:			9A+B+C
 
 
 #####################
-HW_10 [Due: 15 Jul 2025]	<== 9A+B+C
+HW_10 [Due: 16 Jul 2025]	<== 9A+B+C
 HW_10 [Due: 17 Jul 2025]	<== 10A
 
 
@@ -38,8 +38,13 @@ Today
 	unchanging body of information."
 					--- AI Overview (Google)
 
+dialectic
+	the art of investigating or discussing the truth of opinions
+	inquiry into metaphysical contradictions and their solutions
+
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 --- Review
@@ -84,6 +89,11 @@ Study for Exam 2P
 
 --- New
 
+BMU ch 10 and 11 will be added for next week
+Final will be a take home: critique of BMU
+AI next week
+
+
 zone out
 make out
 pig out
@@ -98,7 +108,7 @@ pig out
 
 ** Bless Me, Ultima
 	Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima:
-	The Dialectics of Knowledge
+	The Dialectics of Knowledge by Enrique Lamadrid
 
 The Dialectics of Knowledge
 	In essence, the dialectics of knowledge provides a framework for understanding knowledge as a complex, 
@@ -113,22 +123,28 @@ The Dialectics of Knowledge
 
 
 Mythical realism (cf. magical realism)
-	myth, the collective interpretation of the contradictions in the historicaland ecological experience of a 
+	myth, the collective interpretation of the contradictions in the historical and ecological experience of a 
 	people.
 	
+Problem Statement and Thesis
 	Anaya penetrates deeply the mythical conscience of the reader through the relationship of Ultima 
-	(sorceress) and Antonio (aprentice). How does he do it?
+	(sorceress) and Antonio (apprentice). How does he do it?
 	
 	something exceptional about the emerging consciousness of the boy...mystically harmonious with nature 
 	but a dynamic, even dialectical awareness of historical forces....invite a reexamination of the relation of 
 	myth and social consciousness, often considered antithetical incompatible categories that undermine and 
 	erode each other....the novel apparently transcends this impasse
 	
+	Despite their enthusiasm for his novel, critics have thus far been unable to define the parameters of this 
+	response nor prove the reason for its depth
+	
 	What is proposed here is a more dynamic critical approachto myth which goes beyond scholasticism and the 
 	tracing of classical mythologies. Myth is here considered to be an ongoing process of interpreting and 
-	mediating the contradictionsin the everyday historical experience of the people. 
+	mediating the contradictions in the everyday historical experience of the people. At the novel's heart is
+	the process which generates social and historical consciousness.
 	
-Ultima and Antonio
+	
+Ultima and Antonio as the Constructs of the Thesis
 	the ultimate focus is not that Ultima is the repository of an ancient system of knowledge nor the usual 
 	supernatural feats of a curandera.....it is her role as a cultural mediator and Antonio's natural 
 	inclination towards a similar calling that link them to their real power...the ability to recognize and 
@@ -149,10 +165,11 @@ Ultima and Antonio
 
 --- Coming up (w11)
 
-AI and Large Language Models
-AI API-based translation (Python)
+
 
 ** Science Docs
+AI and Large Language Models
+AI API-based translation (Python)
 
 	
 ** Legal Docs

@@ -2,7 +2,7 @@
 #########
 All HW 3P
 #########
-HW_10 [Due: 15 Jul 2025]	<== 9A+B+C
+HW_10 [Due: 16 Jul 2025]	<== 9A+B+C
 HW_10 [Due: 17 Jul 2025]	<== 10A
 
 --- Task 1
