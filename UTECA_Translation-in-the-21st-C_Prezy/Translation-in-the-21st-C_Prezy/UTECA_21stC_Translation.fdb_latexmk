@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1751771903 "UTECA_21stC_Translation.tex" "UTECA_21stC_Translation.pdf" "UTECA_21stC_Translation" 1751771905
+["pdflatex"] 1752605068 "UTECA_21stC_Translation.tex" "UTECA_21stC_Translation.pdf" "UTECA_21stC_Translation" 1752605070
   "/etc/texmf/web2c/texmf.cnf" 1685675355 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/local/share/texmf/tex/latex/nicefrac/nicefrac.sty" 1606787429 4029 0462ee5ab265cf59dc15a41a3b883101 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -265,10 +265,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1606190069 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1713715783 1405651 a0ca9aded086e68e91f514c7e970c88b ""
-  "UTECA_21stC_Translation.aux" 1751771905 10302 71b309b05859c714cf469aaddc9a4680 "pdflatex"
-  "UTECA_21stC_Translation.nav" 1751771905 6319 ed3ff3289753079f10341b63ddcbcd0b "pdflatex"
-  "UTECA_21stC_Translation.out" 1751771905 2456 2eaa9d4d77f607c28f30c5eaacc601a8 "pdflatex"
-  "UTECA_21stC_Translation.tex" 1751771903 24361 b8ad5094e55ac33944c5c0cdec7b6a16 ""
+  "UTECA_21stC_Translation.aux" 1752605070 10302 71b309b05859c714cf469aaddc9a4680 "pdflatex"
+  "UTECA_21stC_Translation.nav" 1752605070 6319 ed3ff3289753079f10341b63ddcbcd0b "pdflatex"
+  "UTECA_21stC_Translation.out" 1752605070 2456 2eaa9d4d77f607c28f30c5eaacc601a8 "pdflatex"
+  "UTECA_21stC_Translation.tex" 1752605068 24387 e5dfd732fed00814f3f95929eeab43db ""
   "graphics/Anaconda.png" 1736444196 58543 401dfd8146e7efb3b2ea7bd9870bb83d ""
   "graphics/Google_1.png" 1736435908 122818 89eb894c2eba56d644e74aef9fb2abb4 ""
   "graphics/HotEarth_Google.png" 1734552916 108885 cd59e4c47af0cb980ea8f29ae80d61a6 ""

@@ -226,7 +226,7 @@ Human Language Translators + AI}
 \textbf{API}  &   &    Application Programming Interface\\
 \textbf{SDK} &    &    Software Development Kit\\
 \textbf{IDE } &   &    Integrated Development Environment\\
-\textbf{MIME} &  & Multipurpose Internet Mail Extension; type of file format \\
+\textbf{MTPE} &  & Machine Translation Post-Editing\\
 \end{tabular}
 \end{table}
 
@@ -628,11 +628,11 @@ google-cloud-sdk and google-cloud-translate}
 
 \begin{textblock}{1}(.05,.3)
 \begin{description}
-  \item [Learn Python] The world's Python resources are huge! Anaconda is an open ecosystem for
-sourcing, building, and deploying data science and AI initiatives. Spyder is a solid IDE.
+  \item [Learn Python] The world's programming language! Anaconda is a great (and free) distribution. Spyder is a solid IDE.
+  \item [Master prompt engineering] Take a class and build a prompt library
   \item [Apply for a Google Cloud Account] Trial account gives you 6000 MXN and 90 days
   \item [Learn Google Cloud Client Libraries] google-cloud-sdk and google-cloud-translate to start
-  \item [Begin translating with Google's API for Python!]
+  \item [Begin translating with Google's API using Python!]
 \end{description}
 
 \end{textblock}

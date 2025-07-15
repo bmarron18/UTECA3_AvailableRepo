@@ -87,6 +87,30 @@ Today
 
 Go over 2P exam
 
+
+"unfreedoms"
+			economic poverty (no food, water, clothing, shelter, money)
+			lack of public facilities and social care (no health, education, security)
+			lack of political and civil liberties (restrictions on social, political and economic life)
+		
+Substantive freedoms are:
+	economic opportunities
+	political liberties
+	social powers
+	good health
+	basic education
+	encouragement and cultivation of initiatives
+	liberty to participate in social choice
+	liberty to participate in the making of public decisions
+	
+Five distinct types of freedom, seen in an "instrumental" perspective:
+	(1) political freedoms
+	(2) economic facilities
+	(3) social opportunities
+	(4) transparency guarantees
+	{5) protective security
+
+
 --- Review
 
 
@@ -95,6 +119,9 @@ Go over 2P exam
 ** Science -- AI and LLMs
 
 Translation in the 21 C... go thru prezy
+
+
+
 
 In class reading---
 Shanahan_TalkingAboutLLMs
