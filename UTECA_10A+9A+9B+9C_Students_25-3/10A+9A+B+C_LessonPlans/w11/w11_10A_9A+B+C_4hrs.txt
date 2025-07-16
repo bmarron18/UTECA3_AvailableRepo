@@ -89,9 +89,9 @@ Go over 2P exam
 
 
 "unfreedoms"
-			economic poverty (no food, water, clothing, shelter, money)
-			lack of public facilities and social care (no health, education, security)
-			lack of political and civil liberties (restrictions on social, political and economic life)
+		economic poverty (no food, water, clothing, shelter, money)
+		lack of public facilities and social care (no health, education, security)
+		lack of political and civil liberties (restrictions on social, political and economic life)
 		
 Substantive freedoms are:
 	economic opportunities
