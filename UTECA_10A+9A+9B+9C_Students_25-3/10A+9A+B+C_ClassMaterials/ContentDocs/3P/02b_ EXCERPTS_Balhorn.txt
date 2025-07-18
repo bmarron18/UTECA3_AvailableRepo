@@ -8,6 +8,19 @@ Abstract ---
 
 Introduction  ---
 	All
+	
+Discussion ---
+	All
+
+In conclusion, our assessment shows that ChatGPT answers scientific questions from various domains in
+advanced academic English and that its answers are between partly and mostly correct. However, these capa-
+bilities come with limitations. Most importantly, we perceive a lack of critical reflection in the answers from
+ChatGPT. In addition, the output from ChatGPT must be taken cautiously to avoid ethical pitfalls and potential
+negative consequences in real-world applications.
+
+
+
+
 
 Methods ---
 
@@ -23,5 +36,3 @@ Collection of answers from ChatGPT through Python
 	
 Table 1.  Assessment rubric with criteria sorted by skill categories. For each assessment criteria, the answer is scored between 1 (poor performance) and 5 (excellent performance). The average assessment from participants across the three educational levels is highlighted in bold font. Note that each row also has the assessment option “not applicable”.
 
-Discussion ---
-	All
