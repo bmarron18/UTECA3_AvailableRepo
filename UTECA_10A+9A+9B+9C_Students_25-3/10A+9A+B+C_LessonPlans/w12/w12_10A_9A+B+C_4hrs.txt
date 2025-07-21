@@ -29,11 +29,23 @@ Read Chapter 16, Chapter 17, Chapter 18, Chapter 19 of "Bless Me, Ultima." Selec
 
 
 
-
-
-
-
 #############################################
+all students--
+CEO Rodrigo Vargas
+Pablo Cruz – Actor de "Sin querer queriendo", "Las Viudas de los Jueves"
+José Ramón Zavala – Conductor de "Autos y más"
+Marketeatro
+Coahuila 105, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
+Se suspenderán clases el martes 22 de julio de las 10AM hasta las 2PM. 
+Clases que se den antes y después de ese horario se impartirán de forma normal.
+
+all INT 9no---
+📅 Martes 22 de julio
+🕔 17:00 hrs
+Pablo Uranga, intérprete y traductor profesional
+trabaja en el sistema migratorio estadounidense
+ 
+
 
 
 #######
@@ -53,7 +65,42 @@ Today
 
 --- New
 
-AI 2027
+** AI 2027
+
+** AI and Rersponsibility
+A. Active Responsibility
+	forward-looking; concerns the goals, values, and (legal) norms that agents (such as engineers) are 
+	supposed to promote and comply with as well as the consequences they need to prevent and avoid; the legal 
+	duty to provide high standards of safety; so-called corporate social responsibility of companies
+	
+	1, Active Responsibility Gap
+		the risk that persons designing, using, and interacting with AI may not be sufficiently aware, capable, 
+		and motivated to see and act according to their moral obligations towards the behaviour of the systems 
+		they design, control, or use. In particular,this gap concerns the obligation to ensure that these 
+		systems do not impact negatively on the rights and interests of other persons and, ideally, positively 
+		contribute to their well-being instead.
+	
+B. Passive Responsibility
+	backward-looking; concerns the moral and legal consequences agents must face in case something goes 
+	wrong.
+	
+	1. Moral Accountability Gap
+		the reduction of human agents’ capacity to make sense of – and explain to each other (ie to other 
+		humans) the “logic” of their behaviour, due to the mediation (ie the interposition) of opaque, 
+		unexplainable AI algorithms and complex autonomous systems and/or the lack of appropriate 
+		psychological, social incentives or institutional spaces that promote these explanations.
+		
+		the difficulty for engineers and other agents involved in
+the process of technological development to systematically discuss with one another
+their understanding of the goal and meaning of this process.
+	
+	2.	Culpability Gap
+		the risk that no human agent might be legitimately blamed or held culpable for the unwanted outcomes of 
+		actions mediated by AI systems
+	
+	3. Public Accountability Gap
+		citizens not being able to get an explanation for decisions taken by public agencies
+	
 
 
 	
@@ -76,9 +123,7 @@ Chapter 11, 12, 13, 14, 15
 
 --- Coming up
 
-** Law
-
-** Science
+** Marrons Tips for Consulting
 
 
 
