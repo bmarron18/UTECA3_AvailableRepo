@@ -1,71 +1,7 @@
-							LESSON PLAN  (4 hrs -40 min)
-
-Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés X
-Curso:			IT1044
-Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
-
-Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés IX
-Curso:			IT0939
-Licenciatura: 	Interpretación y Traducción
-Grupo:			9A+B+C
-
-
-#####################
-HW_12 [Due: 29 Jul 2025]	<== 9A+B+C
-HW_12 [Due: 31 Jul 2025]	<== 10A
-
-
---- Task 1
-
-
-
---- Task 2
-Read Chapter 16, Chapter 17, Chapter 18, Chapter 19 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
-
-
-
-#############################################
-all students--
-CEO Rodrigo Vargas
-Pablo Cruz – Actor de "Sin querer queriendo", "Las Viudas de los Jueves"
-José Ramón Zavala – Conductor de "Autos y más"
-Marketeatro
-Coahuila 105, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX
-Se suspenderán clases el martes 22 de julio de las 10AM hasta las 2PM. 
-Clases que se den antes y después de ese horario se impartirán de forma normal.
-
-all INT 9no---
-📅 Martes 22 de julio
-🕔 17:00 hrs
-Pablo Uranga, intérprete y traductor profesional
-trabaja en el sistema migratorio estadounidense
- 
-
-
-
-#######
-Today
-#######
-
----- Open
-		
-
-
-
-%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
---- Review
-
-
-
---- New
-
-** AI 2027
+##############
+EXCERPT from
+05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf
+############################################
 
 ** AI and Rersponsibility
 
@@ -178,41 +114,3 @@ Tracking (i) requires that the socio-technical system – i.e. the whole combina
 values, reasons, and intentions of the relevant human agents.
 
 Tracing (ii) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify at least one human agent along the chain of design, development, and use that possesses both (i) sufficient knowledge of the capabilities and limitations of the system and (ii) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the alignment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.
-
-
-
-	
-** More Murphy's English Grammar in Use
-	Unit			Pg
-	142				284		Phrasal verbs 6 up / down
-	
-** Law
-
-
-
-** Bless Me, Ultima
-Chapters 8, 9, 10				<== Start here with 10A
-Chapter 11, 12, 13, 14, 15
-	Read highlights
-	Class reads answers to questions
-
-** 
-
-
---- Coming up
-
-** Marrons Tips for Consulting
-
-
-
----- Work time
-	
-
-
-
-
-
-
-
-
-
