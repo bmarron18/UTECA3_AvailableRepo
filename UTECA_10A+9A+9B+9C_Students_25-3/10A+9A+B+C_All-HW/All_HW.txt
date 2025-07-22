@@ -2,10 +2,29 @@
 #########
 All HW 3P
 #########
+
+HW_12 [Due: 30 Jul 2025] -- LAST ONE!	<== 9A+B+C
+HW_12 [Due: 31 Jul 2025] -- LAST ONE!  <== 10A
+--- Task 1
+Skim the paper 05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf and read 05b_EXCERPTS_ResponsibilityGaps_AI.txt. Answer the following questions regarding AI and responsibility:
+
+1. What is meant by the term, "responsibility gap" with regards to AI?
+2. Define the Culpability Gap and briefly explain why it matters.
+3. Define the Moral Accountability Gap and briefly explain why it matters.
+4. Define the Public Accountability Gap and briefly explain why it matters.
+5. Define the Active Responsibility Gap and briefly explain why it matters.
+6. What is the problem with "deflationist" solutions to AI responsibility gaps?
+7. What is the problem with ?technical solutionism? with respect to to AI responsibility gaps?
+8. What is the problem with ?legal solutionism? with respect to to AI responsibility gaps?
+9. Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
+
+--- Task 2
+Read Chapter 16, Chapter 17, Chapter 18, Chapter 19 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+
+
 HW_11 [Due: 23 Jul 2025]	<== 9A+B+C
 HW_11 [Due: 24 Jul 2025]	<== 10A
-
-
 --- Task 1
 Following the EXCERPT guides for each paper, read the appropriate sections in 
 	01a_Shanahan_TalkingAboutLLMs.pdf
@@ -46,7 +65,6 @@ Read Chapter 13, Chapter 14, and Chapter 15 of "Bless Me, Ultima." Select and an
 
 HW_10 [Due: 16 Jul 2025]	<== 9A+B+C
 HW_10 [Due: 17 Jul 2025]	<== 10A
-
 --- Task 1
 Read Chapter 11 and Chapter 12 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 

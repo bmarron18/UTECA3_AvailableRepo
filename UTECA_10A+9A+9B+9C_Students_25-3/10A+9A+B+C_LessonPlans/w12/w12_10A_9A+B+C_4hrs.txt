@@ -16,12 +16,32 @@ Grupo:			9A+B+C
 
 
 #####################
-HW_12 [Due: 29 Jul 2025]	<== 9A+B+C
-HW_12 [Due: 31 Jul 2025]	<== 10A
+
+Final Exam [Due: 12 Aug 2025]
+
+The final exam will be a take-home exam and will be due in hard copy format on 12 Aug 2025 during your regularly scheduled class at UTECA. The attached document provides all of the necessary information and detail to successfully complete the final exam. 
+
+Good luck and thank you for a wonderful term!
+
+----------------------------------------------------------------------------
+
+
+HW_12 [Due: 30 Jul 2025] -- LAST ONE!	<== 9A+B+C
+HW_12 [Due: 31 Jul 2025] -- LAST ONE!  <== 10A
 
 
 --- Task 1
+Skim the paper 05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf and read 05b_EXCERPTS_ResponsibilityGaps_AI.txt. Answer the following questions regarding AI and responsibility:
 
+1. What is meant by the term, "responsibility gap" with regards to AI?
+2. Define the Culpability Gap and briefly explain why it matters.
+3. Define the Moral Accountability Gap and briefly explain why it matters.
+4. Define the Public Accountability Gap and briefly explain why it matters.
+5. Define the Active Responsibility Gap and briefly explain why it matters.
+6. What is the problem with "deflationist" solutions to AI responsibility gaps?
+7. What is the problem with “technical solutionism” with respect to to AI responsibility gaps?
+8. What is the problem with “legal solutionism” with respect to to AI responsibility gaps?
+9. Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
 
 
 --- Task 2
@@ -53,6 +73,10 @@ Today
 #######
 
 ---- Open
+
+"Making judgments about whether a person is morally responsible for their behavior, and holding others and ourselves responsible for actions and the consequences of actions, is a fundamental and familiar part of our moral practices and our interpersonal relationships."
+		--- Stanford Encyclopedia of Philosophy, Moral Responsibility
+		(https://plato.stanford.edu/entries/moral-responsibility/ accessed on 21 June 2025)
 		
 
 
@@ -66,8 +90,14 @@ Today
 --- New
 
 ** AI 2027
+What do you think????
 
-** AI and Rersponsibility
+The alignment problem is a moral accountability problem.
+
+
+** AI and Responsibility
+Filippo Santoni de Sio and Giulio Mecacci in Philosophy & Technology (2021) 34:1057–1084
+"Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them"
 
 ---- The Problem Gaps in Responsibility with AI -------------------------------------------------
 Gaps appear in i) passive responsibility or the moral and legal consequences (human) agents must face in case something goes wrong. And gaps appear in ii) active responsibility or gaps in the goals, values, and legal norms that (human) agents (such as engineers) are supposed to promote and comply with, as well as the consequences they need to prevent and avoid (eg, the legal duty to provide high standards of safety).
@@ -116,7 +146,7 @@ Gaps appear in i) passive responsibility or the moral and legal consequences (hu
 	governing the system they are part of. 
 		Second, data-driven machine (deep) learning, due to its intrinsic opacity, might make a system’s 
 	behaviour extra hard to understand and explain.
-		Third, the whole process of technology development and production is arguably pervaded by an increasing 
+==>		Third, the whole process of technology development and production is arguably pervaded by an increasing 
 	pressure towards deploying proprietary technologies that, even when working through mechanisms 
 	accessible to their developers and programmers, are designed to be inaccessible to public scrutiny and 
 	the users themselves. Technology developers, driven by both the desire to minimise industrial espionage and 
@@ -156,8 +186,6 @@ Gaps appear in i) passive responsibility or the moral and legal consequences (hu
 4.  Active Responsibility Gap -- the risk that persons designing, using, and interacting with AI may not be sufficiently aware, capable, and/or motivated to see and act according to their moral obligations with respect to the behaviour of the systems they design, control, or use. In particular, this gap concerns the obligation to ensure that AI systems do not negatively impact the rights and interests of other persons and, ideally, ensure that such systems positively contribute to humanity's well-being.
 
 
-
-
 ----- Problems with Partial Fixes -----------------------------------------
 Common approaches that have so far been taken towards addressing responsibility gaps but that fall short
 
@@ -175,19 +203,19 @@ The authors' solution is to promote a legally, ethically, and societally accepta
 
 MHC requires that two conditions be satisfied: “tracking” and “tracing”. These two conditions must describe, respectively, i) the nature of the human-machine control relation (alignment with human goals, values, and intentions) and ii) the operational features of the human-machine control relation required to maintain human responsibility on the system (alignment of the system with the capacities of human agents).
 
-Tracking (i) requires that the socio-technical system – i.e. the whole combination of technical, AI, human, and organisational elements – is designed to demonstrably respond to the relevant reasons of the relevant agents and to the relevant facts in the environment. Tracking requires the alignment of the system with the
-values, reasons, and intentions of the relevant human agents.
+Tracking (i above) requires that the socio-technical system – i.e. the whole combination of technical, AI, human, and organisational elements – is designed to demonstrably respond to the relevant reasons of the relevant agents and to the relevant facts in the environment. Tracking requires the alignment of the system with the values, reasons, and intentions of the relevant human agents.
 
-Tracing (ii) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify at least one human agent along the chain of design, development, and use that possesses both (a) sufficient knowledge of the capabilities and limitations of the system and (b) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the alignment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.
+Tracing (ii above) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify at least one human agent along the chain of design, development, and use that possesses both (a) sufficient knowledge of the capabilities and limitations of the system and (b) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the alignment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.
+
 
 
 	
 ** More Murphy's English Grammar in Use
 	Unit			Pg
 	142				284		Phrasal verbs 6 up / down
-	
-** Law
 
+
+** Final Exam 
 
 
 ** Bless Me, Ultima
@@ -196,11 +224,10 @@ Chapter 11, 12, 13, 14, 15
 	Read highlights
 	Class reads answers to questions
 
-** 
-
 
 --- Coming up
 
+** Final Exam
 ** Marrons Tips for Consulting
 
 
