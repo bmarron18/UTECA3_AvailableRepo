@@ -16,21 +16,7 @@ Grupo:			9A+B+C
 
 
 #####################
-HW_13 [Due: 05 Aug 2025]	<== 9A+B+C
-HW_13 [Due: 07 Aug 2025]	<== 10A
-
-
---- Task 1
-
-
-
---- Task 2
-Read Chapter 20, Chapter 21, Chapter 22 of "Bless Me, Ultima." Begin drafting your critique of the novel which count as your final exam. Due Finals week
-
-
-
-
-
+NO HW
 
 
 #############################################
@@ -52,27 +38,37 @@ Today
 --- Review
 ** 3P exam full review
 
-**
-
-**
 
 --- New
 
+** Git and Version Control
+
+** Google API for Translation
+
+** Marron's Tips for Consulting
+
 ** More Murphy's English Grammar in Use
-	Unit			Pg 
-
-** Science
-
-** Law
+	Unit			Pg
+	112				224		even
+	113				226		although though even though in spite of despite
 	
 
 
+
+
 ** Bless Me, Ultima
-Chapter 16, Chapter 17, Chapter 18, Chapter 19
+Chapter 16
+	God is unfair (Tenorio and Narciso) (p 186)
+
+Chapter 17
+
+Chapter 18
+
+Chapter 19
 	Read highlights
 	Class reads answers to questions
 
-** Requiremts for critique of novel (final exam)
+
 
 
 --- Coming up

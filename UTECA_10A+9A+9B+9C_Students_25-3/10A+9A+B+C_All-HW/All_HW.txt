@@ -14,8 +14,8 @@ Skim the paper 05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf and read 05b_EXCERPTS
 4. Define the Public Accountability Gap and briefly explain why it matters.
 5. Define the Active Responsibility Gap and briefly explain why it matters.
 6. What is the problem with "deflationist" solutions to AI responsibility gaps?
-7. What is the problem with ?technical solutionism? with respect to to AI responsibility gaps?
-8. What is the problem with ?legal solutionism? with respect to to AI responsibility gaps?
+7. What is the problem with "technical solutionism" with respect to to AI responsibility gaps?
+8. What is the problem with "legal solutionism" with respect to to AI responsibility gaps?
 9. Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
 
 --- Task 2

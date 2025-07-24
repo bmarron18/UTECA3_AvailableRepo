@@ -9,8 +9,12 @@ If and Wish
 Reported Speech
 	47-48
 ***Phrasal Verbs
-	Units 137-145		++done U137 p274
-						++done U138 p276
+	Units 137-145		++done U137  
+						++done U138 
+						++done U139  
+						++done U140  
+						++done U141  
+						++done U142  
 
 
 present simple vs present continuous
@@ -82,8 +86,8 @@ misplaced modifiers
 **103
 105
 106
-**112
-**113
+**112		++ done
+**113		++ done
 *114
 118
 121
