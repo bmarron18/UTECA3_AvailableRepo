@@ -111,7 +111,7 @@ even punished for their behaviour.
 		
 	[See p.6; the example of automated driving systems (ADS)]
 		
-	The use of AI and data-driven machine learning in decision-making importantly introduces a new element of technical opacity and lack of explainability that makes it more difficult for individual persons to satisfy the traditional conditions for moral and legal culpability:  intention, foreseeability, and control.
+	The use of AI and data-driven machin4.  Active Responsibility Gap e learning in decision-making importantly introduces a new element of technical opacity and lack of explainability that makes it more difficult for individual persons to satisfy the traditional conditions for moral and legal culpability:  intention, foreseeability, and control.
 		
 	The more that persons designing, regulating, and operating an AI system can legitimately (and possibly  systematically) avoid blame for their wrong behaviour, the less these (human) agents will be incentivised to prevent these wrong behaviours. In fact, they will arguably have less incentives to strive for a high(er) level of safety, awareness, attention, motivation, and skilfulness.
 	
@@ -144,7 +144,7 @@ even punished for their behaviour.
 4.  Active Responsibility Gap -- the risk that persons designing, using, and interacting with AI may not be sufficiently aware, capable, and/or motivated to see and act according to their moral obligations with respect to the behaviour of the systems they design, control, or use. In particular, this gap concerns the obligation to ensure that AI systems do not negatively impact the rights and interests of other persons and, ideally, ensure that such systems positively contribute to humanity's well-being.
 
 
------ Problems with Partial Fixes --------------------------------------- <== 9C, 10A
+----- Problems with Partial Fixes --------------------------------------- <==  10A
 Common approaches that have so far been taken towards addressing responsibility gaps but that fall short
 
 1. “fatalists” ==> underestimate the extent of the responsibility gap; their focus is too limited.
@@ -163,7 +163,7 @@ MHC requires that two conditions be satisfied: “tracking” and “tracing”.
 
 Tracking (i above) requires that the socio-technical system – i.e. the whole combination of technical, AI, human, and organisational elements – is designed to demonstrably respond to the relevant reasons of the relevant agents and to the relevant facts in the environment. Tracking requires the ALIGNMENT of the system with the values, reasons, and intentions of the relevant human agents.
 
-Tracing (ii above) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify AT LEAST ONE HUMAN AGENT along the chain of design, development, and use that possesses both (a) sufficient knowledge of the capabilities and limitations of the system and (b) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the align4.  Active Responsibility Gap ment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.
+Tracing (ii above) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify AT LEAST ONE HUMAN AGENT along the chain of design, development, and use that possesses both (a) sufficient knowledge of the capabilities and limitations of the system and (b) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the alignment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.
 
 
 ** Final Exam 
@@ -178,12 +178,14 @@ Tracing (ii above) requires that the socio-technical system is designed so that 
 ** Bless Me, Ultima
 Chapter 8
 
-2. Moral Accountability Gap -- AI may make individual persons less able to understand, explain, and reflect upon their own and other (human) agents’ behaviour. Functional society has the expectation that people answer (at least some) why-questions from other persons.
 Chapter 9
 
 
-Chapter 10				<== Start here with 10A
-
+Chapter 10				
+	
+	"You must understand that when anybody, bruja or curandera, priest or sinner, tampers with the fate of a man that sometimes a chain of events is set into motion over which no one will have ultimate control. You must be willing to accept this responsibility."
+	Lucas and the Black Mass
+	The ritual of 
 
 
 Chapter 11
@@ -194,9 +196,10 @@ Chapter 11
 	"This whole town is sitting over a deep, underground lake! (p 118)
 	The Prophecy of the Golden Carp
 	You have been seeing only parts, she finished, and not looking beyond into the great cycle that binds us all. (p 121)
-	
+
+
 Chapter 12									
-	the three dolls on her shelf. (p 123)
+	the three dolls on her shelf (p 123)
 	She took her scapular (p 124)
 	The Good Old Days 
 	the huge figure of Narciso, the warning, the accusation, Tenorio, the Owl
