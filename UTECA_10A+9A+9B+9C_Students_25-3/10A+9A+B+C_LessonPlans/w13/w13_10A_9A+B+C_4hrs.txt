@@ -42,7 +42,7 @@ Today
 ** 3P exam full review
 
 
---- New
+--- New (all are in ReferenceDocs in Teams)
 
 ** Version Control (Git and GitHub)
 Class Materials
@@ -62,17 +62,19 @@ Class Materials
 1.4 Getting Started - The Command Line
 https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
 
+See this---
+	Linux_RapidWorkflow.txt
+
 
 ** Google API for Translation
-Workflow_gcloudAPI_NMT_GenTrans_WINDOWS-1_docs-pdf.py
-Workflow_gcloudAPI_NMT_GenTrans_LINUX_docs-pdf.py
+	Workflow_gcloudAPI_NMT_GenTrans_WINDOWS-1_docs-pdf.py
+	Workflow_gcloudAPI_NMT_GenTrans_LINUX_docs-pdf.py
+	
 
 
 
 
-** Marron's Tips for Consulting
-
-Marron's Rules for Consultants
+** Marron's Rules for Consultants
 -------------------------------
 	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
 	Remember, "God is in the details." (if you must break this rule, watermark every page of every document with the word, DRAFT and state in the transmittal that the draft was per client request)
@@ -112,7 +114,8 @@ The Deliverable(s):
 	Unit			Pg
 	112				224		even
 	113				226		although though even though in spite of despite
-	
+
+
 **
 Exam 3P -- Open Book
 T1
