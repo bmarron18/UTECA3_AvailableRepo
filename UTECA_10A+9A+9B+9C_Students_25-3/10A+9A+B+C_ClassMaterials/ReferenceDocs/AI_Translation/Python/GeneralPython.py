@@ -9,7 +9,7 @@ Created on Mon Dec 30 21:54:30 2024
 
 # %%
 
-List of methods/fxn in Google API
+# List of methods/fxn in Google API
 
 https://stackoverflow.com/questions/69964961/how-can-i-get-a-list-of-google-cloud-functions-using-google-python-client-for-cl
 
@@ -60,13 +60,15 @@ with chdir(path):
    # run a ;print to file code'
    # print to file two different ways
    # Changed TABS to 2 spaces
-   
+
+import os
 print(os.getcwd())
 
+
+# change directory for safety
 from contextlib import chdir
 with chdir('/home/bmarron/Desktop'):
   
-  import os
   import pprint
   
   data = {'a': [1, 2, 3], 'b': {'c': 4, 'd': 5}}
