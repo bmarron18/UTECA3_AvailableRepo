@@ -65,7 +65,7 @@ https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
 See this---
 	Linux_RapidWorkflow.txt
 
-a change!
+
 
 
 ** Google API for Translation
