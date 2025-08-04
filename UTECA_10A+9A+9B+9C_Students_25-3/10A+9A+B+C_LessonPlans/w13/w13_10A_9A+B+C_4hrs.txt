@@ -113,10 +113,11 @@ The Deliverable(s):
 
 
 
-** More Murphy's English Grammar in Use		<== DO both!!
+** More Murphy's English Grammar in Use		
 	Unit			Pg
-	112				224		even
-	113				226		although though even though in spite of despite
+	112				224		even	<== done
+	113				226		although though 	<== only 9C
+							even though in spite of despite
 
 
 **
@@ -129,12 +130,26 @@ T1
 T2
 	Explain i) the nature of an API, and ii) the nature of Python.
 	Briefly explain the concept of prompt engineering.
-	Bilingual evaluation understudy (BLEU) metric OR Metric for evaluation of translation with explicit ordering (METEOR). Select one of these metrics and briefly explain how it works.
+	Select one of these metrics and briefly explain how it works.
+		Bilingual evaluation understudy (BLEU) metric OR
+		Metric for evaluation of translation with explicit ordering (METEOR). 
 	
 T3
-	Briefly define what is meant by the Moral Accountability Gap?
-	Briefly define what is meant by the Public Accountability Gap?
-	Briefly explain the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC)
+	--Briefly define what is meant by the Moral Accountability Gap?
+	2. Moral Accountability Gap -- AI may make individual persons less able to understand, explain, and reflect upon their own and other (human) agents’ behaviour.  
+	AI contributes to the creation of a more complex chain of decision-making and action (the “problem of many hands”)
+	AI due to its intrinsic opacity, might make a system’s behaviour extra hard to understand and explain
+	AI technology development and production is arguably pervaded by an increasing pressure towards deploying proprietary technologies that, even when working through mechanisms accessible to their developers and programmers, are designed to be inaccessible to public scrutiny
+
+
+	--Briefly define what is meant by the Public Accountability Gap?
+	Citizens not being able to get an explanation for decisions taken by public agencies, politicians, civil servants, and other human agents invested with a public function bc gov´t has outsourced to private companies AND/OR bc AI is opaque
+
+
+	--Briefly explain the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC)
+	MHC requires that two conditions be satisfied: “tracking” and “tracing”.
+	Tracking: the nature of the AI human-machine relationship is well-defined (AI is aligned with human goals, values, and intentions)
+	Tracing: the AI human-machine relationship requires human control and responsibility at every step (there is someone who understands the AI system and has the authority to accept responsibility from design through deployment).
 
 
 
